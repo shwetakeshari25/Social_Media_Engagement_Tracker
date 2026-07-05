@@ -1,0 +1,4701 @@
+{
+  "users": [
+    {
+      "_id": "u_2yn3cwqjj",
+      "email": "shwetakeshrwani92@gmail.com",
+      "password": "$2a$10$xlSgyj58IlK7nuwI21vAUeLLO.Rn8j21JFRmqK8SFrW2vIpXr3.Vi",
+      "createdAt": "2026-07-04T10:15:52.060Z"
+    },
+    {
+      "_id": "u_z253u7axe",
+      "email": "happykeshrwani@gmail.com",
+      "password": "$2a$10$5WGqVX5Lw6nwfzjzaC.lRO6Y/yUo7dS/jT9ZVtVyd0kr8FV9Ef6PS",
+      "createdAt": "2026-07-04T11:35:36.403Z"
+    }
+  ],
+  "videos": [
+    {
+      "_id": "v_lwfo9g8v5",
+      "user": "u_2yn3cwqjj",
+      "url": "https://youtu.be/EiZZ1o76Pmo?si=L2W0vqo5OMHrN52P",
+      "platform": "YouTube",
+      "initialMetrics": {
+        "views": 200,
+        "likes": 20,
+        "comments": 5,
+        "shares": 2
+      },
+      "updatedMetrics": {
+        "views": 8032,
+        "likes": 212,
+        "comments": 8,
+        "shares": 3
+      },
+      "history": [
+        {
+          "views": 6448,
+          "likes": 181,
+          "comments": 8,
+          "shares": 3,
+          "timestamp": "2026-07-05T09:23:29.936Z"
+        },
+        {
+          "views": 6496,
+          "likes": 181,
+          "comments": 8,
+          "shares": 3,
+          "timestamp": "2026-07-05T09:24:00.008Z"
+        },
+        {
+          "views": 6582,
+          "likes": 185,
+          "comments": 8,
+          "shares": 3,
+          "timestamp": "2026-07-05T09:24:29.959Z"
+        },
+        {
+          "views": 6662,
+          "likes": 185,
+          "comments": 8,
+          "shares": 3,
+          "timestamp": "2026-07-05T09:25:00.007Z"
+        },
+        {
+          "views": 6764,
+          "likes": 185,
+          "comments": 8,
+          "shares": 3,
+          "timestamp": "2026-07-05T09:25:29.963Z"
+        },
+        {
+          "views": 6923,
+          "likes": 186,
+          "comments": 8,
+          "shares": 3,
+          "timestamp": "2026-07-05T09:25:59.979Z"
+        },
+        {
+          "views": 7002,
+          "likes": 186,
+          "comments": 8,
+          "shares": 3,
+          "timestamp": "2026-07-05T09:26:29.974Z"
+        },
+        {
+          "views": 7134,
+          "likes": 190,
+          "comments": 8,
+          "shares": 3,
+          "timestamp": "2026-07-05T09:26:59.986Z"
+        },
+        {
+          "views": 7208,
+          "likes": 190,
+          "comments": 8,
+          "shares": 3,
+          "timestamp": "2026-07-05T09:27:29.997Z"
+        },
+        {
+          "views": 7271,
+          "likes": 191,
+          "comments": 8,
+          "shares": 3,
+          "timestamp": "2026-07-05T09:28:00.067Z"
+        },
+        {
+          "views": 7413,
+          "likes": 199,
+          "comments": 8,
+          "shares": 3,
+          "timestamp": "2026-07-05T09:28:30.004Z"
+        },
+        {
+          "views": 7454,
+          "likes": 201,
+          "comments": 8,
+          "shares": 3,
+          "timestamp": "2026-07-05T09:29:00.005Z"
+        },
+        {
+          "views": 7581,
+          "likes": 203,
+          "comments": 8,
+          "shares": 3,
+          "timestamp": "2026-07-05T09:29:30.007Z"
+        },
+        {
+          "views": 7634,
+          "likes": 204,
+          "comments": 8,
+          "shares": 3,
+          "timestamp": "2026-07-05T09:30:00.009Z"
+        },
+        {
+          "views": 7650,
+          "likes": 204,
+          "comments": 8,
+          "shares": 3,
+          "timestamp": "2026-07-05T09:30:30.010Z"
+        },
+        {
+          "views": 7684,
+          "likes": 206,
+          "comments": 8,
+          "shares": 3,
+          "timestamp": "2026-07-05T09:31:00.033Z"
+        },
+        {
+          "views": 7743,
+          "likes": 207,
+          "comments": 8,
+          "shares": 3,
+          "timestamp": "2026-07-05T09:31:30.036Z"
+        },
+        {
+          "views": 7859,
+          "likes": 210,
+          "comments": 8,
+          "shares": 3,
+          "timestamp": "2026-07-05T09:32:00.053Z"
+        },
+        {
+          "views": 7937,
+          "likes": 212,
+          "comments": 8,
+          "shares": 3,
+          "timestamp": "2026-07-05T09:32:30.051Z"
+        },
+        {
+          "views": 8032,
+          "likes": 212,
+          "comments": 8,
+          "shares": 3,
+          "timestamp": "2026-07-05T09:33:00.062Z"
+        }
+      ],
+      "status": "active",
+      "lastUpdated": "2026-07-05T09:33:00.066Z",
+      "createdAt": "2026-07-04T10:16:01.783Z",
+      "title": "Rick Astley - Updated Title"
+    },
+    {
+      "_id": "v_q5o3klt66",
+      "user": "u_2yn3cwqjj",
+      "url": "https://youtu.be/EiZZ1o76Pmo?si=L2W0vqo5OMHrN52P",
+      "platform": "YouTube",
+      "initialMetrics": {
+        "views": 58743,
+        "likes": 4126,
+        "comments": 367,
+        "shares": 556
+      },
+      "updatedMetrics": {
+        "views": 116191,
+        "likes": 5507,
+        "comments": 367,
+        "shares": 556
+      },
+      "history": [
+        {
+          "views": 115095,
+          "likes": 5488,
+          "comments": 367,
+          "shares": 556,
+          "timestamp": "2026-07-05T09:23:29.949Z"
+        },
+        {
+          "views": 115119,
+          "likes": 5489,
+          "comments": 367,
+          "shares": 556,
+          "timestamp": "2026-07-05T09:24:00.039Z"
+        },
+        {
+          "views": 115241,
+          "likes": 5490,
+          "comments": 367,
+          "shares": 556,
+          "timestamp": "2026-07-05T09:24:29.970Z"
+        },
+        {
+          "views": 115384,
+          "likes": 5492,
+          "comments": 367,
+          "shares": 556,
+          "timestamp": "2026-07-05T09:25:00.047Z"
+        },
+        {
+          "views": 115432,
+          "likes": 5493,
+          "comments": 367,
+          "shares": 556,
+          "timestamp": "2026-07-05T09:25:29.970Z"
+        },
+        {
+          "views": 115466,
+          "likes": 5493,
+          "comments": 367,
+          "shares": 556,
+          "timestamp": "2026-07-05T09:26:00.037Z"
+        },
+        {
+          "views": 115530,
+          "likes": 5496,
+          "comments": 367,
+          "shares": 556,
+          "timestamp": "2026-07-05T09:26:29.982Z"
+        },
+        {
+          "views": 115557,
+          "likes": 5497,
+          "comments": 367,
+          "shares": 556,
+          "timestamp": "2026-07-05T09:27:00.059Z"
+        },
+        {
+          "views": 115672,
+          "likes": 5500,
+          "comments": 367,
+          "shares": 556,
+          "timestamp": "2026-07-05T09:27:30.003Z"
+        },
+        {
+          "views": 115685,
+          "likes": 5500,
+          "comments": 367,
+          "shares": 556,
+          "timestamp": "2026-07-05T09:28:00.101Z"
+        },
+        {
+          "views": 115720,
+          "likes": 5500,
+          "comments": 367,
+          "shares": 556,
+          "timestamp": "2026-07-05T09:28:30.010Z"
+        },
+        {
+          "views": 115732,
+          "likes": 5500,
+          "comments": 367,
+          "shares": 556,
+          "timestamp": "2026-07-05T09:29:00.020Z"
+        },
+        {
+          "views": 115758,
+          "likes": 5500,
+          "comments": 367,
+          "shares": 556,
+          "timestamp": "2026-07-05T09:29:30.013Z"
+        },
+        {
+          "views": 115791,
+          "likes": 5500,
+          "comments": 367,
+          "shares": 556,
+          "timestamp": "2026-07-05T09:30:00.026Z"
+        },
+        {
+          "views": 115813,
+          "likes": 5500,
+          "comments": 367,
+          "shares": 556,
+          "timestamp": "2026-07-05T09:30:30.016Z"
+        },
+        {
+          "views": 115956,
+          "likes": 5506,
+          "comments": 367,
+          "shares": 556,
+          "timestamp": "2026-07-05T09:31:00.041Z"
+        },
+        {
+          "views": 116013,
+          "likes": 5506,
+          "comments": 367,
+          "shares": 556,
+          "timestamp": "2026-07-05T09:31:30.042Z"
+        },
+        {
+          "views": 116050,
+          "likes": 5506,
+          "comments": 367,
+          "shares": 556,
+          "timestamp": "2026-07-05T09:32:00.057Z"
+        },
+        {
+          "views": 116139,
+          "likes": 5506,
+          "comments": 367,
+          "shares": 556,
+          "timestamp": "2026-07-05T09:32:30.058Z"
+        },
+        {
+          "views": 116191,
+          "likes": 5507,
+          "comments": 367,
+          "shares": 556,
+          "timestamp": "2026-07-05T09:33:00.070Z"
+        }
+      ],
+      "status": "active",
+      "lastUpdated": "2026-07-05T09:33:00.073Z",
+      "createdAt": "2026-07-04T10:16:16.466Z"
+    },
+    {
+      "_id": "v_4832w4snb",
+      "user": "u_2yn3cwqjj",
+      "url": "https://youtu.be/EiZZ1o76Pmo?si=L2W0vqo5OMHrN52P",
+      "platform": "YouTube",
+      "initialMetrics": {
+        "views": 154330,
+        "likes": 6847,
+        "comments": 408,
+        "shares": 985
+      },
+      "updatedMetrics": {
+        "views": 211601,
+        "likes": 8234,
+        "comments": 408,
+        "shares": 985
+      },
+      "history": [
+        {
+          "views": 210207,
+          "likes": 8192,
+          "comments": 408,
+          "shares": 985,
+          "timestamp": "2026-07-05T09:23:29.963Z"
+        },
+        {
+          "views": 210226,
+          "likes": 8192,
+          "comments": 408,
+          "shares": 985,
+          "timestamp": "2026-07-05T09:24:00.067Z"
+        },
+        {
+          "views": 210360,
+          "likes": 8197,
+          "comments": 408,
+          "shares": 985,
+          "timestamp": "2026-07-05T09:24:29.984Z"
+        },
+        {
+          "views": 210374,
+          "likes": 8197,
+          "comments": 408,
+          "shares": 985,
+          "timestamp": "2026-07-05T09:25:00.071Z"
+        },
+        {
+          "views": 210386,
+          "likes": 8197,
+          "comments": 408,
+          "shares": 985,
+          "timestamp": "2026-07-05T09:25:29.981Z"
+        },
+        {
+          "views": 210409,
+          "likes": 8197,
+          "comments": 408,
+          "shares": 985,
+          "timestamp": "2026-07-05T09:26:00.068Z"
+        },
+        {
+          "views": 210559,
+          "likes": 8204,
+          "comments": 408,
+          "shares": 985,
+          "timestamp": "2026-07-05T09:26:29.995Z"
+        },
+        {
+          "views": 210616,
+          "likes": 8207,
+          "comments": 408,
+          "shares": 985,
+          "timestamp": "2026-07-05T09:27:00.090Z"
+        },
+        {
+          "views": 210736,
+          "likes": 8209,
+          "comments": 408,
+          "shares": 985,
+          "timestamp": "2026-07-05T09:27:30.016Z"
+        },
+        {
+          "views": 210757,
+          "likes": 8210,
+          "comments": 408,
+          "shares": 985,
+          "timestamp": "2026-07-05T09:28:00.131Z"
+        },
+        {
+          "views": 210768,
+          "likes": 8210,
+          "comments": 408,
+          "shares": 985,
+          "timestamp": "2026-07-05T09:28:30.018Z"
+        },
+        {
+          "views": 210870,
+          "likes": 8212,
+          "comments": 408,
+          "shares": 985,
+          "timestamp": "2026-07-05T09:29:00.026Z"
+        },
+        {
+          "views": 210900,
+          "likes": 8212,
+          "comments": 408,
+          "shares": 985,
+          "timestamp": "2026-07-05T09:29:30.021Z"
+        },
+        {
+          "views": 211006,
+          "likes": 8213,
+          "comments": 408,
+          "shares": 985,
+          "timestamp": "2026-07-05T09:30:00.035Z"
+        },
+        {
+          "views": 211051,
+          "likes": 8215,
+          "comments": 408,
+          "shares": 985,
+          "timestamp": "2026-07-05T09:30:30.025Z"
+        },
+        {
+          "views": 211140,
+          "likes": 8220,
+          "comments": 408,
+          "shares": 985,
+          "timestamp": "2026-07-05T09:31:00.049Z"
+        },
+        {
+          "views": 211275,
+          "likes": 8223,
+          "comments": 408,
+          "shares": 985,
+          "timestamp": "2026-07-05T09:31:30.049Z"
+        },
+        {
+          "views": 211370,
+          "likes": 8226,
+          "comments": 408,
+          "shares": 985,
+          "timestamp": "2026-07-05T09:32:00.065Z"
+        },
+        {
+          "views": 211488,
+          "likes": 8233,
+          "comments": 408,
+          "shares": 985,
+          "timestamp": "2026-07-05T09:32:30.067Z"
+        },
+        {
+          "views": 211601,
+          "likes": 8234,
+          "comments": 408,
+          "shares": 985,
+          "timestamp": "2026-07-05T09:33:00.076Z"
+        }
+      ],
+      "status": "active",
+      "lastUpdated": "2026-07-05T09:33:00.079Z",
+      "createdAt": "2026-07-04T10:16:28.111Z"
+    },
+    {
+      "_id": "v_t2cn553zr",
+      "user": "u_2yn3cwqjj",
+      "url": "https://youtu.be/EiZZ1o76Pmo?si=L2W0vqo5OMHrN52P",
+      "platform": "YouTube",
+      "initialMetrics": {
+        "views": 2408012,
+        "likes": 35693,
+        "comments": 1784,
+        "shares": 12040
+      },
+      "updatedMetrics": {
+        "views": 2463933,
+        "likes": 37118,
+        "comments": 1784,
+        "shares": 12040
+      },
+      "history": [
+        {
+          "views": 2462258,
+          "likes": 37086,
+          "comments": 1784,
+          "shares": 12040,
+          "timestamp": "2026-07-05T09:23:29.976Z"
+        },
+        {
+          "views": 2462306,
+          "likes": 37086,
+          "comments": 1784,
+          "shares": 12040,
+          "timestamp": "2026-07-05T09:24:00.110Z"
+        },
+        {
+          "views": 2462320,
+          "likes": 37086,
+          "comments": 1784,
+          "shares": 12040,
+          "timestamp": "2026-07-05T09:24:29.996Z"
+        },
+        {
+          "views": 2462473,
+          "likes": 37089,
+          "comments": 1784,
+          "shares": 12040,
+          "timestamp": "2026-07-05T09:25:00.096Z"
+        },
+        {
+          "views": 2462502,
+          "likes": 37089,
+          "comments": 1784,
+          "shares": 12040,
+          "timestamp": "2026-07-05T09:25:29.989Z"
+        },
+        {
+          "views": 2462661,
+          "likes": 37093,
+          "comments": 1784,
+          "shares": 12040,
+          "timestamp": "2026-07-05T09:26:00.093Z"
+        },
+        {
+          "views": 2462711,
+          "likes": 37094,
+          "comments": 1784,
+          "shares": 12040,
+          "timestamp": "2026-07-05T09:26:30.007Z"
+        },
+        {
+          "views": 2462790,
+          "likes": 37097,
+          "comments": 1784,
+          "shares": 12040,
+          "timestamp": "2026-07-05T09:27:00.112Z"
+        },
+        {
+          "views": 2462890,
+          "likes": 37101,
+          "comments": 1784,
+          "shares": 12040,
+          "timestamp": "2026-07-05T09:27:30.025Z"
+        },
+        {
+          "views": 2462970,
+          "likes": 37104,
+          "comments": 1784,
+          "shares": 12040,
+          "timestamp": "2026-07-05T09:28:00.153Z"
+        },
+        {
+          "views": 2463087,
+          "likes": 37107,
+          "comments": 1784,
+          "shares": 12040,
+          "timestamp": "2026-07-05T09:28:30.025Z"
+        },
+        {
+          "views": 2463207,
+          "likes": 37110,
+          "comments": 1784,
+          "shares": 12040,
+          "timestamp": "2026-07-05T09:29:00.034Z"
+        },
+        {
+          "views": 2463317,
+          "likes": 37113,
+          "comments": 1784,
+          "shares": 12040,
+          "timestamp": "2026-07-05T09:29:30.029Z"
+        },
+        {
+          "views": 2463375,
+          "likes": 37116,
+          "comments": 1784,
+          "shares": 12040,
+          "timestamp": "2026-07-05T09:30:00.044Z"
+        },
+        {
+          "views": 2463502,
+          "likes": 37116,
+          "comments": 1784,
+          "shares": 12040,
+          "timestamp": "2026-07-05T09:30:30.031Z"
+        },
+        {
+          "views": 2463542,
+          "likes": 37116,
+          "comments": 1784,
+          "shares": 12040,
+          "timestamp": "2026-07-05T09:31:00.056Z"
+        },
+        {
+          "views": 2463633,
+          "likes": 37116,
+          "comments": 1784,
+          "shares": 12040,
+          "timestamp": "2026-07-05T09:31:30.056Z"
+        },
+        {
+          "views": 2463700,
+          "likes": 37116,
+          "comments": 1784,
+          "shares": 12040,
+          "timestamp": "2026-07-05T09:32:00.070Z"
+        },
+        {
+          "views": 2463829,
+          "likes": 37116,
+          "comments": 1784,
+          "shares": 12040,
+          "timestamp": "2026-07-05T09:32:30.075Z"
+        },
+        {
+          "views": 2463933,
+          "likes": 37118,
+          "comments": 1784,
+          "shares": 12040,
+          "timestamp": "2026-07-05T09:33:00.085Z"
+        }
+      ],
+      "status": "active",
+      "lastUpdated": "2026-07-05T09:33:00.088Z",
+      "createdAt": "2026-07-04T10:23:56.054Z"
+    },
+    {
+      "_id": "v_h9q5nbe89",
+      "user": "u_2yn3cwqjj",
+      "url": "https://youtu.be/EiZZ1o76Pmo?si=L2W0vqo5OMHrN52P",
+      "platform": "YouTube",
+      "initialMetrics": {
+        "views": 2415115,
+        "likes": 35746,
+        "comments": 1787,
+        "shares": 12075
+      },
+      "updatedMetrics": {
+        "views": 2468547,
+        "likes": 37077,
+        "comments": 1787,
+        "shares": 12075
+      },
+      "history": [
+        {
+          "views": 2467192,
+          "likes": 37044,
+          "comments": 1787,
+          "shares": 12075,
+          "timestamp": "2026-07-05T09:23:29.992Z"
+        },
+        {
+          "views": 2467208,
+          "likes": 37044,
+          "comments": 1787,
+          "shares": 12075,
+          "timestamp": "2026-07-05T09:24:00.138Z"
+        },
+        {
+          "views": 2467352,
+          "likes": 37044,
+          "comments": 1787,
+          "shares": 12075,
+          "timestamp": "2026-07-05T09:24:30.006Z"
+        },
+        {
+          "views": 2467431,
+          "likes": 37048,
+          "comments": 1787,
+          "shares": 12075,
+          "timestamp": "2026-07-05T09:25:00.117Z"
+        },
+        {
+          "views": 2467561,
+          "likes": 37055,
+          "comments": 1787,
+          "shares": 12075,
+          "timestamp": "2026-07-05T09:25:29.997Z"
+        },
+        {
+          "views": 2467635,
+          "likes": 37059,
+          "comments": 1787,
+          "shares": 12075,
+          "timestamp": "2026-07-05T09:26:00.122Z"
+        },
+        {
+          "views": 2467675,
+          "likes": 37059,
+          "comments": 1787,
+          "shares": 12075,
+          "timestamp": "2026-07-05T09:26:30.018Z"
+        },
+        {
+          "views": 2467723,
+          "likes": 37059,
+          "comments": 1787,
+          "shares": 12075,
+          "timestamp": "2026-07-05T09:27:00.136Z"
+        },
+        {
+          "views": 2467742,
+          "likes": 37059,
+          "comments": 1787,
+          "shares": 12075,
+          "timestamp": "2026-07-05T09:27:30.033Z"
+        },
+        {
+          "views": 2467794,
+          "likes": 37061,
+          "comments": 1787,
+          "shares": 12075,
+          "timestamp": "2026-07-05T09:28:00.178Z"
+        },
+        {
+          "views": 2467823,
+          "likes": 37061,
+          "comments": 1787,
+          "shares": 12075,
+          "timestamp": "2026-07-05T09:28:30.030Z"
+        },
+        {
+          "views": 2467870,
+          "likes": 37062,
+          "comments": 1787,
+          "shares": 12075,
+          "timestamp": "2026-07-05T09:29:00.041Z"
+        },
+        {
+          "views": 2468014,
+          "likes": 37066,
+          "comments": 1787,
+          "shares": 12075,
+          "timestamp": "2026-07-05T09:29:30.034Z"
+        },
+        {
+          "views": 2468111,
+          "likes": 37067,
+          "comments": 1787,
+          "shares": 12075,
+          "timestamp": "2026-07-05T09:30:00.052Z"
+        },
+        {
+          "views": 2468165,
+          "likes": 37067,
+          "comments": 1787,
+          "shares": 12075,
+          "timestamp": "2026-07-05T09:30:30.039Z"
+        },
+        {
+          "views": 2468175,
+          "likes": 37067,
+          "comments": 1787,
+          "shares": 12075,
+          "timestamp": "2026-07-05T09:31:00.063Z"
+        },
+        {
+          "views": 2468325,
+          "likes": 37075,
+          "comments": 1787,
+          "shares": 12075,
+          "timestamp": "2026-07-05T09:31:30.061Z"
+        },
+        {
+          "views": 2468402,
+          "likes": 37075,
+          "comments": 1787,
+          "shares": 12075,
+          "timestamp": "2026-07-05T09:32:00.077Z"
+        },
+        {
+          "views": 2468425,
+          "likes": 37075,
+          "comments": 1787,
+          "shares": 12075,
+          "timestamp": "2026-07-05T09:32:30.082Z"
+        },
+        {
+          "views": 2468547,
+          "likes": 37077,
+          "comments": 1787,
+          "shares": 12075,
+          "timestamp": "2026-07-05T09:33:00.091Z"
+        }
+      ],
+      "status": "active",
+      "lastUpdated": "2026-07-05T09:33:00.094Z",
+      "createdAt": "2026-07-04T10:28:28.492Z"
+    },
+    {
+      "_id": "v_1gf5ktkrp",
+      "user": "u_2yn3cwqjj",
+      "url": "https://youtu.be/O69ntFBuezw?si=vfu5WJT3YJ06Ja3l",
+      "platform": "YouTube",
+      "initialMetrics": {
+        "views": 6988286,
+        "likes": 41227,
+        "comments": 2061,
+        "shares": 34941
+      },
+      "updatedMetrics": {
+        "views": 7040613,
+        "likes": 42500,
+        "comments": 2061,
+        "shares": 34941
+      },
+      "history": [
+        {
+          "views": 7039101,
+          "likes": 42458,
+          "comments": 2061,
+          "shares": 34941,
+          "timestamp": "2026-07-05T09:23:30.004Z"
+        },
+        {
+          "views": 7039122,
+          "likes": 42458,
+          "comments": 2061,
+          "shares": 34941,
+          "timestamp": "2026-07-05T09:24:00.159Z"
+        },
+        {
+          "views": 7039182,
+          "likes": 42460,
+          "comments": 2061,
+          "shares": 34941,
+          "timestamp": "2026-07-05T09:24:30.019Z"
+        },
+        {
+          "views": 7039313,
+          "likes": 42467,
+          "comments": 2061,
+          "shares": 34941,
+          "timestamp": "2026-07-05T09:25:00.138Z"
+        },
+        {
+          "views": 7039442,
+          "likes": 42471,
+          "comments": 2061,
+          "shares": 34941,
+          "timestamp": "2026-07-05T09:25:30.007Z"
+        },
+        {
+          "views": 7039482,
+          "likes": 42473,
+          "comments": 2061,
+          "shares": 34941,
+          "timestamp": "2026-07-05T09:26:00.142Z"
+        },
+        {
+          "views": 7039577,
+          "likes": 42474,
+          "comments": 2061,
+          "shares": 34941,
+          "timestamp": "2026-07-05T09:26:30.030Z"
+        },
+        {
+          "views": 7039672,
+          "likes": 42475,
+          "comments": 2061,
+          "shares": 34941,
+          "timestamp": "2026-07-05T09:27:00.157Z"
+        },
+        {
+          "views": 7039817,
+          "likes": 42476,
+          "comments": 2061,
+          "shares": 34941,
+          "timestamp": "2026-07-05T09:27:30.044Z"
+        },
+        {
+          "views": 7039949,
+          "likes": 42483,
+          "comments": 2061,
+          "shares": 34941,
+          "timestamp": "2026-07-05T09:28:00.206Z"
+        },
+        {
+          "views": 7040029,
+          "likes": 42485,
+          "comments": 2061,
+          "shares": 34941,
+          "timestamp": "2026-07-05T09:28:30.039Z"
+        },
+        {
+          "views": 7040166,
+          "likes": 42490,
+          "comments": 2061,
+          "shares": 34941,
+          "timestamp": "2026-07-05T09:29:00.046Z"
+        },
+        {
+          "views": 7040187,
+          "likes": 42490,
+          "comments": 2061,
+          "shares": 34941,
+          "timestamp": "2026-07-05T09:29:30.044Z"
+        },
+        {
+          "views": 7040285,
+          "likes": 42495,
+          "comments": 2061,
+          "shares": 34941,
+          "timestamp": "2026-07-05T09:30:00.059Z"
+        },
+        {
+          "views": 7040312,
+          "likes": 42496,
+          "comments": 2061,
+          "shares": 34941,
+          "timestamp": "2026-07-05T09:30:30.047Z"
+        },
+        {
+          "views": 7040357,
+          "likes": 42496,
+          "comments": 2061,
+          "shares": 34941,
+          "timestamp": "2026-07-05T09:31:00.070Z"
+        },
+        {
+          "views": 7040450,
+          "likes": 42496,
+          "comments": 2061,
+          "shares": 34941,
+          "timestamp": "2026-07-05T09:31:30.066Z"
+        },
+        {
+          "views": 7040533,
+          "likes": 42499,
+          "comments": 2061,
+          "shares": 34941,
+          "timestamp": "2026-07-05T09:32:00.082Z"
+        },
+        {
+          "views": 7040575,
+          "likes": 42499,
+          "comments": 2061,
+          "shares": 34941,
+          "timestamp": "2026-07-05T09:32:30.087Z"
+        },
+        {
+          "views": 7040613,
+          "likes": 42500,
+          "comments": 2061,
+          "shares": 34941,
+          "timestamp": "2026-07-05T09:33:00.097Z"
+        }
+      ],
+      "status": "active",
+      "lastUpdated": "2026-07-05T09:33:00.100Z",
+      "createdAt": "2026-07-04T10:35:48.020Z"
+    },
+    {
+      "_id": "v_033vnk4y6",
+      "user": "u_z253u7axe",
+      "url": "https://youtu.be/O69ntFBuezw?si=vfu5WJT3YJ06Ja3l",
+      "title": "Jethalal को आया Mall जाने का Idea | Taarak Mehta Ka Ooltah Chashmah | 27 Nov 2023",
+      "thumbnailUrl": "https://img.youtube.com/vi/O69ntFBuezw/mqdefault.jpg",
+      "platform": "YouTube",
+      "initialMetrics": {
+        "views": 6989187,
+        "likes": 41228,
+        "comments": 2061,
+        "shares": 34945
+      },
+      "updatedMetrics": {
+        "views": 7037211,
+        "likes": 42333,
+        "comments": 2061,
+        "shares": 34945
+      },
+      "history": [
+        {
+          "views": 7035706,
+          "likes": 42306,
+          "comments": 2061,
+          "shares": 34945,
+          "timestamp": "2026-07-05T09:23:30.015Z"
+        },
+        {
+          "views": 7035791,
+          "likes": 42308,
+          "comments": 2061,
+          "shares": 34945,
+          "timestamp": "2026-07-05T09:24:00.186Z"
+        },
+        {
+          "views": 7035812,
+          "likes": 42308,
+          "comments": 2061,
+          "shares": 34945,
+          "timestamp": "2026-07-05T09:24:30.031Z"
+        },
+        {
+          "views": 7035833,
+          "likes": 42308,
+          "comments": 2061,
+          "shares": 34945,
+          "timestamp": "2026-07-05T09:25:00.161Z"
+        },
+        {
+          "views": 7035916,
+          "likes": 42311,
+          "comments": 2061,
+          "shares": 34945,
+          "timestamp": "2026-07-05T09:25:30.015Z"
+        },
+        {
+          "views": 7036033,
+          "likes": 42312,
+          "comments": 2061,
+          "shares": 34945,
+          "timestamp": "2026-07-05T09:26:00.163Z"
+        },
+        {
+          "views": 7036135,
+          "likes": 42314,
+          "comments": 2061,
+          "shares": 34945,
+          "timestamp": "2026-07-05T09:26:30.041Z"
+        },
+        {
+          "views": 7036293,
+          "likes": 42316,
+          "comments": 2061,
+          "shares": 34945,
+          "timestamp": "2026-07-05T09:27:00.178Z"
+        },
+        {
+          "views": 7036304,
+          "likes": 42316,
+          "comments": 2061,
+          "shares": 34945,
+          "timestamp": "2026-07-05T09:27:30.051Z"
+        },
+        {
+          "views": 7036371,
+          "likes": 42318,
+          "comments": 2061,
+          "shares": 34945,
+          "timestamp": "2026-07-05T09:28:00.231Z"
+        },
+        {
+          "views": 7036386,
+          "likes": 42318,
+          "comments": 2061,
+          "shares": 34945,
+          "timestamp": "2026-07-05T09:28:30.044Z"
+        },
+        {
+          "views": 7036506,
+          "likes": 42322,
+          "comments": 2061,
+          "shares": 34945,
+          "timestamp": "2026-07-05T09:29:00.053Z"
+        },
+        {
+          "views": 7036631,
+          "likes": 42322,
+          "comments": 2061,
+          "shares": 34945,
+          "timestamp": "2026-07-05T09:29:30.049Z"
+        },
+        {
+          "views": 7036744,
+          "likes": 42328,
+          "comments": 2061,
+          "shares": 34945,
+          "timestamp": "2026-07-05T09:30:00.070Z"
+        },
+        {
+          "views": 7036757,
+          "likes": 42328,
+          "comments": 2061,
+          "shares": 34945,
+          "timestamp": "2026-07-05T09:30:30.053Z"
+        },
+        {
+          "views": 7036841,
+          "likes": 42328,
+          "comments": 2061,
+          "shares": 34945,
+          "timestamp": "2026-07-05T09:31:00.076Z"
+        },
+        {
+          "views": 7036914,
+          "likes": 42331,
+          "comments": 2061,
+          "shares": 34945,
+          "timestamp": "2026-07-05T09:31:30.071Z"
+        },
+        {
+          "views": 7037040,
+          "likes": 42333,
+          "comments": 2061,
+          "shares": 34945,
+          "timestamp": "2026-07-05T09:32:00.089Z"
+        },
+        {
+          "views": 7037191,
+          "likes": 42333,
+          "comments": 2061,
+          "shares": 34945,
+          "timestamp": "2026-07-05T09:32:30.093Z"
+        },
+        {
+          "views": 7037211,
+          "likes": 42333,
+          "comments": 2061,
+          "shares": 34945,
+          "timestamp": "2026-07-05T09:33:00.103Z"
+        }
+      ],
+      "status": "active",
+      "lastUpdated": "2026-07-05T09:33:00.106Z",
+      "createdAt": "2026-07-04T11:43:36.280Z"
+    },
+    {
+      "_id": "v_rbu7z7zji",
+      "user": "u_z253u7axe",
+      "url": "https://youtu.be/aszgQkYjyXc?si=19pZeinUkJoHYlHB",
+      "title": "YouTube Video 588",
+      "thumbnailUrl": "https://img.youtube.com/vi/aszgQkYjyXc/mqdefault.jpg",
+      "platform": "YouTube",
+      "initialMetrics": {
+        "views": 492449,
+        "likes": 27440,
+        "comments": 1165,
+        "shares": 1293
+      },
+      "updatedMetrics": {
+        "views": 524188,
+        "likes": 28236,
+        "comments": 1165,
+        "shares": 1293
+      },
+      "history": [
+        {
+          "views": 522363,
+          "likes": 28209,
+          "comments": 1165,
+          "shares": 1293,
+          "timestamp": "2026-07-05T09:23:30.028Z"
+        },
+        {
+          "views": 522483,
+          "likes": 28209,
+          "comments": 1165,
+          "shares": 1293,
+          "timestamp": "2026-07-05T09:24:00.210Z"
+        },
+        {
+          "views": 522610,
+          "likes": 28215,
+          "comments": 1165,
+          "shares": 1293,
+          "timestamp": "2026-07-05T09:24:30.044Z"
+        },
+        {
+          "views": 522748,
+          "likes": 28215,
+          "comments": 1165,
+          "shares": 1293,
+          "timestamp": "2026-07-05T09:25:00.184Z"
+        },
+        {
+          "views": 522831,
+          "likes": 28215,
+          "comments": 1165,
+          "shares": 1293,
+          "timestamp": "2026-07-05T09:25:30.022Z"
+        },
+        {
+          "views": 522935,
+          "likes": 28219,
+          "comments": 1165,
+          "shares": 1293,
+          "timestamp": "2026-07-05T09:26:00.192Z"
+        },
+        {
+          "views": 522968,
+          "likes": 28219,
+          "comments": 1165,
+          "shares": 1293,
+          "timestamp": "2026-07-05T09:26:30.053Z"
+        },
+        {
+          "views": 523123,
+          "likes": 28219,
+          "comments": 1165,
+          "shares": 1293,
+          "timestamp": "2026-07-05T09:27:00.197Z"
+        },
+        {
+          "views": 523245,
+          "likes": 28219,
+          "comments": 1165,
+          "shares": 1293,
+          "timestamp": "2026-07-05T09:27:30.060Z"
+        },
+        {
+          "views": 523279,
+          "likes": 28220,
+          "comments": 1165,
+          "shares": 1293,
+          "timestamp": "2026-07-05T09:28:00.254Z"
+        },
+        {
+          "views": 523426,
+          "likes": 28221,
+          "comments": 1165,
+          "shares": 1293,
+          "timestamp": "2026-07-05T09:28:30.049Z"
+        },
+        {
+          "views": 523488,
+          "likes": 28224,
+          "comments": 1165,
+          "shares": 1293,
+          "timestamp": "2026-07-05T09:29:00.059Z"
+        },
+        {
+          "views": 523510,
+          "likes": 28224,
+          "comments": 1165,
+          "shares": 1293,
+          "timestamp": "2026-07-05T09:29:30.054Z"
+        },
+        {
+          "views": 523599,
+          "likes": 28224,
+          "comments": 1165,
+          "shares": 1293,
+          "timestamp": "2026-07-05T09:30:00.076Z"
+        },
+        {
+          "views": 523713,
+          "likes": 28225,
+          "comments": 1165,
+          "shares": 1293,
+          "timestamp": "2026-07-05T09:30:30.058Z"
+        },
+        {
+          "views": 523797,
+          "likes": 28225,
+          "comments": 1165,
+          "shares": 1293,
+          "timestamp": "2026-07-05T09:31:00.081Z"
+        },
+        {
+          "views": 523837,
+          "likes": 28225,
+          "comments": 1165,
+          "shares": 1293,
+          "timestamp": "2026-07-05T09:31:30.078Z"
+        },
+        {
+          "views": 523971,
+          "likes": 28231,
+          "comments": 1165,
+          "shares": 1293,
+          "timestamp": "2026-07-05T09:32:00.095Z"
+        },
+        {
+          "views": 524095,
+          "likes": 28236,
+          "comments": 1165,
+          "shares": 1293,
+          "timestamp": "2026-07-05T09:32:30.098Z"
+        },
+        {
+          "views": 524188,
+          "likes": 28236,
+          "comments": 1165,
+          "shares": 1293,
+          "timestamp": "2026-07-05T09:33:00.110Z"
+        }
+      ],
+      "status": "active",
+      "lastUpdated": "2026-07-05T09:33:00.113Z",
+      "createdAt": "2026-07-04T16:57:13.129Z"
+    },
+    {
+      "_id": "v_xrsahwqjx",
+      "user": "u_z253u7axe",
+      "url": "https://youtu.be/XHXGFSq8TSM?si=YKqhFmP3CmnIePUJ",
+      "title": "YouTube Video 594",
+      "thumbnailUrl": "https://img.youtube.com/vi/XHXGFSq8TSM/mqdefault.jpg",
+      "platform": "YouTube",
+      "initialMetrics": {
+        "views": 413606,
+        "likes": 27061,
+        "comments": 2319,
+        "shares": 3345
+      },
+      "updatedMetrics": {
+        "views": 447633,
+        "likes": 27908,
+        "comments": 2319,
+        "shares": 3345
+      },
+      "history": [
+        {
+          "views": 445890,
+          "likes": 27863,
+          "comments": 2319,
+          "shares": 3345,
+          "timestamp": "2026-07-05T09:23:30.040Z"
+        },
+        {
+          "views": 446023,
+          "likes": 27864,
+          "comments": 2319,
+          "shares": 3345,
+          "timestamp": "2026-07-05T09:24:00.234Z"
+        },
+        {
+          "views": 446181,
+          "likes": 27870,
+          "comments": 2319,
+          "shares": 3345,
+          "timestamp": "2026-07-05T09:24:30.054Z"
+        },
+        {
+          "views": 446318,
+          "likes": 27875,
+          "comments": 2319,
+          "shares": 3345,
+          "timestamp": "2026-07-05T09:25:00.211Z"
+        },
+        {
+          "views": 446373,
+          "likes": 27876,
+          "comments": 2319,
+          "shares": 3345,
+          "timestamp": "2026-07-05T09:25:30.031Z"
+        },
+        {
+          "views": 446489,
+          "likes": 27877,
+          "comments": 2319,
+          "shares": 3345,
+          "timestamp": "2026-07-05T09:26:00.219Z"
+        },
+        {
+          "views": 446520,
+          "likes": 27877,
+          "comments": 2319,
+          "shares": 3345,
+          "timestamp": "2026-07-05T09:26:30.064Z"
+        },
+        {
+          "views": 446650,
+          "likes": 27881,
+          "comments": 2319,
+          "shares": 3345,
+          "timestamp": "2026-07-05T09:27:00.220Z"
+        },
+        {
+          "views": 446807,
+          "likes": 27886,
+          "comments": 2319,
+          "shares": 3345,
+          "timestamp": "2026-07-05T09:27:30.068Z"
+        },
+        {
+          "views": 446830,
+          "likes": 27886,
+          "comments": 2319,
+          "shares": 3345,
+          "timestamp": "2026-07-05T09:28:00.278Z"
+        },
+        {
+          "views": 446957,
+          "likes": 27892,
+          "comments": 2319,
+          "shares": 3345,
+          "timestamp": "2026-07-05T09:28:30.054Z"
+        },
+        {
+          "views": 446984,
+          "likes": 27893,
+          "comments": 2319,
+          "shares": 3345,
+          "timestamp": "2026-07-05T09:29:00.066Z"
+        },
+        {
+          "views": 447075,
+          "likes": 27893,
+          "comments": 2319,
+          "shares": 3345,
+          "timestamp": "2026-07-05T09:29:30.061Z"
+        },
+        {
+          "views": 447158,
+          "likes": 27896,
+          "comments": 2319,
+          "shares": 3345,
+          "timestamp": "2026-07-05T09:30:00.083Z"
+        },
+        {
+          "views": 447300,
+          "likes": 27904,
+          "comments": 2319,
+          "shares": 3345,
+          "timestamp": "2026-07-05T09:30:30.065Z"
+        },
+        {
+          "views": 447407,
+          "likes": 27904,
+          "comments": 2319,
+          "shares": 3345,
+          "timestamp": "2026-07-05T09:31:00.087Z"
+        },
+        {
+          "views": 447446,
+          "likes": 27904,
+          "comments": 2319,
+          "shares": 3345,
+          "timestamp": "2026-07-05T09:31:30.084Z"
+        },
+        {
+          "views": 447465,
+          "likes": 27904,
+          "comments": 2319,
+          "shares": 3345,
+          "timestamp": "2026-07-05T09:32:00.103Z"
+        },
+        {
+          "views": 447488,
+          "likes": 27905,
+          "comments": 2319,
+          "shares": 3345,
+          "timestamp": "2026-07-05T09:32:30.104Z"
+        },
+        {
+          "views": 447633,
+          "likes": 27908,
+          "comments": 2319,
+          "shares": 3345,
+          "timestamp": "2026-07-05T09:33:00.116Z"
+        }
+      ],
+      "status": "active",
+      "lastUpdated": "2026-07-05T09:33:00.119Z",
+      "createdAt": "2026-07-04T16:59:21.821Z"
+    },
+    {
+      "_id": "v_bj58ala10",
+      "user": "u_z253u7axe",
+      "url": "https://youtu.be/0Two_6LyvDQ?si=yd772OW3BFaEpIsl",
+      "title": "YouTube Video 987",
+      "thumbnailUrl": "https://img.youtube.com/vi/0Two_6LyvDQ/mqdefault.jpg",
+      "platform": "YouTube",
+      "initialMetrics": {
+        "views": 274023,
+        "likes": 20471,
+        "comments": 1037,
+        "shares": 2714
+      },
+      "updatedMetrics": {
+        "views": 306051,
+        "likes": 21173,
+        "comments": 1037,
+        "shares": 2714
+      },
+      "history": [
+        {
+          "views": 304309,
+          "likes": 21135,
+          "comments": 1037,
+          "shares": 2714,
+          "timestamp": "2026-07-05T09:23:30.052Z"
+        },
+        {
+          "views": 304366,
+          "likes": 21136,
+          "comments": 1037,
+          "shares": 2714,
+          "timestamp": "2026-07-05T09:24:00.258Z"
+        },
+        {
+          "views": 304508,
+          "likes": 21141,
+          "comments": 1037,
+          "shares": 2714,
+          "timestamp": "2026-07-05T09:24:30.066Z"
+        },
+        {
+          "views": 304620,
+          "likes": 21142,
+          "comments": 1037,
+          "shares": 2714,
+          "timestamp": "2026-07-05T09:25:00.236Z"
+        },
+        {
+          "views": 304710,
+          "likes": 21146,
+          "comments": 1037,
+          "shares": 2714,
+          "timestamp": "2026-07-05T09:25:30.040Z"
+        },
+        {
+          "views": 304829,
+          "likes": 21146,
+          "comments": 1037,
+          "shares": 2714,
+          "timestamp": "2026-07-05T09:26:00.249Z"
+        },
+        {
+          "views": 304976,
+          "likes": 21146,
+          "comments": 1037,
+          "shares": 2714,
+          "timestamp": "2026-07-05T09:26:30.078Z"
+        },
+        {
+          "views": 305057,
+          "likes": 21150,
+          "comments": 1037,
+          "shares": 2714,
+          "timestamp": "2026-07-05T09:27:00.247Z"
+        },
+        {
+          "views": 305096,
+          "likes": 21150,
+          "comments": 1037,
+          "shares": 2714,
+          "timestamp": "2026-07-05T09:27:30.077Z"
+        },
+        {
+          "views": 305194,
+          "likes": 21153,
+          "comments": 1037,
+          "shares": 2714,
+          "timestamp": "2026-07-05T09:28:00.301Z"
+        },
+        {
+          "views": 305282,
+          "likes": 21154,
+          "comments": 1037,
+          "shares": 2714,
+          "timestamp": "2026-07-05T09:28:30.060Z"
+        },
+        {
+          "views": 305389,
+          "likes": 21157,
+          "comments": 1037,
+          "shares": 2714,
+          "timestamp": "2026-07-05T09:29:00.070Z"
+        },
+        {
+          "views": 305507,
+          "likes": 21162,
+          "comments": 1037,
+          "shares": 2714,
+          "timestamp": "2026-07-05T09:29:30.067Z"
+        },
+        {
+          "views": 305544,
+          "likes": 21162,
+          "comments": 1037,
+          "shares": 2714,
+          "timestamp": "2026-07-05T09:30:00.090Z"
+        },
+        {
+          "views": 305599,
+          "likes": 21162,
+          "comments": 1037,
+          "shares": 2714,
+          "timestamp": "2026-07-05T09:30:30.070Z"
+        },
+        {
+          "views": 305645,
+          "likes": 21163,
+          "comments": 1037,
+          "shares": 2714,
+          "timestamp": "2026-07-05T09:31:00.094Z"
+        },
+        {
+          "views": 305726,
+          "likes": 21165,
+          "comments": 1037,
+          "shares": 2714,
+          "timestamp": "2026-07-05T09:31:30.090Z"
+        },
+        {
+          "views": 305879,
+          "likes": 21167,
+          "comments": 1037,
+          "shares": 2714,
+          "timestamp": "2026-07-05T09:32:00.109Z"
+        },
+        {
+          "views": 306007,
+          "likes": 21173,
+          "comments": 1037,
+          "shares": 2714,
+          "timestamp": "2026-07-05T09:32:30.110Z"
+        },
+        {
+          "views": 306051,
+          "likes": 21173,
+          "comments": 1037,
+          "shares": 2714,
+          "timestamp": "2026-07-05T09:33:00.123Z"
+        }
+      ],
+      "status": "active",
+      "lastUpdated": "2026-07-05T09:33:00.125Z",
+      "createdAt": "2026-07-04T17:00:31.648Z"
+    },
+    {
+      "_id": "v_sawvskcoc",
+      "user": "u_z253u7axe",
+      "url": "https://youtu.be/DjmZtebNwiE?si=68nGhtav9VMSPOeI",
+      "title": "YouTube Video 496",
+      "thumbnailUrl": "https://img.youtube.com/vi/DjmZtebNwiE/mqdefault.jpg",
+      "platform": "YouTube",
+      "initialMetrics": {
+        "views": 83844,
+        "likes": 4451,
+        "comments": 389,
+        "shares": 591
+      },
+      "updatedMetrics": {
+        "views": 97349,
+        "likes": 4758,
+        "comments": 389,
+        "shares": 591
+      },
+      "history": [
+        {
+          "views": 95713,
+          "likes": 4733,
+          "comments": 389,
+          "shares": 591,
+          "timestamp": "2026-07-05T09:23:30.065Z"
+        },
+        {
+          "views": 95814,
+          "likes": 4734,
+          "comments": 389,
+          "shares": 591,
+          "timestamp": "2026-07-05T09:24:00.287Z"
+        },
+        {
+          "views": 95962,
+          "likes": 4735,
+          "comments": 389,
+          "shares": 591,
+          "timestamp": "2026-07-05T09:24:30.078Z"
+        },
+        {
+          "views": 96060,
+          "likes": 4735,
+          "comments": 389,
+          "shares": 591,
+          "timestamp": "2026-07-05T09:25:00.267Z"
+        },
+        {
+          "views": 96124,
+          "likes": 4736,
+          "comments": 389,
+          "shares": 591,
+          "timestamp": "2026-07-05T09:25:30.050Z"
+        },
+        {
+          "views": 96214,
+          "likes": 4740,
+          "comments": 389,
+          "shares": 591,
+          "timestamp": "2026-07-05T09:26:00.275Z"
+        },
+        {
+          "views": 96279,
+          "likes": 4742,
+          "comments": 389,
+          "shares": 591,
+          "timestamp": "2026-07-05T09:26:30.087Z"
+        },
+        {
+          "views": 96361,
+          "likes": 4744,
+          "comments": 389,
+          "shares": 591,
+          "timestamp": "2026-07-05T09:27:00.270Z"
+        },
+        {
+          "views": 96501,
+          "likes": 4749,
+          "comments": 389,
+          "shares": 591,
+          "timestamp": "2026-07-05T09:27:30.090Z"
+        },
+        {
+          "views": 96657,
+          "likes": 4749,
+          "comments": 389,
+          "shares": 591,
+          "timestamp": "2026-07-05T09:28:00.329Z"
+        },
+        {
+          "views": 96671,
+          "likes": 4749,
+          "comments": 389,
+          "shares": 591,
+          "timestamp": "2026-07-05T09:28:30.067Z"
+        },
+        {
+          "views": 96808,
+          "likes": 4749,
+          "comments": 389,
+          "shares": 591,
+          "timestamp": "2026-07-05T09:29:00.076Z"
+        },
+        {
+          "views": 96924,
+          "likes": 4752,
+          "comments": 389,
+          "shares": 591,
+          "timestamp": "2026-07-05T09:29:30.074Z"
+        },
+        {
+          "views": 96964,
+          "likes": 4754,
+          "comments": 389,
+          "shares": 591,
+          "timestamp": "2026-07-05T09:30:00.096Z"
+        },
+        {
+          "views": 97069,
+          "likes": 4754,
+          "comments": 389,
+          "shares": 591,
+          "timestamp": "2026-07-05T09:30:30.077Z"
+        },
+        {
+          "views": 97106,
+          "likes": 4755,
+          "comments": 389,
+          "shares": 591,
+          "timestamp": "2026-07-05T09:31:00.100Z"
+        },
+        {
+          "views": 97124,
+          "likes": 4755,
+          "comments": 389,
+          "shares": 591,
+          "timestamp": "2026-07-05T09:31:30.099Z"
+        },
+        {
+          "views": 97177,
+          "likes": 4756,
+          "comments": 389,
+          "shares": 591,
+          "timestamp": "2026-07-05T09:32:00.116Z"
+        },
+        {
+          "views": 97302,
+          "likes": 4758,
+          "comments": 389,
+          "shares": 591,
+          "timestamp": "2026-07-05T09:32:30.116Z"
+        },
+        {
+          "views": 97349,
+          "likes": 4758,
+          "comments": 389,
+          "shares": 591,
+          "timestamp": "2026-07-05T09:33:00.128Z"
+        }
+      ],
+      "status": "active",
+      "lastUpdated": "2026-07-05T09:33:00.131Z",
+      "createdAt": "2026-07-04T18:48:19.843Z"
+    },
+    {
+      "_id": "v_3rrqf3js9",
+      "user": "u_z253u7axe",
+      "url": "https://youtu.be/CrcaDgm9n7c?si=So_P8Nk3hCW5cPy8",
+      "title": "YouTube Video 426",
+      "thumbnailUrl": "https://img.youtube.com/vi/CrcaDgm9n7c/mqdefault.jpg",
+      "platform": "YouTube",
+      "initialMetrics": {
+        "views": 459764,
+        "likes": 28756,
+        "comments": 1957,
+        "shares": 2916
+      },
+      "updatedMetrics": {
+        "views": 473660,
+        "likes": 29081,
+        "comments": 1957,
+        "shares": 2916
+      },
+      "history": [
+        {
+          "views": 471989,
+          "likes": 29043,
+          "comments": 1957,
+          "shares": 2916,
+          "timestamp": "2026-07-05T09:23:30.079Z"
+        },
+        {
+          "views": 472052,
+          "likes": 29043,
+          "comments": 1957,
+          "shares": 2916,
+          "timestamp": "2026-07-05T09:24:00.311Z"
+        },
+        {
+          "views": 472111,
+          "likes": 29045,
+          "comments": 1957,
+          "shares": 2916,
+          "timestamp": "2026-07-05T09:24:30.088Z"
+        },
+        {
+          "views": 472256,
+          "likes": 29050,
+          "comments": 1957,
+          "shares": 2916,
+          "timestamp": "2026-07-05T09:25:00.295Z"
+        },
+        {
+          "views": 472345,
+          "likes": 29051,
+          "comments": 1957,
+          "shares": 2916,
+          "timestamp": "2026-07-05T09:25:30.060Z"
+        },
+        {
+          "views": 472405,
+          "likes": 29052,
+          "comments": 1957,
+          "shares": 2916,
+          "timestamp": "2026-07-05T09:26:00.303Z"
+        },
+        {
+          "views": 472515,
+          "likes": 29054,
+          "comments": 1957,
+          "shares": 2916,
+          "timestamp": "2026-07-05T09:26:30.098Z"
+        },
+        {
+          "views": 472570,
+          "likes": 29057,
+          "comments": 1957,
+          "shares": 2916,
+          "timestamp": "2026-07-05T09:27:00.295Z"
+        },
+        {
+          "views": 472726,
+          "likes": 29060,
+          "comments": 1957,
+          "shares": 2916,
+          "timestamp": "2026-07-05T09:27:30.103Z"
+        },
+        {
+          "views": 472809,
+          "likes": 29064,
+          "comments": 1957,
+          "shares": 2916,
+          "timestamp": "2026-07-05T09:28:00.354Z"
+        },
+        {
+          "views": 472861,
+          "likes": 29065,
+          "comments": 1957,
+          "shares": 2916,
+          "timestamp": "2026-07-05T09:28:30.073Z"
+        },
+        {
+          "views": 473002,
+          "likes": 29066,
+          "comments": 1957,
+          "shares": 2916,
+          "timestamp": "2026-07-05T09:29:00.083Z"
+        },
+        {
+          "views": 473082,
+          "likes": 29066,
+          "comments": 1957,
+          "shares": 2916,
+          "timestamp": "2026-07-05T09:29:30.080Z"
+        },
+        {
+          "views": 473107,
+          "likes": 29067,
+          "comments": 1957,
+          "shares": 2916,
+          "timestamp": "2026-07-05T09:30:00.104Z"
+        },
+        {
+          "views": 473148,
+          "likes": 29067,
+          "comments": 1957,
+          "shares": 2916,
+          "timestamp": "2026-07-05T09:30:30.084Z"
+        },
+        {
+          "views": 473282,
+          "likes": 29070,
+          "comments": 1957,
+          "shares": 2916,
+          "timestamp": "2026-07-05T09:31:00.108Z"
+        },
+        {
+          "views": 473423,
+          "likes": 29071,
+          "comments": 1957,
+          "shares": 2916,
+          "timestamp": "2026-07-05T09:31:30.105Z"
+        },
+        {
+          "views": 473569,
+          "likes": 29079,
+          "comments": 1957,
+          "shares": 2916,
+          "timestamp": "2026-07-05T09:32:00.122Z"
+        },
+        {
+          "views": 473603,
+          "likes": 29080,
+          "comments": 1957,
+          "shares": 2916,
+          "timestamp": "2026-07-05T09:32:30.121Z"
+        },
+        {
+          "views": 473660,
+          "likes": 29081,
+          "comments": 1957,
+          "shares": 2916,
+          "timestamp": "2026-07-05T09:33:00.135Z"
+        }
+      ],
+      "status": "active",
+      "lastUpdated": "2026-07-05T09:33:00.138Z",
+      "createdAt": "2026-07-04T18:49:22.019Z"
+    },
+    {
+      "_id": "v_olh7nwvbt",
+      "user": "u_z253u7axe",
+      "url": "https://youtu.be/HT-C_KTxbzU?si=tw7gZ0KM6Lg3qzev",
+      "title": "YouTube Video 907",
+      "thumbnailUrl": "https://img.youtube.com/vi/HT-C_KTxbzU/mqdefault.jpg",
+      "platform": "YouTube",
+      "initialMetrics": {
+        "views": 342694,
+        "likes": 13827,
+        "comments": 1344,
+        "shares": 3155
+      },
+      "updatedMetrics": {
+        "views": 353538,
+        "likes": 14088,
+        "comments": 1344,
+        "shares": 3155
+      },
+      "history": [
+        {
+          "views": 351987,
+          "likes": 14054,
+          "comments": 1344,
+          "shares": 3155,
+          "timestamp": "2026-07-05T09:23:30.090Z"
+        },
+        {
+          "views": 352108,
+          "likes": 14054,
+          "comments": 1344,
+          "shares": 3155,
+          "timestamp": "2026-07-05T09:24:00.335Z"
+        },
+        {
+          "views": 352165,
+          "likes": 14056,
+          "comments": 1344,
+          "shares": 3155,
+          "timestamp": "2026-07-05T09:24:30.101Z"
+        },
+        {
+          "views": 352242,
+          "likes": 14059,
+          "comments": 1344,
+          "shares": 3155,
+          "timestamp": "2026-07-05T09:25:00.322Z"
+        },
+        {
+          "views": 352276,
+          "likes": 14059,
+          "comments": 1344,
+          "shares": 3155,
+          "timestamp": "2026-07-05T09:25:30.067Z"
+        },
+        {
+          "views": 352404,
+          "likes": 14059,
+          "comments": 1344,
+          "shares": 3155,
+          "timestamp": "2026-07-05T09:26:00.338Z"
+        },
+        {
+          "views": 352472,
+          "likes": 14061,
+          "comments": 1344,
+          "shares": 3155,
+          "timestamp": "2026-07-05T09:26:30.112Z"
+        },
+        {
+          "views": 352502,
+          "likes": 14062,
+          "comments": 1344,
+          "shares": 3155,
+          "timestamp": "2026-07-05T09:27:00.322Z"
+        },
+        {
+          "views": 352655,
+          "likes": 14070,
+          "comments": 1344,
+          "shares": 3155,
+          "timestamp": "2026-07-05T09:27:30.115Z"
+        },
+        {
+          "views": 352737,
+          "likes": 14073,
+          "comments": 1344,
+          "shares": 3155,
+          "timestamp": "2026-07-05T09:28:00.388Z"
+        },
+        {
+          "views": 352849,
+          "likes": 14073,
+          "comments": 1344,
+          "shares": 3155,
+          "timestamp": "2026-07-05T09:28:30.079Z"
+        },
+        {
+          "views": 353007,
+          "likes": 14078,
+          "comments": 1344,
+          "shares": 3155,
+          "timestamp": "2026-07-05T09:29:00.089Z"
+        },
+        {
+          "views": 353025,
+          "likes": 14078,
+          "comments": 1344,
+          "shares": 3155,
+          "timestamp": "2026-07-05T09:29:30.085Z"
+        },
+        {
+          "views": 353071,
+          "likes": 14078,
+          "comments": 1344,
+          "shares": 3155,
+          "timestamp": "2026-07-05T09:30:00.110Z"
+        },
+        {
+          "views": 353166,
+          "likes": 14080,
+          "comments": 1344,
+          "shares": 3155,
+          "timestamp": "2026-07-05T09:30:30.090Z"
+        },
+        {
+          "views": 353211,
+          "likes": 14080,
+          "comments": 1344,
+          "shares": 3155,
+          "timestamp": "2026-07-05T09:31:00.114Z"
+        },
+        {
+          "views": 353292,
+          "likes": 14080,
+          "comments": 1344,
+          "shares": 3155,
+          "timestamp": "2026-07-05T09:31:30.111Z"
+        },
+        {
+          "views": 353431,
+          "likes": 14083,
+          "comments": 1344,
+          "shares": 3155,
+          "timestamp": "2026-07-05T09:32:00.128Z"
+        },
+        {
+          "views": 353460,
+          "likes": 14084,
+          "comments": 1344,
+          "shares": 3155,
+          "timestamp": "2026-07-05T09:32:30.128Z"
+        },
+        {
+          "views": 353538,
+          "likes": 14088,
+          "comments": 1344,
+          "shares": 3155,
+          "timestamp": "2026-07-05T09:33:00.141Z"
+        }
+      ],
+      "status": "active",
+      "lastUpdated": "2026-07-05T09:33:00.144Z",
+      "createdAt": "2026-07-04T19:03:35.700Z"
+    },
+    {
+      "_id": "v_67v1g30nv",
+      "user": "u_z253u7axe",
+      "url": "https://youtu.be/HT-C_KTxbzU?si=7Rr8SWEucTyxJjfq",
+      "title": "Prototyping Model Explained in 8 Minutes | Software Engineering Unit 1 (Easy + Exam Ready)",
+      "thumbnailUrl": "https://img.youtube.com/vi/HT-C_KTxbzU/mqdefault.jpg",
+      "platform": "YouTube",
+      "initialMetrics": {
+        "views": 1517,
+        "likes": 27,
+        "comments": 1,
+        "shares": 7
+      },
+      "updatedMetrics": {
+        "views": 11807,
+        "likes": 283,
+        "comments": 1,
+        "shares": 7
+      },
+      "history": [
+        {
+          "views": 10218,
+          "likes": 250,
+          "comments": 1,
+          "shares": 7,
+          "timestamp": "2026-07-05T09:23:30.098Z"
+        },
+        {
+          "views": 10319,
+          "likes": 250,
+          "comments": 1,
+          "shares": 7,
+          "timestamp": "2026-07-05T09:24:00.357Z"
+        },
+        {
+          "views": 10423,
+          "likes": 253,
+          "comments": 1,
+          "shares": 7,
+          "timestamp": "2026-07-05T09:24:30.113Z"
+        },
+        {
+          "views": 10537,
+          "likes": 259,
+          "comments": 1,
+          "shares": 7,
+          "timestamp": "2026-07-05T09:25:00.350Z"
+        },
+        {
+          "views": 10559,
+          "likes": 259,
+          "comments": 1,
+          "shares": 7,
+          "timestamp": "2026-07-05T09:25:30.078Z"
+        },
+        {
+          "views": 10712,
+          "likes": 260,
+          "comments": 1,
+          "shares": 7,
+          "timestamp": "2026-07-05T09:26:00.360Z"
+        },
+        {
+          "views": 10739,
+          "likes": 260,
+          "comments": 1,
+          "shares": 7,
+          "timestamp": "2026-07-05T09:26:30.123Z"
+        },
+        {
+          "views": 10840,
+          "likes": 260,
+          "comments": 1,
+          "shares": 7,
+          "timestamp": "2026-07-05T09:27:00.346Z"
+        },
+        {
+          "views": 10947,
+          "likes": 262,
+          "comments": 1,
+          "shares": 7,
+          "timestamp": "2026-07-05T09:27:30.126Z"
+        },
+        {
+          "views": 11065,
+          "likes": 265,
+          "comments": 1,
+          "shares": 7,
+          "timestamp": "2026-07-05T09:28:00.419Z"
+        },
+        {
+          "views": 11098,
+          "likes": 265,
+          "comments": 1,
+          "shares": 7,
+          "timestamp": "2026-07-05T09:28:30.086Z"
+        },
+        {
+          "views": 11177,
+          "likes": 269,
+          "comments": 1,
+          "shares": 7,
+          "timestamp": "2026-07-05T09:29:00.096Z"
+        },
+        {
+          "views": 11254,
+          "likes": 271,
+          "comments": 1,
+          "shares": 7,
+          "timestamp": "2026-07-05T09:29:30.092Z"
+        },
+        {
+          "views": 11282,
+          "likes": 271,
+          "comments": 1,
+          "shares": 7,
+          "timestamp": "2026-07-05T09:30:00.117Z"
+        },
+        {
+          "views": 11302,
+          "likes": 271,
+          "comments": 1,
+          "shares": 7,
+          "timestamp": "2026-07-05T09:30:30.098Z"
+        },
+        {
+          "views": 11386,
+          "likes": 272,
+          "comments": 1,
+          "shares": 7,
+          "timestamp": "2026-07-05T09:31:00.120Z"
+        },
+        {
+          "views": 11526,
+          "likes": 272,
+          "comments": 1,
+          "shares": 7,
+          "timestamp": "2026-07-05T09:31:30.117Z"
+        },
+        {
+          "views": 11615,
+          "likes": 276,
+          "comments": 1,
+          "shares": 7,
+          "timestamp": "2026-07-05T09:32:00.134Z"
+        },
+        {
+          "views": 11675,
+          "likes": 278,
+          "comments": 1,
+          "shares": 7,
+          "timestamp": "2026-07-05T09:32:30.133Z"
+        },
+        {
+          "views": 11807,
+          "likes": 283,
+          "comments": 1,
+          "shares": 7,
+          "timestamp": "2026-07-05T09:33:00.148Z"
+        }
+      ],
+      "status": "active",
+      "lastUpdated": "2026-07-05T09:33:00.151Z",
+      "createdAt": "2026-07-04T19:11:43.154Z"
+    },
+    {
+      "_id": "v_ydny0rc7l",
+      "user": "u_z253u7axe",
+      "url": "https://youtu.be/HT-C_KTxbzU?si=7Rr8SWEucTyxJjfq",
+      "title": "YouTube Video 256",
+      "thumbnailUrl": "https://img.youtube.com/vi/HT-C_KTxbzU/mqdefault.jpg",
+      "platform": "YouTube",
+      "initialMetrics": {
+        "views": 117803,
+        "likes": 8724,
+        "comments": 857,
+        "shares": 871
+      },
+      "updatedMetrics": {
+        "views": 126926,
+        "likes": 8946,
+        "comments": 857,
+        "shares": 871
+      },
+      "history": [
+        {
+          "views": 125366,
+          "likes": 8906,
+          "comments": 857,
+          "shares": 871,
+          "timestamp": "2026-07-05T09:23:30.111Z"
+        },
+        {
+          "views": 125484,
+          "likes": 8906,
+          "comments": 857,
+          "shares": 871,
+          "timestamp": "2026-07-05T09:24:00.383Z"
+        },
+        {
+          "views": 125618,
+          "likes": 8911,
+          "comments": 857,
+          "shares": 871,
+          "timestamp": "2026-07-05T09:24:30.124Z"
+        },
+        {
+          "views": 125630,
+          "likes": 8911,
+          "comments": 857,
+          "shares": 871,
+          "timestamp": "2026-07-05T09:25:00.372Z"
+        },
+        {
+          "views": 125696,
+          "likes": 8912,
+          "comments": 857,
+          "shares": 871,
+          "timestamp": "2026-07-05T09:25:30.085Z"
+        },
+        {
+          "views": 125822,
+          "likes": 8919,
+          "comments": 857,
+          "shares": 871,
+          "timestamp": "2026-07-05T09:26:00.387Z"
+        },
+        {
+          "views": 125935,
+          "likes": 8921,
+          "comments": 857,
+          "shares": 871,
+          "timestamp": "2026-07-05T09:26:30.135Z"
+        },
+        {
+          "views": 126047,
+          "likes": 8924,
+          "comments": 857,
+          "shares": 871,
+          "timestamp": "2026-07-05T09:27:00.375Z"
+        },
+        {
+          "views": 126084,
+          "likes": 8926,
+          "comments": 857,
+          "shares": 871,
+          "timestamp": "2026-07-05T09:27:30.134Z"
+        },
+        {
+          "views": 126227,
+          "likes": 8932,
+          "comments": 857,
+          "shares": 871,
+          "timestamp": "2026-07-05T09:28:00.440Z"
+        },
+        {
+          "views": 126255,
+          "likes": 8933,
+          "comments": 857,
+          "shares": 871,
+          "timestamp": "2026-07-05T09:28:30.092Z"
+        },
+        {
+          "views": 126296,
+          "likes": 8933,
+          "comments": 857,
+          "shares": 871,
+          "timestamp": "2026-07-05T09:29:00.103Z"
+        },
+        {
+          "views": 126437,
+          "likes": 8934,
+          "comments": 857,
+          "shares": 871,
+          "timestamp": "2026-07-05T09:29:30.097Z"
+        },
+        {
+          "views": 126526,
+          "likes": 8934,
+          "comments": 857,
+          "shares": 871,
+          "timestamp": "2026-07-05T09:30:00.123Z"
+        },
+        {
+          "views": 126545,
+          "likes": 8934,
+          "comments": 857,
+          "shares": 871,
+          "timestamp": "2026-07-05T09:30:30.104Z"
+        },
+        {
+          "views": 126609,
+          "likes": 8936,
+          "comments": 857,
+          "shares": 871,
+          "timestamp": "2026-07-05T09:31:00.127Z"
+        },
+        {
+          "views": 126713,
+          "likes": 8940,
+          "comments": 857,
+          "shares": 871,
+          "timestamp": "2026-07-05T09:31:30.125Z"
+        },
+        {
+          "views": 126793,
+          "likes": 8940,
+          "comments": 857,
+          "shares": 871,
+          "timestamp": "2026-07-05T09:32:00.142Z"
+        },
+        {
+          "views": 126806,
+          "likes": 8940,
+          "comments": 857,
+          "shares": 871,
+          "timestamp": "2026-07-05T09:32:30.140Z"
+        },
+        {
+          "views": 126926,
+          "likes": 8946,
+          "comments": 857,
+          "shares": 871,
+          "timestamp": "2026-07-05T09:33:00.155Z"
+        }
+      ],
+      "status": "active",
+      "lastUpdated": "2026-07-05T09:33:00.157Z",
+      "createdAt": "2026-07-04T19:16:59.157Z"
+    },
+    {
+      "_id": "v_boluxvkby",
+      "user": "u_z253u7axe",
+      "url": "https://youtu.be/HT-C_KTxbzU?si=7Rr8SWEucTyxJjfq",
+      "title": "LinkedIn Video 526",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1611944212129-29977ae1398c?w=300&q=80",
+      "platform": "LinkedIn",
+      "initialMetrics": {
+        "views": 13186,
+        "likes": 415,
+        "comments": 63,
+        "shares": 343
+      },
+      "updatedMetrics": {
+        "views": 14015,
+        "likes": 415,
+        "comments": 63,
+        "shares": 343
+      },
+      "history": [
+        {
+          "views": 13846,
+          "likes": 415,
+          "comments": 63,
+          "shares": 343,
+          "timestamp": "2026-07-05T09:23:30.122Z"
+        },
+        {
+          "views": 13847,
+          "likes": 415,
+          "comments": 63,
+          "shares": 343,
+          "timestamp": "2026-07-05T09:24:00.452Z"
+        },
+        {
+          "views": 13857,
+          "likes": 415,
+          "comments": 63,
+          "shares": 343,
+          "timestamp": "2026-07-05T09:24:30.137Z"
+        },
+        {
+          "views": 13867,
+          "likes": 415,
+          "comments": 63,
+          "shares": 343,
+          "timestamp": "2026-07-05T09:25:00.397Z"
+        },
+        {
+          "views": 13882,
+          "likes": 415,
+          "comments": 63,
+          "shares": 343,
+          "timestamp": "2026-07-05T09:25:30.097Z"
+        },
+        {
+          "views": 13884,
+          "likes": 415,
+          "comments": 63,
+          "shares": 343,
+          "timestamp": "2026-07-05T09:26:00.412Z"
+        },
+        {
+          "views": 13898,
+          "likes": 415,
+          "comments": 63,
+          "shares": 343,
+          "timestamp": "2026-07-05T09:26:30.146Z"
+        },
+        {
+          "views": 13909,
+          "likes": 415,
+          "comments": 63,
+          "shares": 343,
+          "timestamp": "2026-07-05T09:27:00.396Z"
+        },
+        {
+          "views": 13922,
+          "likes": 415,
+          "comments": 63,
+          "shares": 343,
+          "timestamp": "2026-07-05T09:27:30.145Z"
+        },
+        {
+          "views": 13935,
+          "likes": 415,
+          "comments": 63,
+          "shares": 343,
+          "timestamp": "2026-07-05T09:28:00.467Z"
+        },
+        {
+          "views": 13942,
+          "likes": 415,
+          "comments": 63,
+          "shares": 343,
+          "timestamp": "2026-07-05T09:28:30.099Z"
+        },
+        {
+          "views": 13944,
+          "likes": 415,
+          "comments": 63,
+          "shares": 343,
+          "timestamp": "2026-07-05T09:29:00.111Z"
+        },
+        {
+          "views": 13952,
+          "likes": 415,
+          "comments": 63,
+          "shares": 343,
+          "timestamp": "2026-07-05T09:29:30.104Z"
+        },
+        {
+          "views": 13960,
+          "likes": 415,
+          "comments": 63,
+          "shares": 343,
+          "timestamp": "2026-07-05T09:30:00.129Z"
+        },
+        {
+          "views": 13965,
+          "likes": 415,
+          "comments": 63,
+          "shares": 343,
+          "timestamp": "2026-07-05T09:30:30.111Z"
+        },
+        {
+          "views": 13978,
+          "likes": 415,
+          "comments": 63,
+          "shares": 343,
+          "timestamp": "2026-07-05T09:31:00.134Z"
+        },
+        {
+          "views": 13991,
+          "likes": 415,
+          "comments": 63,
+          "shares": 343,
+          "timestamp": "2026-07-05T09:31:30.132Z"
+        },
+        {
+          "views": 13999,
+          "likes": 415,
+          "comments": 63,
+          "shares": 343,
+          "timestamp": "2026-07-05T09:32:00.148Z"
+        },
+        {
+          "views": 14011,
+          "likes": 415,
+          "comments": 63,
+          "shares": 343,
+          "timestamp": "2026-07-05T09:32:30.145Z"
+        },
+        {
+          "views": 14015,
+          "likes": 415,
+          "comments": 63,
+          "shares": 343,
+          "timestamp": "2026-07-05T09:33:00.160Z"
+        }
+      ],
+      "status": "active",
+      "lastUpdated": "2026-07-05T09:33:00.163Z",
+      "createdAt": "2026-07-04T19:17:49.404Z"
+    },
+    {
+      "_id": "v_ua5i0umod",
+      "user": "u_z253u7axe",
+      "url": "https://youtube.com/shorts/9lwam3_EJfw?si=C2RJSpAxDtgVYLVd",
+      "title": "YouTube Video 268",
+      "thumbnailUrl": "https://img.youtube.com/vi/9lwam3_EJfw/mqdefault.jpg",
+      "platform": "YouTube",
+      "initialMetrics": {
+        "views": 457809,
+        "likes": 23691,
+        "comments": 2243,
+        "shares": 2465
+      },
+      "updatedMetrics": {
+        "views": 465679,
+        "likes": 23871,
+        "comments": 2243,
+        "shares": 2465
+      },
+      "history": [
+        {
+          "views": 464146,
+          "likes": 23826,
+          "comments": 2243,
+          "shares": 2465,
+          "timestamp": "2026-07-05T09:23:30.134Z"
+        },
+        {
+          "views": 464259,
+          "likes": 23831,
+          "comments": 2243,
+          "shares": 2465,
+          "timestamp": "2026-07-05T09:24:00.521Z"
+        },
+        {
+          "views": 464288,
+          "likes": 23832,
+          "comments": 2243,
+          "shares": 2465,
+          "timestamp": "2026-07-05T09:24:30.151Z"
+        },
+        {
+          "views": 464301,
+          "likes": 23832,
+          "comments": 2243,
+          "shares": 2465,
+          "timestamp": "2026-07-05T09:25:00.421Z"
+        },
+        {
+          "views": 464391,
+          "likes": 23837,
+          "comments": 2243,
+          "shares": 2465,
+          "timestamp": "2026-07-05T09:25:30.104Z"
+        },
+        {
+          "views": 464511,
+          "likes": 23840,
+          "comments": 2243,
+          "shares": 2465,
+          "timestamp": "2026-07-05T09:26:00.430Z"
+        },
+        {
+          "views": 464540,
+          "likes": 23841,
+          "comments": 2243,
+          "shares": 2465,
+          "timestamp": "2026-07-05T09:26:30.157Z"
+        },
+        {
+          "views": 464612,
+          "likes": 23844,
+          "comments": 2243,
+          "shares": 2465,
+          "timestamp": "2026-07-05T09:27:00.420Z"
+        },
+        {
+          "views": 464745,
+          "likes": 23851,
+          "comments": 2243,
+          "shares": 2465,
+          "timestamp": "2026-07-05T09:27:30.153Z"
+        },
+        {
+          "views": 464771,
+          "likes": 23851,
+          "comments": 2243,
+          "shares": 2465,
+          "timestamp": "2026-07-05T09:28:00.493Z"
+        },
+        {
+          "views": 464895,
+          "likes": 23857,
+          "comments": 2243,
+          "shares": 2465,
+          "timestamp": "2026-07-05T09:28:30.105Z"
+        },
+        {
+          "views": 465042,
+          "likes": 23857,
+          "comments": 2243,
+          "shares": 2465,
+          "timestamp": "2026-07-05T09:29:00.119Z"
+        },
+        {
+          "views": 465087,
+          "likes": 23858,
+          "comments": 2243,
+          "shares": 2465,
+          "timestamp": "2026-07-05T09:29:30.111Z"
+        },
+        {
+          "views": 465185,
+          "likes": 23861,
+          "comments": 2243,
+          "shares": 2465,
+          "timestamp": "2026-07-05T09:30:00.137Z"
+        },
+        {
+          "views": 465210,
+          "likes": 23862,
+          "comments": 2243,
+          "shares": 2465,
+          "timestamp": "2026-07-05T09:30:30.117Z"
+        },
+        {
+          "views": 465342,
+          "likes": 23866,
+          "comments": 2243,
+          "shares": 2465,
+          "timestamp": "2026-07-05T09:31:00.141Z"
+        },
+        {
+          "views": 465460,
+          "likes": 23871,
+          "comments": 2243,
+          "shares": 2465,
+          "timestamp": "2026-07-05T09:31:30.137Z"
+        },
+        {
+          "views": 465609,
+          "likes": 23871,
+          "comments": 2243,
+          "shares": 2465,
+          "timestamp": "2026-07-05T09:32:00.155Z"
+        },
+        {
+          "views": 465636,
+          "likes": 23871,
+          "comments": 2243,
+          "shares": 2465,
+          "timestamp": "2026-07-05T09:32:30.151Z"
+        },
+        {
+          "views": 465679,
+          "likes": 23871,
+          "comments": 2243,
+          "shares": 2465,
+          "timestamp": "2026-07-05T09:33:00.167Z"
+        }
+      ],
+      "status": "active",
+      "lastUpdated": "2026-07-05T09:33:00.170Z",
+      "createdAt": "2026-07-04T19:21:23.071Z"
+    },
+    {
+      "_id": "v_a242e288g",
+      "user": "u_2yn3cwqjj",
+      "url": "https://youtu.be/AhTuSUEZ-xQ?si=3K1lFfD5eDh8aJyR",
+      "title": "Kaju Ab Golle Se Pange Leta Hain 😲 | Bharti Singh | Harssh Limbachiyaa | Golla | Yash",
+      "thumbnailUrl": "https://img.youtube.com/vi/AhTuSUEZ-xQ/mqdefault.jpg",
+      "platform": "YouTube",
+      "initialMetrics": {
+        "views": 2117956,
+        "likes": 41565,
+        "comments": 530,
+        "shares": 10589
+      },
+      "updatedMetrics": {
+        "views": 2125063,
+        "likes": 41706,
+        "comments": 530,
+        "shares": 10589
+      },
+      "history": [
+        {
+          "views": 2123215,
+          "likes": 41674,
+          "comments": 530,
+          "shares": 10589,
+          "timestamp": "2026-07-05T09:23:30.145Z"
+        },
+        {
+          "views": 2123350,
+          "likes": 41679,
+          "comments": 530,
+          "shares": 10589,
+          "timestamp": "2026-07-05T09:24:00.560Z"
+        },
+        {
+          "views": 2123374,
+          "likes": 41680,
+          "comments": 530,
+          "shares": 10589,
+          "timestamp": "2026-07-05T09:24:30.167Z"
+        },
+        {
+          "views": 2123443,
+          "likes": 41683,
+          "comments": 530,
+          "shares": 10589,
+          "timestamp": "2026-07-05T09:25:00.441Z"
+        },
+        {
+          "views": 2123586,
+          "likes": 41688,
+          "comments": 530,
+          "shares": 10589,
+          "timestamp": "2026-07-05T09:25:30.116Z"
+        },
+        {
+          "views": 2123731,
+          "likes": 41688,
+          "comments": 530,
+          "shares": 10589,
+          "timestamp": "2026-07-05T09:26:00.461Z"
+        },
+        {
+          "views": 2123838,
+          "likes": 41689,
+          "comments": 530,
+          "shares": 10589,
+          "timestamp": "2026-07-05T09:26:30.168Z"
+        },
+        {
+          "views": 2123937,
+          "likes": 41693,
+          "comments": 530,
+          "shares": 10589,
+          "timestamp": "2026-07-05T09:27:00.438Z"
+        },
+        {
+          "views": 2123977,
+          "likes": 41693,
+          "comments": 530,
+          "shares": 10589,
+          "timestamp": "2026-07-05T09:27:30.164Z"
+        },
+        {
+          "views": 2124101,
+          "likes": 41694,
+          "comments": 530,
+          "shares": 10589,
+          "timestamp": "2026-07-05T09:28:00.522Z"
+        },
+        {
+          "views": 2124125,
+          "likes": 41694,
+          "comments": 530,
+          "shares": 10589,
+          "timestamp": "2026-07-05T09:28:30.112Z"
+        },
+        {
+          "views": 2124278,
+          "likes": 41696,
+          "comments": 530,
+          "shares": 10589,
+          "timestamp": "2026-07-05T09:29:00.125Z"
+        },
+        {
+          "views": 2124340,
+          "likes": 41699,
+          "comments": 530,
+          "shares": 10589,
+          "timestamp": "2026-07-05T09:29:30.117Z"
+        },
+        {
+          "views": 2124458,
+          "likes": 41700,
+          "comments": 530,
+          "shares": 10589,
+          "timestamp": "2026-07-05T09:30:00.144Z"
+        },
+        {
+          "views": 2124515,
+          "likes": 41701,
+          "comments": 530,
+          "shares": 10589,
+          "timestamp": "2026-07-05T09:30:30.124Z"
+        },
+        {
+          "views": 2124646,
+          "likes": 41701,
+          "comments": 530,
+          "shares": 10589,
+          "timestamp": "2026-07-05T09:31:00.147Z"
+        },
+        {
+          "views": 2124764,
+          "likes": 41703,
+          "comments": 530,
+          "shares": 10589,
+          "timestamp": "2026-07-05T09:31:30.144Z"
+        },
+        {
+          "views": 2124848,
+          "likes": 41703,
+          "comments": 530,
+          "shares": 10589,
+          "timestamp": "2026-07-05T09:32:00.161Z"
+        },
+        {
+          "views": 2124915,
+          "likes": 41706,
+          "comments": 530,
+          "shares": 10589,
+          "timestamp": "2026-07-05T09:32:30.157Z"
+        },
+        {
+          "views": 2125063,
+          "likes": 41706,
+          "comments": 530,
+          "shares": 10589,
+          "timestamp": "2026-07-05T09:33:00.174Z"
+        }
+      ],
+      "status": "active",
+      "lastUpdated": "2026-07-05T09:33:00.177Z",
+      "createdAt": "2026-07-05T08:52:11.867Z"
+    },
+    {
+      "_id": "v_5v4i5dh3z",
+      "user": "u_2yn3cwqjj",
+      "url": "https://youtu.be/HdNOVtwvNnw?si=ZVV7EWHmmM791jWX",
+      "title": "🇰🇷Going to my first Korean Wedding 💒",
+      "thumbnailUrl": "https://img.youtube.com/vi/HdNOVtwvNnw/mqdefault.jpg",
+      "platform": "YouTube",
+      "initialMetrics": {
+        "views": 7787974,
+        "likes": 146427,
+        "comments": 4700,
+        "shares": 38939
+      },
+      "updatedMetrics": {
+        "views": 7794367,
+        "likes": 146575,
+        "comments": 4700,
+        "shares": 38939
+      },
+      "history": [
+        {
+          "views": 7792841,
+          "likes": 146544,
+          "comments": 4700,
+          "shares": 38939,
+          "timestamp": "2026-07-05T09:23:30.158Z"
+        },
+        {
+          "views": 7792858,
+          "likes": 146544,
+          "comments": 4700,
+          "shares": 38939,
+          "timestamp": "2026-07-05T09:24:00.600Z"
+        },
+        {
+          "views": 7792952,
+          "likes": 146544,
+          "comments": 4700,
+          "shares": 38939,
+          "timestamp": "2026-07-05T09:24:30.181Z"
+        },
+        {
+          "views": 7793048,
+          "likes": 146548,
+          "comments": 4700,
+          "shares": 38939,
+          "timestamp": "2026-07-05T09:25:00.467Z"
+        },
+        {
+          "views": 7793165,
+          "likes": 146552,
+          "comments": 4700,
+          "shares": 38939,
+          "timestamp": "2026-07-05T09:25:30.126Z"
+        },
+        {
+          "views": 7793228,
+          "likes": 146553,
+          "comments": 4700,
+          "shares": 38939,
+          "timestamp": "2026-07-05T09:26:00.487Z"
+        },
+        {
+          "views": 7793345,
+          "likes": 146555,
+          "comments": 4700,
+          "shares": 38939,
+          "timestamp": "2026-07-05T09:26:30.177Z"
+        },
+        {
+          "views": 7793375,
+          "likes": 146556,
+          "comments": 4700,
+          "shares": 38939,
+          "timestamp": "2026-07-05T09:27:00.461Z"
+        },
+        {
+          "views": 7793426,
+          "likes": 146559,
+          "comments": 4700,
+          "shares": 38939,
+          "timestamp": "2026-07-05T09:27:30.172Z"
+        },
+        {
+          "views": 7793530,
+          "likes": 146559,
+          "comments": 4700,
+          "shares": 38939,
+          "timestamp": "2026-07-05T09:28:00.547Z"
+        },
+        {
+          "views": 7793563,
+          "likes": 146559,
+          "comments": 4700,
+          "shares": 38939,
+          "timestamp": "2026-07-05T09:28:30.119Z"
+        },
+        {
+          "views": 7793605,
+          "likes": 146560,
+          "comments": 4700,
+          "shares": 38939,
+          "timestamp": "2026-07-05T09:29:00.134Z"
+        },
+        {
+          "views": 7793717,
+          "likes": 146561,
+          "comments": 4700,
+          "shares": 38939,
+          "timestamp": "2026-07-05T09:29:30.124Z"
+        },
+        {
+          "views": 7793864,
+          "likes": 146564,
+          "comments": 4700,
+          "shares": 38939,
+          "timestamp": "2026-07-05T09:30:00.150Z"
+        },
+        {
+          "views": 7793970,
+          "likes": 146565,
+          "comments": 4700,
+          "shares": 38939,
+          "timestamp": "2026-07-05T09:30:30.131Z"
+        },
+        {
+          "views": 7794008,
+          "likes": 146565,
+          "comments": 4700,
+          "shares": 38939,
+          "timestamp": "2026-07-05T09:31:00.154Z"
+        },
+        {
+          "views": 7794107,
+          "likes": 146569,
+          "comments": 4700,
+          "shares": 38939,
+          "timestamp": "2026-07-05T09:31:30.151Z"
+        },
+        {
+          "views": 7794253,
+          "likes": 146574,
+          "comments": 4700,
+          "shares": 38939,
+          "timestamp": "2026-07-05T09:32:00.168Z"
+        },
+        {
+          "views": 7794316,
+          "likes": 146575,
+          "comments": 4700,
+          "shares": 38939,
+          "timestamp": "2026-07-05T09:32:30.163Z"
+        },
+        {
+          "views": 7794367,
+          "likes": 146575,
+          "comments": 4700,
+          "shares": 38939,
+          "timestamp": "2026-07-05T09:33:00.180Z"
+        }
+      ],
+      "status": "active",
+      "lastUpdated": "2026-07-05T09:33:00.182Z",
+      "createdAt": "2026-07-05T08:59:02.853Z"
+    },
+    {
+      "_id": "v_76lr8ntei",
+      "user": "u_2yn3cwqjj",
+      "url": "https://www.instagram.com/reel/DaX9b_mTk9E/?igsh=MThjeWl4MWV0ZjQ4eQ==",
+      "title": "Instagram",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1611162616305-c69b3fa7fbe0?w=300&q=80",
+      "platform": "Instagram",
+      "initialMetrics": {
+        "views": 203963,
+        "likes": 8158,
+        "comments": 407,
+        "shares": 1019
+      },
+      "updatedMetrics": {
+        "views": 206439,
+        "likes": 8265,
+        "comments": 407,
+        "shares": 1019
+      },
+      "history": [
+        {
+          "views": 205579,
+          "likes": 8226,
+          "comments": 407,
+          "shares": 1019,
+          "timestamp": "2026-07-05T09:23:30.172Z"
+        },
+        {
+          "views": 205592,
+          "likes": 8226,
+          "comments": 407,
+          "shares": 1019,
+          "timestamp": "2026-07-05T09:24:00.635Z"
+        },
+        {
+          "views": 205630,
+          "likes": 8226,
+          "comments": 407,
+          "shares": 1019,
+          "timestamp": "2026-07-05T09:24:30.194Z"
+        },
+        {
+          "views": 205656,
+          "likes": 8226,
+          "comments": 407,
+          "shares": 1019,
+          "timestamp": "2026-07-05T09:25:00.489Z"
+        },
+        {
+          "views": 205740,
+          "likes": 8231,
+          "comments": 407,
+          "shares": 1019,
+          "timestamp": "2026-07-05T09:25:30.135Z"
+        },
+        {
+          "views": 205761,
+          "likes": 8232,
+          "comments": 407,
+          "shares": 1019,
+          "timestamp": "2026-07-05T09:26:00.512Z"
+        },
+        {
+          "views": 205775,
+          "likes": 8233,
+          "comments": 407,
+          "shares": 1019,
+          "timestamp": "2026-07-05T09:26:30.188Z"
+        },
+        {
+          "views": 205795,
+          "likes": 8234,
+          "comments": 407,
+          "shares": 1019,
+          "timestamp": "2026-07-05T09:27:00.489Z"
+        },
+        {
+          "views": 205861,
+          "likes": 8238,
+          "comments": 407,
+          "shares": 1019,
+          "timestamp": "2026-07-05T09:27:30.184Z"
+        },
+        {
+          "views": 205891,
+          "likes": 8239,
+          "comments": 407,
+          "shares": 1019,
+          "timestamp": "2026-07-05T09:28:00.571Z"
+        },
+        {
+          "views": 205971,
+          "likes": 8243,
+          "comments": 407,
+          "shares": 1019,
+          "timestamp": "2026-07-05T09:28:30.126Z"
+        },
+        {
+          "views": 206004,
+          "likes": 8245,
+          "comments": 407,
+          "shares": 1019,
+          "timestamp": "2026-07-05T09:29:00.141Z"
+        },
+        {
+          "views": 206076,
+          "likes": 8247,
+          "comments": 407,
+          "shares": 1019,
+          "timestamp": "2026-07-05T09:29:30.134Z"
+        },
+        {
+          "views": 206136,
+          "likes": 8252,
+          "comments": 407,
+          "shares": 1019,
+          "timestamp": "2026-07-05T09:30:00.156Z"
+        },
+        {
+          "views": 206151,
+          "likes": 8253,
+          "comments": 407,
+          "shares": 1019,
+          "timestamp": "2026-07-05T09:30:30.137Z"
+        },
+        {
+          "views": 206164,
+          "likes": 8253,
+          "comments": 407,
+          "shares": 1019,
+          "timestamp": "2026-07-05T09:31:00.160Z"
+        },
+        {
+          "views": 206242,
+          "likes": 8256,
+          "comments": 407,
+          "shares": 1019,
+          "timestamp": "2026-07-05T09:31:30.157Z"
+        },
+        {
+          "views": 206300,
+          "likes": 8256,
+          "comments": 407,
+          "shares": 1019,
+          "timestamp": "2026-07-05T09:32:00.175Z"
+        },
+        {
+          "views": 206365,
+          "likes": 8259,
+          "comments": 407,
+          "shares": 1019,
+          "timestamp": "2026-07-05T09:32:30.169Z"
+        },
+        {
+          "views": 206439,
+          "likes": 8265,
+          "comments": 407,
+          "shares": 1019,
+          "timestamp": "2026-07-05T09:33:00.186Z"
+        }
+      ],
+      "status": "active",
+      "lastUpdated": "2026-07-05T09:33:00.189Z",
+      "createdAt": "2026-07-05T09:06:06.567Z"
+    },
+    {
+      "_id": "v_sj18kjs4m",
+      "user": "u_2yn3cwqjj",
+      "url": "https://www.linkedin.com/posts/roshani-kumari-bb8145328_git-github-softwareengineer-ugcPost-7479370223956135936-g0Tb/?utm_source=social_share_send&utm_medium=android_app&rcm=ACoAAFaPkJABBUfHjSJKiEL_WUzKvIOAujhJHCM&utm_campaign=copy_link",
+      "title": "#git #github #softwareengineer #developer #programming #coding #opensource #python #dataanalytics #machinelearning #devops #fullstackdeveloper #interviewpreparation #techcareer #learntocode | Roshani Kumari | 35 comments",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1611944212129-29977ae1398c?w=300&q=80",
+      "platform": "LinkedIn",
+      "initialMetrics": {
+        "views": 88159,
+        "likes": 3526,
+        "comments": 176,
+        "shares": 440
+      },
+      "updatedMetrics": {
+        "views": 88530,
+        "likes": 3526,
+        "comments": 176,
+        "shares": 440
+      },
+      "history": [
+        {
+          "views": 88371,
+          "likes": 3526,
+          "comments": 176,
+          "shares": 440,
+          "timestamp": "2026-07-05T09:23:30.190Z"
+        },
+        {
+          "views": 88384,
+          "likes": 3526,
+          "comments": 176,
+          "shares": 440,
+          "timestamp": "2026-07-05T09:24:00.686Z"
+        },
+        {
+          "views": 88385,
+          "likes": 3526,
+          "comments": 176,
+          "shares": 440,
+          "timestamp": "2026-07-05T09:24:30.207Z"
+        },
+        {
+          "views": 88390,
+          "likes": 3526,
+          "comments": 176,
+          "shares": 440,
+          "timestamp": "2026-07-05T09:25:00.511Z"
+        },
+        {
+          "views": 88400,
+          "likes": 3526,
+          "comments": 176,
+          "shares": 440,
+          "timestamp": "2026-07-05T09:25:30.147Z"
+        },
+        {
+          "views": 88415,
+          "likes": 3526,
+          "comments": 176,
+          "shares": 440,
+          "timestamp": "2026-07-05T09:26:00.535Z"
+        },
+        {
+          "views": 88420,
+          "likes": 3526,
+          "comments": 176,
+          "shares": 440,
+          "timestamp": "2026-07-05T09:26:30.198Z"
+        },
+        {
+          "views": 88423,
+          "likes": 3526,
+          "comments": 176,
+          "shares": 440,
+          "timestamp": "2026-07-05T09:27:00.511Z"
+        },
+        {
+          "views": 88425,
+          "likes": 3526,
+          "comments": 176,
+          "shares": 440,
+          "timestamp": "2026-07-05T09:27:30.196Z"
+        },
+        {
+          "views": 88427,
+          "likes": 3526,
+          "comments": 176,
+          "shares": 440,
+          "timestamp": "2026-07-05T09:28:00.603Z"
+        },
+        {
+          "views": 88439,
+          "likes": 3526,
+          "comments": 176,
+          "shares": 440,
+          "timestamp": "2026-07-05T09:28:30.132Z"
+        },
+        {
+          "views": 88445,
+          "likes": 3526,
+          "comments": 176,
+          "shares": 440,
+          "timestamp": "2026-07-05T09:29:00.148Z"
+        },
+        {
+          "views": 88455,
+          "likes": 3526,
+          "comments": 176,
+          "shares": 440,
+          "timestamp": "2026-07-05T09:29:30.143Z"
+        },
+        {
+          "views": 88461,
+          "likes": 3526,
+          "comments": 176,
+          "shares": 440,
+          "timestamp": "2026-07-05T09:30:00.162Z"
+        },
+        {
+          "views": 88475,
+          "likes": 3526,
+          "comments": 176,
+          "shares": 440,
+          "timestamp": "2026-07-05T09:30:30.144Z"
+        },
+        {
+          "views": 88486,
+          "likes": 3526,
+          "comments": 176,
+          "shares": 440,
+          "timestamp": "2026-07-05T09:31:00.167Z"
+        },
+        {
+          "views": 88496,
+          "likes": 3526,
+          "comments": 176,
+          "shares": 440,
+          "timestamp": "2026-07-05T09:31:30.165Z"
+        },
+        {
+          "views": 88510,
+          "likes": 3526,
+          "comments": 176,
+          "shares": 440,
+          "timestamp": "2026-07-05T09:32:00.181Z"
+        },
+        {
+          "views": 88525,
+          "likes": 3526,
+          "comments": 176,
+          "shares": 440,
+          "timestamp": "2026-07-05T09:32:30.175Z"
+        },
+        {
+          "views": 88530,
+          "likes": 3526,
+          "comments": 176,
+          "shares": 440,
+          "timestamp": "2026-07-05T09:33:00.192Z"
+        }
+      ],
+      "status": "active",
+      "lastUpdated": "2026-07-05T09:33:00.196Z",
+      "createdAt": "2026-07-05T09:10:03.315Z"
+    },
+    {
+      "_id": "v_felfcgtaf",
+      "user": "u_2yn3cwqjj",
+      "url": "https://youtu.be/HdNOVtwvNnw?si=ZVV7EWHmmM791jWX",
+      "title": "🇰🇷Going to my first Korean Wedding 💒",
+      "thumbnailUrl": "https://img.youtube.com/vi/HdNOVtwvNnw/mqdefault.jpg",
+      "platform": "YouTube",
+      "initialMetrics": {
+        "views": 7788118,
+        "likes": 146429,
+        "comments": 4700,
+        "shares": 38940
+      },
+      "updatedMetrics": {
+        "views": 7789648,
+        "likes": 146460,
+        "comments": 4700,
+        "shares": 38940
+      },
+      "history": [
+        {
+          "views": 7788191,
+          "likes": 146429,
+          "comments": 4700,
+          "shares": 38940,
+          "timestamp": "2026-07-05T09:23:30.207Z"
+        },
+        {
+          "views": 7788202,
+          "likes": 146429,
+          "comments": 4700,
+          "shares": 38940,
+          "timestamp": "2026-07-05T09:24:00.720Z"
+        },
+        {
+          "views": 7788347,
+          "likes": 146429,
+          "comments": 4700,
+          "shares": 38940,
+          "timestamp": "2026-07-05T09:24:30.218Z"
+        },
+        {
+          "views": 7788433,
+          "likes": 146431,
+          "comments": 4700,
+          "shares": 38940,
+          "timestamp": "2026-07-05T09:25:00.537Z"
+        },
+        {
+          "views": 7788579,
+          "likes": 146436,
+          "comments": 4700,
+          "shares": 38940,
+          "timestamp": "2026-07-05T09:25:30.155Z"
+        },
+        {
+          "views": 7788729,
+          "likes": 146441,
+          "comments": 4700,
+          "shares": 38940,
+          "timestamp": "2026-07-05T09:26:00.559Z"
+        },
+        {
+          "views": 7788775,
+          "likes": 146443,
+          "comments": 4700,
+          "shares": 38940,
+          "timestamp": "2026-07-05T09:26:30.210Z"
+        },
+        {
+          "views": 7788841,
+          "likes": 146445,
+          "comments": 4700,
+          "shares": 38940,
+          "timestamp": "2026-07-05T09:27:00.532Z"
+        },
+        {
+          "views": 7788883,
+          "likes": 146447,
+          "comments": 4700,
+          "shares": 38940,
+          "timestamp": "2026-07-05T09:27:30.203Z"
+        },
+        {
+          "views": 7788949,
+          "likes": 146449,
+          "comments": 4700,
+          "shares": 38940,
+          "timestamp": "2026-07-05T09:28:00.631Z"
+        },
+        {
+          "views": 7788968,
+          "likes": 146449,
+          "comments": 4700,
+          "shares": 38940,
+          "timestamp": "2026-07-05T09:28:30.138Z"
+        },
+        {
+          "views": 7789000,
+          "likes": 146450,
+          "comments": 4700,
+          "shares": 38940,
+          "timestamp": "2026-07-05T09:29:00.156Z"
+        },
+        {
+          "views": 7789059,
+          "likes": 146451,
+          "comments": 4700,
+          "shares": 38940,
+          "timestamp": "2026-07-05T09:29:30.150Z"
+        },
+        {
+          "views": 7789084,
+          "likes": 146452,
+          "comments": 4700,
+          "shares": 38940,
+          "timestamp": "2026-07-05T09:30:00.169Z"
+        },
+        {
+          "views": 7789105,
+          "likes": 146453,
+          "comments": 4700,
+          "shares": 38940,
+          "timestamp": "2026-07-05T09:30:30.149Z"
+        },
+        {
+          "views": 7789142,
+          "likes": 146453,
+          "comments": 4700,
+          "shares": 38940,
+          "timestamp": "2026-07-05T09:31:00.174Z"
+        },
+        {
+          "views": 7789273,
+          "likes": 146454,
+          "comments": 4700,
+          "shares": 38940,
+          "timestamp": "2026-07-05T09:31:30.171Z"
+        },
+        {
+          "views": 7789407,
+          "likes": 146454,
+          "comments": 4700,
+          "shares": 38940,
+          "timestamp": "2026-07-05T09:32:00.188Z"
+        },
+        {
+          "views": 7789544,
+          "likes": 146459,
+          "comments": 4700,
+          "shares": 38940,
+          "timestamp": "2026-07-05T09:32:30.180Z"
+        },
+        {
+          "views": 7789648,
+          "likes": 146460,
+          "comments": 4700,
+          "shares": 38940,
+          "timestamp": "2026-07-05T09:33:00.200Z"
+        }
+      ],
+      "status": "active",
+      "lastUpdated": "2026-07-05T09:33:00.203Z",
+      "createdAt": "2026-07-05T09:22:25.326Z"
+    },
+    {
+      "_id": "v_cehlf0whd",
+      "user": "u_2yn3cwqjj",
+      "url": "https://www.instagram.com/reel/DaX9b_mTk9E/?igsh=MThjeWl4MWV0ZjQ4eQ==",
+      "title": "Instagram",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1611162616305-c69b3fa7fbe0?w=300&q=80",
+      "platform": "Instagram",
+      "initialMetrics": {
+        "views": 82300,
+        "likes": 3292,
+        "comments": 164,
+        "shares": 411
+      },
+      "updatedMetrics": {
+        "views": 83124,
+        "likes": 3323,
+        "comments": 164,
+        "shares": 411
+      },
+      "history": [
+        {
+          "views": 82300,
+          "likes": 3292,
+          "comments": 164,
+          "shares": 411,
+          "timestamp": "2026-07-05T09:24:11.881Z"
+        },
+        {
+          "views": 82368,
+          "likes": 3297,
+          "comments": 164,
+          "shares": 411,
+          "timestamp": "2026-07-05T09:24:30.233Z"
+        },
+        {
+          "views": 82424,
+          "likes": 3298,
+          "comments": 164,
+          "shares": 411,
+          "timestamp": "2026-07-05T09:25:00.556Z"
+        },
+        {
+          "views": 82466,
+          "likes": 3300,
+          "comments": 164,
+          "shares": 411,
+          "timestamp": "2026-07-05T09:25:30.166Z"
+        },
+        {
+          "views": 82518,
+          "likes": 3301,
+          "comments": 164,
+          "shares": 411,
+          "timestamp": "2026-07-05T09:26:00.589Z"
+        },
+        {
+          "views": 82535,
+          "likes": 3302,
+          "comments": 164,
+          "shares": 411,
+          "timestamp": "2026-07-05T09:26:30.220Z"
+        },
+        {
+          "views": 82618,
+          "likes": 3309,
+          "comments": 164,
+          "shares": 411,
+          "timestamp": "2026-07-05T09:27:00.558Z"
+        },
+        {
+          "views": 82694,
+          "likes": 3309,
+          "comments": 164,
+          "shares": 411,
+          "timestamp": "2026-07-05T09:27:30.214Z"
+        },
+        {
+          "views": 82712,
+          "likes": 3309,
+          "comments": 164,
+          "shares": 411,
+          "timestamp": "2026-07-05T09:28:00.657Z"
+        },
+        {
+          "views": 82727,
+          "likes": 3309,
+          "comments": 164,
+          "shares": 411,
+          "timestamp": "2026-07-05T09:28:30.144Z"
+        },
+        {
+          "views": 82782,
+          "likes": 3313,
+          "comments": 164,
+          "shares": 411,
+          "timestamp": "2026-07-05T09:29:00.163Z"
+        },
+        {
+          "views": 82833,
+          "likes": 3313,
+          "comments": 164,
+          "shares": 411,
+          "timestamp": "2026-07-05T09:29:30.157Z"
+        },
+        {
+          "views": 82842,
+          "likes": 3313,
+          "comments": 164,
+          "shares": 411,
+          "timestamp": "2026-07-05T09:30:00.175Z"
+        },
+        {
+          "views": 82915,
+          "likes": 3318,
+          "comments": 164,
+          "shares": 411,
+          "timestamp": "2026-07-05T09:30:30.155Z"
+        },
+        {
+          "views": 82951,
+          "likes": 3318,
+          "comments": 164,
+          "shares": 411,
+          "timestamp": "2026-07-05T09:31:00.180Z"
+        },
+        {
+          "views": 82968,
+          "likes": 3319,
+          "comments": 164,
+          "shares": 411,
+          "timestamp": "2026-07-05T09:31:30.177Z"
+        },
+        {
+          "views": 82995,
+          "likes": 3319,
+          "comments": 164,
+          "shares": 411,
+          "timestamp": "2026-07-05T09:32:00.194Z"
+        },
+        {
+          "views": 83047,
+          "likes": 3319,
+          "comments": 164,
+          "shares": 411,
+          "timestamp": "2026-07-05T09:32:30.185Z"
+        },
+        {
+          "views": 83124,
+          "likes": 3323,
+          "comments": 164,
+          "shares": 411,
+          "timestamp": "2026-07-05T09:33:00.206Z"
+        }
+      ],
+      "status": "active",
+      "lastUpdated": "2026-07-05T09:33:00.209Z",
+      "createdAt": "2026-07-05T09:24:11.887Z"
+    },
+    {
+      "_id": "v_486oqthsi",
+      "user": "u_2yn3cwqjj",
+      "url": "https://www.linkedin.com/posts/roshani-kumari-bb8145328_git-github-softwareengineer-ugcPost-7479370223956135936-g0Tb/?utm_source=social_share_send&utm_medium=android_app&rcm=ACoAAFaPkJABBUfHjSJKiEL_WUzKvIOAujhJHCM&utm_campaign=copy_link",
+      "title": "#git #github #softwareengineer #developer #programming #coding #opensource #python #dataanalytics #machinelearning #devops #fullstackdeveloper #interviewpreparation #techcareer #learntocode | Roshani Kumari | 35 comments",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1611944212129-29977ae1398c?w=300&q=80",
+      "platform": "LinkedIn",
+      "initialMetrics": {
+        "views": 81175,
+        "likes": 3247,
+        "comments": 162,
+        "shares": 405
+      },
+      "updatedMetrics": {
+        "views": 81305,
+        "likes": 3247,
+        "comments": 162,
+        "shares": 405
+      },
+      "history": [
+        {
+          "views": 81175,
+          "likes": 3247,
+          "comments": 162,
+          "shares": 405,
+          "timestamp": "2026-07-05T09:25:35.325Z"
+        },
+        {
+          "views": 81176,
+          "likes": 3247,
+          "comments": 162,
+          "shares": 405,
+          "timestamp": "2026-07-05T09:26:00.615Z"
+        },
+        {
+          "views": 81182,
+          "likes": 3247,
+          "comments": 162,
+          "shares": 405,
+          "timestamp": "2026-07-05T09:26:30.229Z"
+        },
+        {
+          "views": 81194,
+          "likes": 3247,
+          "comments": 162,
+          "shares": 405,
+          "timestamp": "2026-07-05T09:27:00.578Z"
+        },
+        {
+          "views": 81197,
+          "likes": 3247,
+          "comments": 162,
+          "shares": 405,
+          "timestamp": "2026-07-05T09:27:30.222Z"
+        },
+        {
+          "views": 81208,
+          "likes": 3247,
+          "comments": 162,
+          "shares": 405,
+          "timestamp": "2026-07-05T09:28:00.682Z"
+        },
+        {
+          "views": 81223,
+          "likes": 3247,
+          "comments": 162,
+          "shares": 405,
+          "timestamp": "2026-07-05T09:28:30.151Z"
+        },
+        {
+          "views": 81238,
+          "likes": 3247,
+          "comments": 162,
+          "shares": 405,
+          "timestamp": "2026-07-05T09:29:00.171Z"
+        },
+        {
+          "views": 81252,
+          "likes": 3247,
+          "comments": 162,
+          "shares": 405,
+          "timestamp": "2026-07-05T09:29:30.164Z"
+        },
+        {
+          "views": 81257,
+          "likes": 3247,
+          "comments": 162,
+          "shares": 405,
+          "timestamp": "2026-07-05T09:30:00.181Z"
+        },
+        {
+          "views": 81271,
+          "likes": 3247,
+          "comments": 162,
+          "shares": 405,
+          "timestamp": "2026-07-05T09:30:30.162Z"
+        },
+        {
+          "views": 81272,
+          "likes": 3247,
+          "comments": 162,
+          "shares": 405,
+          "timestamp": "2026-07-05T09:31:00.186Z"
+        },
+        {
+          "views": 81279,
+          "likes": 3247,
+          "comments": 162,
+          "shares": 405,
+          "timestamp": "2026-07-05T09:31:30.184Z"
+        },
+        {
+          "views": 81285,
+          "likes": 3247,
+          "comments": 162,
+          "shares": 405,
+          "timestamp": "2026-07-05T09:32:00.201Z"
+        },
+        {
+          "views": 81291,
+          "likes": 3247,
+          "comments": 162,
+          "shares": 405,
+          "timestamp": "2026-07-05T09:32:30.191Z"
+        },
+        {
+          "views": 81305,
+          "likes": 3247,
+          "comments": 162,
+          "shares": 405,
+          "timestamp": "2026-07-05T09:33:00.213Z"
+        }
+      ],
+      "status": "active",
+      "lastUpdated": "2026-07-05T09:33:00.216Z",
+      "createdAt": "2026-07-05T09:25:35.330Z"
+    },
+    {
+      "_id": "v_kpau92dda",
+      "user": "u_2yn3cwqjj",
+      "url": "https://www.linkedin.com/posts/we-are-delighted-to-share-that-sbi-has-been-ugcPost-7474731555630899200-LSnB/?utm_source=social_share_send&utm_medium=android_app&rcm=ACoAAFaPkJABBUfHjSJKiEL_WUzKvIOAujhJHCM&utm_campaign=copy_link",
+      "title": "We are delighted to share that SBI has been honoured with 5 prestigious awards at the ETHR Future Skills Awards 2026 | State Bank of India | 11 comments",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1611944212129-29977ae1398c?w=300&q=80",
+      "platform": "LinkedIn",
+      "initialMetrics": {
+        "views": 70372,
+        "likes": 2814,
+        "comments": 140,
+        "shares": 351
+      },
+      "updatedMetrics": {
+        "views": 70483,
+        "likes": 2814,
+        "comments": 140,
+        "shares": 351
+      },
+      "history": [
+        {
+          "views": 70372,
+          "likes": 2814,
+          "comments": 140,
+          "shares": 351,
+          "timestamp": "2026-07-05T09:27:26.127Z"
+        },
+        {
+          "views": 70377,
+          "likes": 2814,
+          "comments": 140,
+          "shares": 351,
+          "timestamp": "2026-07-05T09:27:30.234Z"
+        },
+        {
+          "views": 70391,
+          "likes": 2814,
+          "comments": 140,
+          "shares": 351,
+          "timestamp": "2026-07-05T09:28:00.705Z"
+        },
+        {
+          "views": 70401,
+          "likes": 2814,
+          "comments": 140,
+          "shares": 351,
+          "timestamp": "2026-07-05T09:28:30.157Z"
+        },
+        {
+          "views": 70414,
+          "likes": 2814,
+          "comments": 140,
+          "shares": 351,
+          "timestamp": "2026-07-05T09:29:00.177Z"
+        },
+        {
+          "views": 70427,
+          "likes": 2814,
+          "comments": 140,
+          "shares": 351,
+          "timestamp": "2026-07-05T09:29:30.170Z"
+        },
+        {
+          "views": 70440,
+          "likes": 2814,
+          "comments": 140,
+          "shares": 351,
+          "timestamp": "2026-07-05T09:30:00.188Z"
+        },
+        {
+          "views": 70455,
+          "likes": 2814,
+          "comments": 140,
+          "shares": 351,
+          "timestamp": "2026-07-05T09:30:30.168Z"
+        },
+        {
+          "views": 70456,
+          "likes": 2814,
+          "comments": 140,
+          "shares": 351,
+          "timestamp": "2026-07-05T09:31:00.193Z"
+        },
+        {
+          "views": 70464,
+          "likes": 2814,
+          "comments": 140,
+          "shares": 351,
+          "timestamp": "2026-07-05T09:31:30.191Z"
+        },
+        {
+          "views": 70469,
+          "likes": 2814,
+          "comments": 140,
+          "shares": 351,
+          "timestamp": "2026-07-05T09:32:00.208Z"
+        },
+        {
+          "views": 70472,
+          "likes": 2814,
+          "comments": 140,
+          "shares": 351,
+          "timestamp": "2026-07-05T09:32:30.197Z"
+        },
+        {
+          "views": 70483,
+          "likes": 2814,
+          "comments": 140,
+          "shares": 351,
+          "timestamp": "2026-07-05T09:33:00.220Z"
+        }
+      ],
+      "status": "active",
+      "lastUpdated": "2026-07-05T09:33:00.223Z",
+      "createdAt": "2026-07-05T09:27:26.149Z"
+    },
+    {
+      "_id": "v_hx5rj0qyq",
+      "user": "u_2yn3cwqjj",
+      "url": "https://www.linkedin.com/posts/we-are-delighted-to-share-that-sbi-has-been-ugcPost-7474731555630899200-LSnB/?utm_source=social_share_send&utm_medium=android_app&rcm=ACoAAFaPkJABBUfHjSJKiEL_WUzKvIOAujhJHCM&utm_campaign=copy_link",
+      "title": "We are delighted to share that SBI has been honoured with 5 prestigious awards at the ETHR Future Skills Awards 2026 | State Bank of India | 11 comments",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1611944212129-29977ae1398c?w=300&q=80",
+      "platform": "LinkedIn",
+      "initialMetrics": {
+        "views": 160398,
+        "likes": 6415,
+        "comments": 320,
+        "shares": 801
+      },
+      "updatedMetrics": {
+        "views": 160507,
+        "likes": 6415,
+        "comments": 320,
+        "shares": 801
+      },
+      "history": [
+        {
+          "views": 160398,
+          "likes": 6415,
+          "comments": 320,
+          "shares": 801,
+          "timestamp": "2026-07-05T09:27:49.835Z"
+        },
+        {
+          "views": 160411,
+          "likes": 6415,
+          "comments": 320,
+          "shares": 801,
+          "timestamp": "2026-07-05T09:28:00.732Z"
+        },
+        {
+          "views": 160414,
+          "likes": 6415,
+          "comments": 320,
+          "shares": 801,
+          "timestamp": "2026-07-05T09:28:30.165Z"
+        },
+        {
+          "views": 160428,
+          "likes": 6415,
+          "comments": 320,
+          "shares": 801,
+          "timestamp": "2026-07-05T09:29:00.184Z"
+        },
+        {
+          "views": 160434,
+          "likes": 6415,
+          "comments": 320,
+          "shares": 801,
+          "timestamp": "2026-07-05T09:29:30.176Z"
+        },
+        {
+          "views": 160445,
+          "likes": 6415,
+          "comments": 320,
+          "shares": 801,
+          "timestamp": "2026-07-05T09:30:00.193Z"
+        },
+        {
+          "views": 160454,
+          "likes": 6415,
+          "comments": 320,
+          "shares": 801,
+          "timestamp": "2026-07-05T09:30:30.175Z"
+        },
+        {
+          "views": 160460,
+          "likes": 6415,
+          "comments": 320,
+          "shares": 801,
+          "timestamp": "2026-07-05T09:31:00.199Z"
+        },
+        {
+          "views": 160472,
+          "likes": 6415,
+          "comments": 320,
+          "shares": 801,
+          "timestamp": "2026-07-05T09:31:30.199Z"
+        },
+        {
+          "views": 160487,
+          "likes": 6415,
+          "comments": 320,
+          "shares": 801,
+          "timestamp": "2026-07-05T09:32:00.215Z"
+        },
+        {
+          "views": 160500,
+          "likes": 6415,
+          "comments": 320,
+          "shares": 801,
+          "timestamp": "2026-07-05T09:32:30.203Z"
+        },
+        {
+          "views": 160507,
+          "likes": 6415,
+          "comments": 320,
+          "shares": 801,
+          "timestamp": "2026-07-05T09:33:00.227Z"
+        }
+      ],
+      "status": "active",
+      "lastUpdated": "2026-07-05T09:33:00.230Z",
+      "createdAt": "2026-07-05T09:27:49.842Z"
+    },
+    {
+      "_id": "v_01hwfsgf1",
+      "user": "u_z253u7axe",
+      "url": "https://www.linkedin.com/posts/we-are-delighted-to-share-that-sbi-has-been-ugcPost-7474731555630899200-LSnB/?utm_source=social_share_send&utm_medium=android_app&rcm=ACoAAFaPkJABBUfHjSJKiEL_WUzKvIOAujhJHCM&utm_campaign=copy_link",
+      "title": "We are delighted to share that SBI has been honoured with 5 prestigious awards at the ETHR Future Skills Awards 2026 | State Bank of India | 11 comments",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1611944212129-29977ae1398c?w=300&q=80",
+      "platform": "LinkedIn",
+      "initialMetrics": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "updatedMetrics": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "history": [
+        {
+          "views": 0,
+          "likes": 0,
+          "comments": 0,
+          "shares": 0,
+          "timestamp": "2026-07-05T09:46:21.841Z"
+        }
+      ],
+      "status": "active",
+      "lastUpdated": "2026-07-05T09:46:21.858Z",
+      "createdAt": "2026-07-05T09:46:21.856Z"
+    },
+    {
+      "_id": "v_hcnrjddax",
+      "user": "u_z253u7axe",
+      "url": "https://www.linkedin.com/posts/we-are-delighted-to-share-that-sbi-has-been-ugcPost-7474731555630899200-LSnB/?utm_source=social_share_send&utm_medium=android_app&rcm=ACoAAFaPkJABBUfHjSJKiEL_WUzKvIOAujhJHCM&utm_campaign=copy_link",
+      "title": "We are delighted to share that SBI has been honoured with 5 prestigious awards at the ETHR Future Skills Awards 2026 | State Bank of India | 11 comments",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1611944212129-29977ae1398c?w=300&q=80",
+      "platform": "LinkedIn",
+      "initialMetrics": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "updatedMetrics": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "history": [
+        {
+          "views": 0,
+          "likes": 0,
+          "comments": 0,
+          "shares": 0,
+          "timestamp": "2026-07-05T09:46:41.926Z"
+        }
+      ],
+      "status": "active",
+      "lastUpdated": "2026-07-05T09:46:41.947Z",
+      "createdAt": "2026-07-05T09:46:41.947Z"
+    },
+    {
+      "_id": "v_glxjmgzku",
+      "user": "u_z253u7axe",
+      "url": "https://www.linkedin.com/posts/we-are-delighted-to-share-that-sbi-has-been-ugcPost-7474731555630899200-LSnB/?utm_source=social_share_send&utm_medium=android_app&rcm=ACoAAFaPkJABBUfHjSJKiEL_WUzKvIOAujhJHCM&utm_campaign=copy_link",
+      "title": "We are delighted to share that SBI has been honoured with 5 prestigious awards at the ETHR Future Skills Awards 2026 | State Bank of India | 11 comments",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1611944212129-29977ae1398c?w=300&q=80",
+      "platform": "LinkedIn",
+      "initialMetrics": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "updatedMetrics": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "history": [
+        {
+          "views": 0,
+          "likes": 0,
+          "comments": 0,
+          "shares": 0,
+          "timestamp": "2026-07-05T09:47:10.494Z"
+        }
+      ],
+      "status": "active",
+      "lastUpdated": "2026-07-05T09:47:10.511Z",
+      "createdAt": "2026-07-05T09:47:10.511Z"
+    },
+    {
+      "_id": "v_zx7vx9p0z",
+      "user": "u_z253u7axe",
+      "url": "https://youtu.be/HdNOVtwvNnw?si=ZVV7EWHmmM791jWX",
+      "title": "🇰🇷Going to my first Korean Wedding 💒",
+      "thumbnailUrl": "https://img.youtube.com/vi/HdNOVtwvNnw/mqdefault.jpg",
+      "platform": "YouTube",
+      "initialMetrics": {
+        "views": 7788161,
+        "likes": 146429,
+        "comments": 4700,
+        "shares": 0
+      },
+      "updatedMetrics": {
+        "views": 7788161,
+        "likes": 146429,
+        "comments": 4700,
+        "shares": 0
+      },
+      "history": [
+        {
+          "views": 7788161,
+          "likes": 146429,
+          "comments": 4700,
+          "shares": 0,
+          "timestamp": "2026-07-05T09:47:30.799Z"
+        }
+      ],
+      "status": "active",
+      "lastUpdated": "2026-07-05T09:47:30.815Z",
+      "createdAt": "2026-07-05T09:47:30.815Z"
+    },
+    {
+      "_id": "v_6bcen8h02",
+      "user": "u_z253u7axe",
+      "url": "https://www.instagram.com/reel/DaX9b_mTk9E/?igsh=MThjeWl4MWV0ZjQ4eQ==",
+      "title": "Instagram",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1611162616305-c69b3fa7fbe0?w=300&q=80",
+      "platform": "Instagram",
+      "initialMetrics": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "updatedMetrics": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "history": [
+        {
+          "views": 0,
+          "likes": 0,
+          "comments": 0,
+          "shares": 0,
+          "timestamp": "2026-07-05T09:47:55.642Z"
+        }
+      ],
+      "status": "active",
+      "lastUpdated": "2026-07-05T09:47:55.650Z",
+      "createdAt": "2026-07-05T09:47:55.650Z"
+    },
+    {
+      "_id": "v_tzf1f5d8a",
+      "user": "u_z253u7axe",
+      "url": "https://www.linkedin.com/posts/we-are-delighted-to-share-that-sbi-has-been-ugcPost-7474731555630899200-LSnB/?utm_source=social_share_send&utm_medium=android_app&rcm=ACoAAFaPkJABBUfHjSJKiEL_WUzKvIOAujhJHCM&utm_campaign=copy_link",
+      "title": "We are delighted to share that SBI has been honoured with 5 prestigious awards at the ETHR Future Skills Awards 2026 | State Bank of India | 11 comments",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1611944212129-29977ae1398c?w=300&q=80",
+      "platform": "LinkedIn",
+      "initialMetrics": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "updatedMetrics": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "history": [
+        {
+          "views": 0,
+          "likes": 0,
+          "comments": 0,
+          "shares": 0,
+          "timestamp": "2026-07-05T09:49:04.452Z"
+        }
+      ],
+      "status": "active",
+      "lastUpdated": "2026-07-05T09:49:04.465Z",
+      "createdAt": "2026-07-05T09:49:04.465Z"
+    },
+    {
+      "_id": "v_9lavopmpu",
+      "user": "u_2yn3cwqjj",
+      "url": "https://www.instagram.com/reel/DaX9b_mTk9E/?igsh=MThjeWl4MWV0ZjQ4eQ==",
+      "title": "Instagram Video",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1611162616305-c69b3fa7fbe0?w=300&q=80",
+      "platform": "Instagram",
+      "initialMetrics": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "updatedMetrics": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "history": [
+        {
+          "views": 0,
+          "likes": 0,
+          "comments": 0,
+          "shares": 0,
+          "timestamp": "2026-07-05T10:05:13.695Z"
+        }
+      ],
+      "status": "active",
+      "lastUpdated": "2026-07-05T10:05:13.714Z",
+      "createdAt": "2026-07-05T10:05:13.714Z"
+    },
+    {
+      "_id": "v_6ehp2a3cm",
+      "user": "u_2yn3cwqjj",
+      "url": "https://www.instagram.com/reel/DaX9b_mTk9E/?igsh=MThjeWl4MWV0ZjQ4eQ==",
+      "title": "Instagram Video",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1611162616305-c69b3fa7fbe0?w=300&q=80",
+      "platform": "Instagram",
+      "initialMetrics": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "updatedMetrics": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "history": [
+        {
+          "views": 0,
+          "likes": 0,
+          "comments": 0,
+          "shares": 0,
+          "timestamp": "2026-07-05T10:05:29.139Z"
+        }
+      ],
+      "status": "active",
+      "lastUpdated": "2026-07-05T10:05:29.153Z",
+      "createdAt": "2026-07-05T10:05:29.152Z"
+    },
+    {
+      "_id": "v_q7lunursi",
+      "user": "u_2yn3cwqjj",
+      "url": "https://www.instagram.com/reel/DaX9b_mTk9E/?igsh=MThjeWl4MWV0ZjQ4eQ==",
+      "title": "Instagram Video",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1611162616305-c69b3fa7fbe0?w=300&q=80",
+      "platform": "Instagram",
+      "initialMetrics": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "updatedMetrics": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "history": [
+        {
+          "views": 0,
+          "likes": 0,
+          "comments": 0,
+          "shares": 0,
+          "timestamp": "2026-07-05T10:06:06.843Z"
+        }
+      ],
+      "status": "active",
+      "lastUpdated": "2026-07-05T10:06:06.976Z",
+      "createdAt": "2026-07-05T10:06:06.976Z"
+    },
+    {
+      "_id": "v_b0brw4svr",
+      "user": "u_2yn3cwqjj",
+      "url": "https://youtu.be/HdNOVtwvNnw?si=ZVV7EWHmmM791jWX",
+      "title": "🇰🇷Going to my first Korean Wedding 💒",
+      "thumbnailUrl": "https://img.youtube.com/vi/HdNOVtwvNnw/mqdefault.jpg",
+      "platform": "YouTube",
+      "initialMetrics": {
+        "views": 7788287,
+        "likes": 146429,
+        "comments": 4700,
+        "shares": 0
+      },
+      "updatedMetrics": {
+        "views": 7788287,
+        "likes": 146429,
+        "comments": 4700,
+        "shares": 0
+      },
+      "history": [
+        {
+          "views": 7788287,
+          "likes": 146429,
+          "comments": 4700,
+          "shares": 0,
+          "timestamp": "2026-07-05T10:07:39.821Z"
+        }
+      ],
+      "status": "active",
+      "lastUpdated": "2026-07-05T10:07:39.832Z",
+      "createdAt": "2026-07-05T10:07:39.832Z"
+    },
+    {
+      "_id": "v_z8w8e3owd",
+      "user": "u_z253u7axe",
+      "url": "https://www.instagram.com/reel/DaX9b_mTk9E/?igsh=MThjeWl4MWV0ZjQ4eQ==",
+      "title": "Instagram",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1611162616305-c69b3fa7fbe0?w=300&q=80",
+      "platform": "Instagram",
+      "initialMetrics": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "updatedMetrics": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "history": [
+        {
+          "views": 0,
+          "likes": 0,
+          "comments": 0,
+          "shares": 0,
+          "timestamp": "2026-07-05T10:34:29.188Z"
+        }
+      ],
+      "status": "active",
+      "lastUpdated": "2026-07-05T10:34:29.212Z",
+      "createdAt": "2026-07-05T10:34:29.212Z"
+    },
+    {
+      "_id": "v_r7lhsode4",
+      "user": "u_z253u7axe",
+      "url": "https://www.instagram.com/reel/DaX9b_mTk9E/?igsh=MThjeWl4MWV0ZjQ4eQ==",
+      "title": "Instagram",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1611162616305-c69b3fa7fbe0?w=300&q=80",
+      "platform": "Instagram",
+      "initialMetrics": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "updatedMetrics": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "history": [
+        {
+          "views": 0,
+          "likes": 0,
+          "comments": 0,
+          "shares": 0,
+          "timestamp": "2026-07-05T10:35:00.341Z"
+        }
+      ],
+      "status": "active",
+      "lastUpdated": "2026-07-05T10:35:00.357Z",
+      "createdAt": "2026-07-05T10:35:00.357Z"
+    },
+    {
+      "_id": "v_4d3l9jzan",
+      "user": "u_z253u7axe",
+      "url": "https://www.linkedin.com/posts/we-are-delighted-to-share-that-sbi-has-been-ugcPost-7474731555630899200-LSnB/?utm_source=social_share_send&utm_medium=android_app&rcm=ACoAAFaPkJABBUfHjSJKiEL_WUzKvIOAujhJHCM&utm_campaign=copy_link",
+      "title": "We are delighted to share that SBI has been honoured with 5 prestigious awards at the ETHR Future Skills Awards 2026 | State Bank of India | 11 comments",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1611944212129-29977ae1398c?w=300&q=80",
+      "platform": "LinkedIn",
+      "initialMetrics": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "updatedMetrics": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "history": [
+        {
+          "views": 0,
+          "likes": 0,
+          "comments": 0,
+          "shares": 0,
+          "timestamp": "2026-07-05T10:35:50.292Z"
+        }
+      ],
+      "status": "active",
+      "lastUpdated": "2026-07-05T10:35:50.305Z",
+      "createdAt": "2026-07-05T10:35:50.305Z"
+    },
+    {
+      "_id": "v_au0f0836b",
+      "user": "u_2yn3cwqjj",
+      "url": "https://www.linkedin.com/posts/we-are-delighted-to-share-that-sbi-has-been-ugcPost-7474731555630899200-LSnB/?utm_source=social_share_send&utm_medium=android_app&rcm=ACoAAFaPkJABBUfHjSJKiEL_WUzKvIOAujhJHCM&utm_campaign=copy_link",
+      "title": "We are delighted to share that SBI has been honoured with 5 prestigious awards at the ETHR Future Skills Awards 2026 | State Bank of India | 11 comments",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1611944212129-29977ae1398c?w=300&q=80",
+      "platform": "LinkedIn",
+      "initialMetrics": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "updatedMetrics": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "history": [
+        {
+          "views": 0,
+          "likes": 0,
+          "comments": 0,
+          "shares": 0,
+          "timestamp": "2026-07-05T10:44:44.614Z"
+        }
+      ],
+      "status": "active",
+      "lastUpdated": "2026-07-05T10:44:44.632Z",
+      "createdAt": "2026-07-05T10:44:44.632Z"
+    },
+    {
+      "_id": "v_6s5ccsm9c",
+      "user": "u_z253u7axe",
+      "url": "https://www.linkedin.com/posts/we-are-delighted-to-share-that-sbi-has-been-ugcPost-7474731555630899200-LSnB/?utm_source=social_share_send&utm_medium=android_app&rcm=ACoAAFaPkJABBUfHjSJKiEL_WUzKvIOAujhJHCM&utm_campaign=copy_link",
+      "title": "We are delighted to share that SBI has been honoured with 5 prestigious awards at the ETHR Future Skills Awards 2026 | State Bank of India | 11 comments",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1611944212129-29977ae1398c?w=300&q=80",
+      "platform": "LinkedIn",
+      "initialMetrics": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "updatedMetrics": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "history": [
+        {
+          "views": 0,
+          "likes": 0,
+          "comments": 0,
+          "shares": 0,
+          "timestamp": "2026-07-05T10:46:52.388Z"
+        }
+      ],
+      "status": "active",
+      "lastUpdated": "2026-07-05T10:46:52.399Z",
+      "createdAt": "2026-07-05T10:46:52.399Z"
+    },
+    {
+      "_id": "v_bns0h86ji",
+      "user": "u_2yn3cwqjj",
+      "url": "https://www.instagram.com/reel/DaX9b_mTk9E/?igsh=MThjeWl4MWV0ZjQ4eQ==",
+      "title": "Instagram",
+      "thumbnailUrl": "https://scontent.cdninstagram.com/v/t51.71878-15/729655009_1996193637677159_1492563371176474548_n.jpg?stp=cmp1_dst-jpg_e35_s640x640_tt6&_nc_cat=1&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=MbRPs1z627wQ7kNvwE6QLoQ&_nc_oc=Adof0rlwSNQWAAAjJZbDsR7LX3n6IV90RMLCcYj1t08VfDiguXC7beKEnhN0lWCYXONjgm5ZtTpI-3zTkTFZyRh6&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=ViKVO7DZsMVvLRdREN8lng&_nc_ss=7060f&oh=00_AQD0t4Zkr57plcpxYs1v66VunuwbAi_6vRkcXlxlvqpilg&oe=6A502516",
+      "platform": "Instagram",
+      "initialMetrics": {
+        "views": 119250,
+        "likes": 7950,
+        "comments": 71,
+        "shares": 142
+      },
+      "updatedMetrics": {
+        "views": 119250,
+        "likes": 7950,
+        "comments": 71,
+        "shares": 142
+      },
+      "history": [
+        {
+          "views": 119250,
+          "likes": 7950,
+          "comments": 71,
+          "shares": 142,
+          "timestamp": "2026-07-05T11:05:39.852Z"
+        }
+      ],
+      "status": "active",
+      "lastUpdated": "2026-07-05T11:05:39.862Z",
+      "createdAt": "2026-07-05T11:05:39.862Z"
+    },
+    {
+      "_id": "v_2qvze33mz",
+      "user": "u_2yn3cwqjj",
+      "url": "https://www.linkedin.com/posts/we-are-delighted-to-share-that-sbi-has-been-ugcPost-7474731555630899200-LSnB/?utm_source=social_share_send&utm_medium=android_app&rcm=ACoAAFaPkJABBUfHjSJKiEL_WUzKvIOAujhJHCM&utm_campaign=copy_link",
+      "title": "We are delighted to share that SBI has been honoured with 5 prestigious awards at the ETHR Future Skills Awards 2026 | State Bank of India | 11 comments",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1611944212129-29977ae1398c?w=300&q=80",
+      "platform": "LinkedIn",
+      "initialMetrics": {
+        "views": 5420,
+        "likes": 271,
+        "comments": 11,
+        "shares": 27
+      },
+      "updatedMetrics": {
+        "views": 5420,
+        "likes": 271,
+        "comments": 11,
+        "shares": 27
+      },
+      "history": [
+        {
+          "views": 5420,
+          "likes": 271,
+          "comments": 11,
+          "shares": 27,
+          "timestamp": "2026-07-05T11:09:57.052Z"
+        }
+      ],
+      "status": "active",
+      "lastUpdated": "2026-07-05T11:09:57.067Z",
+      "createdAt": "2026-07-05T11:09:57.067Z"
+    }
+  ]
+}
