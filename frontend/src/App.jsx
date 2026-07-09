@@ -454,8 +454,20 @@ export default function App() {
   const dashboardRef = useRef(null);
   const addVideoRef = useRef(null);
   const trackingSheetRef = useRef(null);
+  const googleSheetsRef = useRef(null);
   const analyticsRef = useRef(null);
   const exportRef = useRef(null);
+
+  // Google Sheets state
+  const [sheets, setSheets] = useState([]);
+  const [sheetUrlInput, setSheetUrlInput] = useState(localStorage.getItem('lastSheetUrl') || '');
+  const [sheetNameInput, setSheetNameInput] = useState('Sheet1');
+  const [serviceAccountInput, setServiceAccountInput] = useState(localStorage.getItem('lastServiceAccount') || '');
+  const [syncFrequencyInput, setSyncFrequencyInput] = useState('1h');
+  const [isConnectingSheet, setIsConnectingSheet] = useState(false);
+  const [sheetLogs, setSheetLogs] = useState([]);
+  const [isSyncingSheet, setIsSyncingSheet] = useState(false);
+  const [showConnectForm, setShowConnectForm] = useState(false);
 
   // Helper: Trigger custom toast notifications
   const triggerToast = (title, message, type = 'info') => {
@@ -477,7 +489,9 @@ export default function App() {
   useEffect(() => {
     if (token) {
       fetchSummary();
+      fetchSummary();
       fetchVideoList(true); // first load
+      fetchSheets();
 
       // Set polling loop to detect updates from background simulator
       const interval = setInterval(() => {
@@ -497,6 +511,7 @@ export default function App() {
       { id: 'dashboard', ref: dashboardRef },
       { id: 'add-video', ref: addVideoRef },
       { id: 'tracking-sheet', ref: trackingSheetRef },
+      { id: 'google-sheets', ref: googleSheetsRef },
       { id: 'analytics', ref: analyticsRef },
       { id: 'export', ref: exportRef }
     ];
@@ -724,6 +739,210 @@ export default function App() {
     } catch (error) {
       setIsFetching(false);
       triggerToast('Error', 'Server connection failed', 'danger');
+    }
+  };
+
+  const fetchSheets = async () => {
+    try {
+      const response = await fetch(`${API_BASE_URL}/sheets/list`, {
+        headers: { 'Authorization': `Bearer ${token}` }
+      });
+      if (response.ok) {
+        const data = await response.json();
+        setSheets(data);
+      }
+    } catch (e) {
+      console.error('Fetch sheets error:', e);
+    }
+  };
+
+  const handleConnectSheet = async (e) => {
+    e.preventDefault();
+    if (!sheetUrlInput) {
+      triggerToast('Error', 'Please enter a Google Sheet URL', 'danger');
+      return;
+    }
+
+    setIsConnectingSheet(true);
+    setSheetLogs(['[System] Initializing Google Sheets connection...']);
+
+    try {
+      const response = await fetch(`${API_BASE_URL}/sheets/connect`, {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+          'Authorization': `Bearer ${token}`
+        },
+        body: JSON.stringify({
+          spreadsheetUrl: sheetUrlInput,
+          sheetName: sheetNameInput,
+          serviceAccountJson: serviceAccountInput || undefined,
+          syncFrequency: syncFrequencyInput
+        })
+      });
+
+      const data = await response.json();
+      
+      if (data.logs) {
+        setSheetLogs(data.logs);
+      } else {
+        setSheetLogs(prev => [...prev, `[System] Response status: ${response.status}`]);
+      }
+
+      if (!response.ok) {
+        triggerToast('Connection Failed', data.error || 'Failed to connect sheet', 'danger');
+        setSheetLogs(prev => [...prev, `[System Error] ${data.error || 'Failed to connect sheet'}`]);
+        setIsConnectingSheet(false);
+        return;
+      }
+
+      triggerToast('Connected!', 'Google Sheet URLs successfully imported and tracked!', 'success');
+      localStorage.setItem('lastSheetUrl', sheetUrlInput);
+      localStorage.setItem('lastServiceAccount', serviceAccountInput);
+      setSyncFrequencyInput('1h');
+      fetchSheets();
+      fetchVideoList(true);
+      fetchSummary();
+      setIsConnectingSheet(false);
+      setShowConnectForm(false);
+
+    } catch (error) {
+      setIsConnectingSheet(false);
+      triggerToast('Error', 'Failed to reach backend server', 'danger');
+      setSheetLogs(prev => [...prev, '[System Error] Connection timeout or server unreachable.']);
+    }
+  };
+
+  const handleSyncSheet = async (sheetId) => {
+    setIsSyncingSheet(true);
+    setSheetLogs(['[System] Initiating manual synchronization cycle...']);
+    triggerToast('Syncing Sheet...', 'Fetching latest analytics and updating spreadsheet...', 'info');
+
+    try {
+      const response = await fetch(`${API_BASE_URL}/sheets/sync/${sheetId}`, {
+        method: 'POST',
+        headers: { 'Authorization': `Bearer ${token}` }
+      });
+
+      const data = await response.json();
+      
+      if (data.logs) {
+        setSheetLogs(data.logs);
+      }
+
+      if (!response.ok) {
+        triggerToast('Sync Failed', data.error || 'Failed to synchronize sheet', 'danger');
+        setSheetLogs(prev => [...prev, `[System Error] Sync failed: ${data.error || 'Failed to sync sheet'}`]);
+        setIsSyncingSheet(false);
+        fetchSheets();
+        return;
+      }
+
+      triggerToast('Synced!', 'Spreadsheet analytics updated successfully.', 'success');
+      fetchSheets();
+      fetchVideoList(true);
+      fetchSummary();
+      setIsSyncingSheet(false);
+
+    } catch (e) {
+      setIsSyncingSheet(false);
+      triggerToast('Error', 'Connection failed during sync', 'danger');
+      setSheetLogs(prev => [...prev, '[System Error] Sync connection failed.']);
+    }
+  };
+
+  const handleUpdateFrequency = async (sheetId, frequency) => {
+    try {
+      const response = await fetch(`${API_BASE_URL}/sheets/${sheetId}`, {
+        method: 'PATCH',
+        headers: {
+          'Content-Type': 'application/json',
+          'Authorization': `Bearer ${token}`
+        },
+        body: JSON.stringify({ syncFrequency: frequency })
+      });
+
+      const data = await response.json();
+      if (!response.ok) {
+        triggerToast('Error', data.error || 'Failed to update sync frequency', 'danger');
+        return;
+      }
+
+      triggerToast('Updated!', `Sync frequency updated successfully.`, 'success');
+      fetchSheets();
+    } catch (error) {
+      triggerToast('Error', 'Failed to update frequency setting', 'danger');
+    }
+  };
+
+  const handleSyncAllSheets = async () => {
+    if (sheets.length === 0) return;
+    setIsSyncingSheet(true);
+    setSheetLogs(['[System] Initiating batch synchronization cycle for all sheets...']);
+    triggerToast('Syncing All Sheets...', 'Refreshing latest analytics for all connected sheets...', 'info');
+
+    let successCount = 0;
+    let failCount = 0;
+
+    for (const sheet of sheets) {
+      const sheetId = sheet._id || sheet.id;
+      setSheetLogs(prev => [...prev, `[System] Syncing sheet ${sheet.spreadsheetId}...`]);
+      try {
+        const response = await fetch(`${API_BASE_URL}/sheets/sync/${sheetId}`, {
+          method: 'POST',
+          headers: { 'Authorization': `Bearer ${token}` }
+        });
+
+        const data = await response.json();
+        if (data.logs) {
+          setSheetLogs(prev => [...prev, ...data.logs]);
+        }
+
+        if (response.ok) {
+          successCount++;
+        } else {
+          failCount++;
+          setSheetLogs(prev => [...prev, `[System Error] Failed to sync ${sheet.spreadsheetId}: ${data.error}`]);
+        }
+      } catch (err) {
+        failCount++;
+        setSheetLogs(prev => [...prev, `[System Error] Network error syncing ${sheet.spreadsheetId}`]);
+      }
+    }
+
+    setIsSyncingSheet(false);
+    fetchSheets();
+    fetchVideoList(true);
+    fetchSummary();
+
+    if (failCount === 0) {
+      triggerToast('All Synced!', `Successfully synced ${successCount} sheet(s).`, 'success');
+    } else {
+      triggerToast('Sync Completed', `Synced: ${successCount}, Failed: ${failCount}. Check logs for details.`, 'warning');
+    }
+  };
+
+  const handleDeleteSheet = async (sheetId) => {
+    if (!window.confirm('Are you sure you want to disconnect this Google Sheet? Tracked videos will remain in the dashboard, but will no longer be synchronized with this spreadsheet.')) {
+      return;
+    }
+
+    try {
+      const response = await fetch(`${API_BASE_URL}/sheets/${sheetId}`, {
+        method: 'DELETE',
+        headers: { 'Authorization': `Bearer ${token}` }
+      });
+
+      if (response.ok) {
+        triggerToast('Disconnected', 'Google Sheet connection removed successfully.', 'info');
+        fetchSheets();
+        fetchVideoList(true);
+      } else {
+        const data = await response.json();
+        triggerToast('Error', data.error || 'Failed to disconnect sheet', 'danger');
+      }
+    } catch (e) {
+      triggerToast('Error', 'Connection failed', 'danger');
     }
   };
 
@@ -1063,6 +1282,12 @@ export default function App() {
             Excel Sheet
           </button>
           <button 
+            className={`nav-item ${activeSection === 'google-sheets' ? 'active' : ''}`}
+            onClick={() => scrollToSection('google-sheets', googleSheetsRef)}
+          >
+            Google Sheets
+          </button>
+          <button 
             className={`nav-item ${activeSection === 'analytics' ? 'active' : ''}`}
             onClick={() => scrollToSection('analytics', analyticsRef)}
           >
@@ -1077,6 +1302,15 @@ export default function App() {
         </nav>
 
         <div className="user-nav-action">
+          {sheets.length > 0 && (
+            <button 
+              className="sync-header-btn" 
+              onClick={handleSyncAllSheets}
+              disabled={isSyncingSheet}
+            >
+              {isSyncingSheet ? 'Syncing...' : 'Sync Sheets'}
+            </button>
+          )}
           <span className="user-email-tag">{userEmail}</span>
           <button className="logout-btn" onClick={handleLogout}>Log Out</button>
         </div>
@@ -1493,6 +1727,255 @@ export default function App() {
               </tbody>
             </table>
           </div>
+        </div>
+      </section>
+      {/* 3.5 GOOGLE SHEETS SYNC MANAGER SECTION */}
+      <section id="google-sheets" ref={googleSheetsRef} className="scroll-section">
+        <div className="section-title-area">
+          <div className="section-subtitle">Integration</div>
+          <h2>Google Sheets Sync Manager</h2>
+        </div>
+
+        <div className="google-sheets-container">
+          <div className="sheets-grid" style={{ gridTemplateColumns: (sheets.length === 0 || showConnectForm) ? '1fr 1.2fr' : '1fr' }}>
+            {/* Left Panel: Connect Form */}
+            {(sheets.length === 0 || showConnectForm) && (
+              <div className="sheets-card connect-card">
+                <div className="card-header" style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
+                  <div>
+                    <h3>Connect Google Spreadsheet</h3>
+                    <p>Import video URLs and synchronize metrics automatically.</p>
+                  </div>
+                  {sheets.length > 0 && (
+                    <button 
+                      type="button" 
+                      className="clear-logs-btn" 
+                      onClick={() => setShowConnectForm(false)}
+                      style={{ padding: '4px 8px', fontSize: '0.75rem' }}
+                    >
+                      Close
+                    </button>
+                  )}
+                </div>
+                
+                <form onSubmit={handleConnectSheet} className="connect-form">
+                  <div className="form-group">
+                    <label htmlFor="sheetUrl">Google Sheet URL / Spreadsheet ID</label>
+                    <input
+                      id="sheetUrl"
+                      type="url"
+                      value={sheetUrlInput}
+                      onChange={(e) => setSheetUrlInput(e.target.value)}
+                      placeholder="https://docs.google.com/spreadsheets/d/.../edit"
+                      className="form-input"
+                      required
+                      disabled={isConnectingSheet}
+                    />
+                  </div>
+
+                  <div className="form-row">
+                    <div className="form-group">
+                      <label htmlFor="sheetName">Sheet Name / Tab</label>
+                      <input
+                        id="sheetName"
+                        type="text"
+                        value={sheetNameInput}
+                        onChange={(e) => setSheetNameInput(e.target.value)}
+                        placeholder="Sheet1"
+                        className="form-input"
+                        required
+                        disabled={isConnectingSheet}
+                      />
+                    </div>
+                    <div className="form-group">
+                      <label htmlFor="syncFrequency">Sync Frequency</label>
+                      <select
+                        id="syncFrequency"
+                        value={syncFrequencyInput}
+                        onChange={(e) => setSyncFrequencyInput(e.target.value)}
+                        className="form-input"
+                        disabled={isConnectingSheet}
+                      >
+                        <option value="10m">Every 10 min</option>
+                        <option value="1h">Every 1 hour</option>
+                        <option value="5h">Every 5 hours</option>
+                        <option value="24h">Every 24 hours</option>
+                        <option value="manual">Manual only</option>
+                      </select>
+                    </div>
+                  </div>
+
+                  <div className="form-group">
+                    <label htmlFor="serviceAccount">
+                      Google Service Account JSON Key (Optional if globally configured)
+                    </label>
+                    <textarea
+                      id="serviceAccount"
+                      value={serviceAccountInput}
+                      onChange={(e) => setServiceAccountInput(e.target.value)}
+                      placeholder='{ "type": "service_account", "project_id": ... }'
+                      className="form-input code-input"
+                      rows={4}
+                      disabled={isConnectingSheet}
+                    />
+                    <small style={{ color: 'var(--color-text-muted)', display: 'block', marginTop: '6px', fontSize: '0.78rem' }}>
+                      Note: Share your Google Sheet with your service account email as <strong>Editor</strong>.
+                    </small>
+                  </div>
+
+                  <button 
+                    type="submit" 
+                    className={`submit-btn ${isConnectingSheet ? 'loading' : ''}`}
+                    disabled={isConnectingSheet}
+                  >
+                    {isConnectingSheet ? 'Connecting & Importing...' : 'Connect & Import Sheet'}
+                  </button>
+                </form>
+              </div>
+            )}
+
+            {/* Right Panel: Connected Sheets list */}
+            <div className="sheets-card list-card" style={{ gridColumn: (sheets.length > 0 && !showConnectForm) ? '1 / -1' : 'auto' }}>
+              <div className="card-header" style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
+                <div>
+                  <h3>Connected Sheets</h3>
+                  <p>Manage and synchronize your sheet integrations.</p>
+                </div>
+                {sheets.length > 0 && !showConnectForm && (
+                  <button 
+                    className="sync-header-btn" 
+                    onClick={() => setShowConnectForm(true)}
+                    style={{ margin: 0, padding: '6px 12px', fontSize: '0.8rem' }}
+                  >
+                    + Connect Another Sheet
+                  </button>
+                )}
+              </div>
+
+              <div className="connected-sheets-wrapper">
+                {sheets.length === 0 ? (
+                  <div className="empty-sheets-placeholder">
+                    <div className="empty-icon">📂</div>
+                    <p>No Google Sheets currently connected.</p>
+                    <p className="sub-hint">Connect a sheet on the left to start importing URLs automatically.</p>
+                  </div>
+                ) : (
+                  <div className="sheets-list">
+                    {sheets.map((sheet) => {
+                      const sheetId = sheet._id || sheet.id;
+                      const isError = sheet.status === 'error';
+                      return (
+                        <div key={sheetId} className={`sheet-item ${sheet.status}`}>
+                          <div className="sheet-item-header">
+                            <div className="sheet-title-info">
+                              <span className="sheet-doc-icon">📊</span>
+                              <div style={{ minWidth: 0 }}>
+                                <a 
+                                  href={sheet.spreadsheetUrl} 
+                                  target="_blank" 
+                                  rel="noopener noreferrer" 
+                                  className="sheet-doc-link"
+                                  title="Open sheet in new tab"
+                                >
+                                  Spreadsheet (Tab: {sheet.sheetName})
+                                </a>
+                                <div className="sheet-id-tag">ID: {sheet.spreadsheetId}</div>
+                              </div>
+                            </div>
+                            <span className={`status-pill ${sheet.status}`}>
+                              {sheet.status === 'connected' && 'Connected'}
+                              {sheet.status === 'syncing' && 'Syncing...'}
+                              {sheet.status === 'error' && 'Error'}
+                            </span>
+                          </div>
+
+                          {isError && (
+                            <div className="sheet-error-banner">
+                              <strong>Error:</strong> {sheet.lastError || 'Could not sync spreadsheet cells.'}
+                            </div>
+                          )}
+
+                          <div className="sheet-meta-grid">
+                            <div className="meta-box">
+                              <span className="meta-label">Last Synced</span>
+                              <span className="meta-val">
+                                {sheet.lastSynced ? new Date(sheet.lastSynced).toLocaleString() : 'Never'}
+                              </span>
+                            </div>
+                            <div className="meta-box">
+                              <span className="meta-label">Sync Frequency</span>
+                              <select
+                                className="frequency-select"
+                                value={sheet.syncFrequency || '1h'}
+                                onChange={(e) => handleUpdateFrequency(sheet._id || sheet.id, e.target.value)}
+                                disabled={isSyncingSheet}
+                              >
+                                <option value="10m">Every 10 min</option>
+                                <option value="1h">Every 1 hour</option>
+                                <option value="5h">Every 5 hours</option>
+                                <option value="24h">Every 24 hours</option>
+                                <option value="manual">Manual only</option>
+                              </select>
+                            </div>
+                          </div>
+
+                          <div className="sheet-actions">
+                            <button
+                              className="sheet-btn sync-btn"
+                              onClick={() => handleSyncSheet(sheetId)}
+                              disabled={isSyncingSheet}
+                            >
+                              {isSyncingSheet ? 'Syncing...' : 'Sync Now'}
+                            </button>
+                            <button
+                              className="sheet-btn delete-btn"
+                              onClick={() => handleDeleteSheet(sheetId)}
+                            >
+                              Disconnect
+                            </button>
+                          </div>
+                        </div>
+                      );
+                    })}
+                  </div>
+                )}
+              </div>
+            </div>
+          </div>
+
+          {/* Bottom Console: Logs Panel */}
+          {sheetLogs.length > 0 && (
+            <div className="sheets-card logs-card" style={{ marginTop: '24px' }}>
+              <div className="card-header" style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
+                <div>
+                  <h3>Operation Terminal Logs</h3>
+                  <p>Real-time import and synchronization activity logs</p>
+                </div>
+                <button className="clear-logs-btn" onClick={() => setSheetLogs([])}>Clear Console</button>
+              </div>
+              <div className="terminal-screen">
+                <div className="terminal-header">
+                  <span className="dot red"></span>
+                  <span className="dot yellow"></span>
+                  <span className="dot green"></span>
+                  <span className="terminal-title">sheets-sync@antigravity: ~</span>
+                </div>
+                <div className="terminal-body">
+                  {sheetLogs.map((log, index) => (
+                    <div key={index} className="terminal-line">
+                      {log.includes('Error') || log.includes('failed') || log.includes('Access Error') ? (
+                        <span className="text-danger">{log}</span>
+                      ) : log.includes('Success') || log.includes('Connected') || log.includes('updated') ? (
+                        <span className="text-success">{log}</span>
+                      ) : (
+                        <span>{log}</span>
+                      )}
+                    </div>
+                  ))}
+                </div>
+              </div>
+            </div>
+          )}
         </div>
       </section>
 

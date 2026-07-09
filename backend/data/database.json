@@ -11,6 +11,12 @@
       "email": "happykeshrwani@gmail.com",
       "password": "$2a$10$5WGqVX5Lw6nwfzjzaC.lRO6Y/yUo7dS/jT9ZVtVyd0kr8FV9Ef6PS",
       "createdAt": "2026-07-04T11:35:36.403Z"
+    },
+    {
+      "_id": "u_pfz6c7edl",
+      "email": "akshitamourya283@gmail.com",
+      "password": "$2a$10$GH6lM51xcusgDL3.gg1C4Og4nDCEhbPyIguf.02UKO3r3mO/ojZf.",
+      "createdAt": "2026-07-06T11:07:03.064Z"
     }
   ],
   "videos": [
@@ -4519,10 +4525,10 @@
         "shares": 0
       },
       "updatedMetrics": {
-        "views": 0,
-        "likes": 0,
-        "comments": 0,
-        "shares": 0
+        "views": 147720,
+        "likes": 9848,
+        "comments": 88,
+        "shares": 176
       },
       "history": [
         {
@@ -4531,11 +4537,20 @@
           "comments": 0,
           "shares": 0,
           "timestamp": "2026-07-05T10:35:00.341Z"
+        },
+        {
+          "views": 147720,
+          "likes": 9848,
+          "comments": 88,
+          "shares": 176,
+          "timestamp": "2026-07-09T07:51:38.627Z"
         }
       ],
       "status": "active",
-      "lastUpdated": "2026-07-05T10:35:00.357Z",
-      "createdAt": "2026-07-05T10:35:00.357Z"
+      "lastUpdated": "2026-07-09T07:51:38.631Z",
+      "createdAt": "2026-07-05T10:35:00.357Z",
+      "googleSheetId": "s_bblcafqmt",
+      "googleSheetRow": 24
     },
     {
       "_id": "v_4d3l9jzan",
@@ -4696,6 +4711,3150 @@
       "status": "active",
       "lastUpdated": "2026-07-05T11:09:57.067Z",
       "createdAt": "2026-07-05T11:09:57.067Z"
+    },
+    {
+      "_id": "v_d3sngjl7f",
+      "user": "u_z253u7axe",
+      "url": "https://youtu.be/AhTuSUEZ-xQ?si=WIIwRIuQ39WLypZD",
+      "title": "Kaju Ab Golle Se Pange Leta Hain 😲 | Bharti Singh | Harssh Limbachiyaa | Golla | Yash",
+      "thumbnailUrl": "https://img.youtube.com/vi/AhTuSUEZ-xQ/mqdefault.jpg",
+      "platform": "YouTube",
+      "initialMetrics": {
+        "views": 2151417,
+        "likes": 41962,
+        "comments": 535,
+        "shares": 0
+      },
+      "updatedMetrics": {
+        "views": 2151417,
+        "likes": 41962,
+        "comments": 535,
+        "shares": 0
+      },
+      "history": [
+        {
+          "views": 2151417,
+          "likes": 41962,
+          "comments": 535,
+          "shares": 0,
+          "timestamp": "2026-07-05T12:38:03.867Z"
+        }
+      ],
+      "status": "active",
+      "lastUpdated": "2026-07-05T12:38:03.877Z",
+      "createdAt": "2026-07-05T12:38:03.877Z"
+    },
+    {
+      "_id": "v_058a145op",
+      "user": "u_2yn3cwqjj",
+      "url": "https://www.linkedin.com/posts/we-are-delighted-to-share-that-sbi-has-been-ugcPost-7474731555630899200-LSnB/?utm_source=social_share_send&utm_medium=android_app&rcm=ACoAAFaPkJABBUfHjSJKiEL_WUzKvIOAujhJHCM&utm_campaign=copy_link",
+      "title": "We are delighted to share that SBI has been honoured with 5 prestigious awards at the ETHR Future Skills Awards 2026 | State Bank of India | 12 comments",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1611944212129-29977ae1398c?w=300&q=80",
+      "platform": "LinkedIn",
+      "initialMetrics": {
+        "views": 7100,
+        "likes": 355,
+        "comments": 12,
+        "shares": 35
+      },
+      "updatedMetrics": {
+        "views": 7100,
+        "likes": 355,
+        "comments": 12,
+        "shares": 35
+      },
+      "history": [
+        {
+          "views": 7100,
+          "likes": 355,
+          "comments": 12,
+          "shares": 35,
+          "timestamp": "2026-07-06T05:56:16.020Z"
+        }
+      ],
+      "status": "active",
+      "lastUpdated": "2026-07-06T05:56:16.032Z",
+      "createdAt": "2026-07-06T05:56:16.032Z"
+    },
+    {
+      "_id": "v_7oi0b0u6j",
+      "user": "u_2yn3cwqjj",
+      "url": "https://youtu.be/idpLh66zXAs?si=piiHPF2kOPkbz9nm",
+      "title": "YouTube Video",
+      "thumbnailUrl": "https://img.youtube.com/vi/idpLh66zXAs/mqdefault.jpg",
+      "platform": "YouTube",
+      "initialMetrics": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "updatedMetrics": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "history": [
+        {
+          "views": 0,
+          "likes": 0,
+          "comments": 0,
+          "shares": 0,
+          "timestamp": "2026-07-06T05:57:14.135Z"
+        }
+      ],
+      "status": "active",
+      "lastUpdated": "2026-07-06T05:57:14.140Z",
+      "createdAt": "2026-07-06T05:57:14.140Z"
+    },
+    {
+      "_id": "v_411c8lfv9",
+      "user": "u_2yn3cwqjj",
+      "url": "https://www.instagram.com/reel/DaX9b_mTk9E/?igsh=MThjeWl4MWV0ZjQ4eQ==",
+      "title": "Instagram",
+      "thumbnailUrl": "https://scontent.cdninstagram.com/v/t51.71878-15/729655009_1996193637677159_1492563371176474548_n.jpg?stp=cmp1_dst-jpg_e35_s640x640_tt6&_nc_cat=108&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=MbRPs1z627wQ7kNvwH8wkfc&_nc_oc=AdpZ-40n9VZBR3nrMkAFg5csRzmPnUH3ScLsk1u-vKZ_1NDWK87m4pyBpYelZ5oiYQc&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=FFjuu9nxqKs61NOhDGOWDw&_nc_ss=70a02&oh=00_AQD1TwvA_5XOxnO8UX625ivcSPJAkLhlbvFXRPBmRD2YxQ&oe=6A510616",
+      "platform": "Instagram",
+      "initialMetrics": {
+        "views": 134685,
+        "likes": 8979,
+        "comments": 83,
+        "shares": 166
+      },
+      "updatedMetrics": {
+        "views": 134685,
+        "likes": 8979,
+        "comments": 83,
+        "shares": 166
+      },
+      "history": [
+        {
+          "views": 134685,
+          "likes": 8979,
+          "comments": 83,
+          "shares": 166,
+          "timestamp": "2026-07-06T05:58:08.168Z"
+        }
+      ],
+      "status": "active",
+      "lastUpdated": "2026-07-06T05:58:08.176Z",
+      "createdAt": "2026-07-06T05:58:08.176Z"
+    },
+    {
+      "_id": "v_dzwxn6wlk",
+      "user": "u_2yn3cwqjj",
+      "url": "https://youtu.be/HdNOVtwvNnw?si=ZVV7EWHmmM791jWX",
+      "title": "🇰🇷Going to my first Korean Wedding 💒",
+      "thumbnailUrl": "https://img.youtube.com/vi/HdNOVtwvNnw/mqdefault.jpg",
+      "platform": "YouTube",
+      "initialMetrics": {
+        "views": 7791071,
+        "likes": 146439,
+        "comments": 4700,
+        "shares": 0
+      },
+      "updatedMetrics": {
+        "views": 7791071,
+        "likes": 146439,
+        "comments": 4700,
+        "shares": 0
+      },
+      "history": [
+        {
+          "views": 7791071,
+          "likes": 146439,
+          "comments": 4700,
+          "shares": 0,
+          "timestamp": "2026-07-06T05:58:50.371Z"
+        }
+      ],
+      "status": "active",
+      "lastUpdated": "2026-07-06T05:58:50.388Z",
+      "createdAt": "2026-07-06T05:58:50.388Z"
+    },
+    {
+      "_id": "v_z0i60rx9a",
+      "user": "u_2yn3cwqjj",
+      "url": "https://youtu.be/RQ7E1DmLGZs?si=pUC08RN3hNR_AMhu",
+      "title": "This guy scammed me… *Storytime*",
+      "thumbnailUrl": "https://img.youtube.com/vi/RQ7E1DmLGZs/mqdefault.jpg",
+      "platform": "YouTube",
+      "initialMetrics": {
+        "views": 886827,
+        "likes": 34452,
+        "comments": 1800,
+        "shares": 0
+      },
+      "updatedMetrics": {
+        "views": 886827,
+        "likes": 34452,
+        "comments": 1800,
+        "shares": 0
+      },
+      "history": [
+        {
+          "views": 886827,
+          "likes": 34452,
+          "comments": 1800,
+          "shares": 0,
+          "timestamp": "2026-07-06T05:59:39.315Z"
+        }
+      ],
+      "status": "active",
+      "lastUpdated": "2026-07-06T05:59:39.326Z",
+      "createdAt": "2026-07-06T05:59:39.326Z"
+    },
+    {
+      "_id": "v_t3icub28d",
+      "user": "u_2yn3cwqjj",
+      "url": "https://www.linkedin.com/posts/we-are-delighted-to-share-that-sbi-has-been-ugcPost-7474731555630899200-LSnB/?utm_source=social_share_send&utm_medium=android_app&rcm=ACoAAFaPkJABBUfHjSJKiEL_WUzKvIOAujhJHCM&utm_campaign=copy_link",
+      "title": "We are delighted to share that SBI has been honoured with 5 prestigious awards at the ETHR Future Skills Awards 2026 | State Bank of India | 12 comments",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1611944212129-29977ae1398c?w=300&q=80",
+      "platform": "LinkedIn",
+      "initialMetrics": {
+        "views": 7100,
+        "likes": 355,
+        "comments": 12,
+        "shares": 35
+      },
+      "updatedMetrics": {
+        "views": 7100,
+        "likes": 355,
+        "comments": 12,
+        "shares": 35
+      },
+      "history": [
+        {
+          "views": 7100,
+          "likes": 355,
+          "comments": 12,
+          "shares": 35,
+          "timestamp": "2026-07-06T06:00:41.455Z"
+        }
+      ],
+      "status": "active",
+      "lastUpdated": "2026-07-06T06:00:41.466Z",
+      "createdAt": "2026-07-06T06:00:41.466Z"
+    },
+    {
+      "_id": "v_ltilchta5",
+      "user": "u_2yn3cwqjj",
+      "url": "https://youtu.be/RQ7E1DmLGZs?si=_EA5eoDFfBtzftJY",
+      "title": "This guy scammed me… *Storytime*",
+      "thumbnailUrl": "https://img.youtube.com/vi/RQ7E1DmLGZs/mqdefault.jpg",
+      "platform": "YouTube",
+      "initialMetrics": {
+        "views": 886834,
+        "likes": 34452,
+        "comments": 1800,
+        "shares": 0
+      },
+      "updatedMetrics": {
+        "views": 886834,
+        "likes": 34452,
+        "comments": 1800,
+        "shares": 0
+      },
+      "history": [
+        {
+          "views": 886834,
+          "likes": 34452,
+          "comments": 1800,
+          "shares": 0,
+          "timestamp": "2026-07-06T06:01:29.458Z"
+        }
+      ],
+      "status": "active",
+      "lastUpdated": "2026-07-06T06:01:29.471Z",
+      "createdAt": "2026-07-06T06:01:29.471Z"
+    },
+    {
+      "_id": "v_1iaxngvpk",
+      "user": "u_2yn3cwqjj",
+      "url": "https://www.instagram.com/reel/DaX9b_mTk9E/?igsh=MThjeWl4MWV0ZjQ4eQ==",
+      "title": "Instagram",
+      "thumbnailUrl": "https://scontent.cdninstagram.com/v/t51.71878-15/729655009_1996193637677159_1492563371176474548_n.jpg?stp=cmp1_dst-jpg_e35_s640x640_tt6&_nc_cat=108&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=MbRPs1z627wQ7kNvwH8wkfc&_nc_oc=AdpZ-40n9VZBR3nrMkAFg5csRzmPnUH3ScLsk1u-vKZ_1NDWK87m4pyBpYelZ5oiYQc&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=4EhuPlbe_D3nj9o-P2bq3g&_nc_ss=70a02&oh=00_AQDQuctJPFKqyVs9v5NGWWHB5CCEdP8zatZzFVKGOpLVHQ&oe=6A510616",
+      "platform": "Instagram",
+      "initialMetrics": {
+        "views": 134745,
+        "likes": 8983,
+        "comments": 83,
+        "shares": 166
+      },
+      "updatedMetrics": {
+        "views": 134745,
+        "likes": 8983,
+        "comments": 83,
+        "shares": 166
+      },
+      "history": [
+        {
+          "views": 134745,
+          "likes": 8983,
+          "comments": 83,
+          "shares": 166,
+          "timestamp": "2026-07-06T06:02:08.214Z"
+        }
+      ],
+      "status": "active",
+      "lastUpdated": "2026-07-06T06:02:08.225Z",
+      "createdAt": "2026-07-06T06:02:08.225Z"
+    },
+    {
+      "_id": "v_37elyr35a",
+      "user": "u_2yn3cwqjj",
+      "url": "https://www.linkedin.com/posts/we-are-delighted-to-share-that-sbi-has-been-ugcPost-7474731555630899200-LSnB/?utm_source=social_share_send&utm_medium=android_app&rcm=ACoAAFaPkJABBUfHjSJKiEL_WUzKvIOAujhJHCM&utm_campaign=copy_link",
+      "title": "We are delighted to share that SBI has been honoured with 5 prestigious awards at the ETHR Future Skills Awards 2026 | State Bank of India | 14 comments",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1611944212129-29977ae1398c?w=300&q=80",
+      "platform": "LinkedIn",
+      "initialMetrics": {
+        "views": 7700,
+        "likes": 385,
+        "comments": 14,
+        "shares": 38
+      },
+      "updatedMetrics": {
+        "views": 7700,
+        "likes": 385,
+        "comments": 14,
+        "shares": 38
+      },
+      "history": [
+        {
+          "views": 7700,
+          "likes": 385,
+          "comments": 14,
+          "shares": 38,
+          "timestamp": "2026-07-07T05:58:50.715Z"
+        }
+      ],
+      "status": "active",
+      "lastUpdated": "2026-07-07T05:58:50.738Z",
+      "createdAt": "2026-07-07T05:58:50.738Z"
+    },
+    {
+      "_id": "v_sanxvo4ne",
+      "user": "u_z253u7axe",
+      "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+      "title": "Rick Astley - Never Gonna Give You Up (Official Video) (4K Remaster)",
+      "thumbnailUrl": "https://img.youtube.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
+      "platform": "YouTube",
+      "initialMetrics": {
+        "views": 1790516069,
+        "likes": 19235603,
+        "comments": 2400000,
+        "shares": 0
+      },
+      "updatedMetrics": {
+        "views": 1790528970,
+        "likes": 19235660,
+        "comments": 2400000,
+        "shares": 0
+      },
+      "googleSheetId": "",
+      "googleSheetRow": 0,
+      "history": [
+        {
+          "views": 1790516069,
+          "likes": 19235603,
+          "comments": 2400000,
+          "shares": 0,
+          "timestamp": "2026-07-08T09:07:51.585Z"
+        },
+        {
+          "views": 1790517110,
+          "likes": 19235606,
+          "comments": 2400000,
+          "shares": 0,
+          "timestamp": "2026-07-08T09:12:18.714Z"
+        },
+        {
+          "views": 1790517110,
+          "likes": 19235608,
+          "comments": 2400000,
+          "shares": 0,
+          "timestamp": "2026-07-08T09:12:55.928Z"
+        },
+        {
+          "views": 1790528970,
+          "likes": 19235660,
+          "comments": 2400000,
+          "shares": 0,
+          "timestamp": "2026-07-08T10:00:21.869Z"
+        }
+      ],
+      "status": "active",
+      "createdAt": "2026-07-08T09:07:51.790Z",
+      "lastUpdated": "2026-07-08T10:08:47.714Z"
+    },
+    {
+      "_id": "v_dv39pkv3d",
+      "user": "u_z253u7axe",
+      "url": "https://www.instagram.com/p/CXYZ12345/",
+      "title": "Instagram",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1611162616305-c69b3fa7fbe0?w=300&q=80",
+      "platform": "Instagram",
+      "initialMetrics": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "updatedMetrics": {
+        "views": 127,
+        "likes": 8,
+        "comments": 1,
+        "shares": 0
+      },
+      "googleSheetId": "",
+      "googleSheetRow": 0,
+      "history": [
+        {
+          "views": 0,
+          "likes": 0,
+          "comments": 0,
+          "shares": 0,
+          "timestamp": "2026-07-08T09:11:48.782Z"
+        },
+        {
+          "views": 28,
+          "likes": 3,
+          "comments": 0,
+          "shares": 0,
+          "timestamp": "2026-07-08T09:12:07.779Z"
+        },
+        {
+          "views": 80,
+          "likes": 5,
+          "comments": 0,
+          "shares": 0,
+          "timestamp": "2026-07-08T09:12:49.825Z"
+        },
+        {
+          "views": 127,
+          "likes": 8,
+          "comments": 1,
+          "shares": 0,
+          "timestamp": "2026-07-08T10:00:16.461Z"
+        }
+      ],
+      "status": "active",
+      "createdAt": "2026-07-08T09:11:48.938Z",
+      "lastUpdated": "2026-07-08T10:08:47.661Z"
+    },
+    {
+      "_id": "v_ezj2hxl6i",
+      "user": "u_z253u7axe",
+      "url": "https://www.linkedin.com/in/posts/sample-video-link",
+      "title": "LinkedIn Video",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1611944212129-29977ae1398c?w=300&q=80",
+      "platform": "LinkedIn",
+      "initialMetrics": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "updatedMetrics": {
+        "views": 76,
+        "likes": 10,
+        "comments": 1,
+        "shares": 0
+      },
+      "googleSheetId": "",
+      "googleSheetRow": 0,
+      "history": [
+        {
+          "views": 0,
+          "likes": 0,
+          "comments": 0,
+          "shares": 0,
+          "timestamp": "2026-07-08T09:11:52.915Z"
+        },
+        {
+          "views": 10,
+          "likes": 5,
+          "comments": 1,
+          "shares": 0,
+          "timestamp": "2026-07-08T09:12:03.293Z"
+        },
+        {
+          "views": 23,
+          "likes": 9,
+          "comments": 1,
+          "shares": 0,
+          "timestamp": "2026-07-08T09:12:45.307Z"
+        },
+        {
+          "views": 76,
+          "likes": 10,
+          "comments": 1,
+          "shares": 0,
+          "timestamp": "2026-07-08T10:00:12.403Z"
+        }
+      ],
+      "status": "active",
+      "createdAt": "2026-07-08T09:11:53.151Z",
+      "lastUpdated": "2026-07-08T10:08:47.588Z"
+    },
+    {
+      "_id": "v_dhj3hzs2d",
+      "user": "u_z253u7axe",
+      "url": "https://youtu.be/cqORg6Y3Xv8?si=XRtwt28UYtklzaK1",
+      "title": "Daya के लिए Jethalal करेगा उपवास !  | TMKOC Movies | Taarak Mehta Ka Ooltah Chashmah |",
+      "thumbnailUrl": "https://img.youtube.com/vi/cqORg6Y3Xv8/mqdefault.jpg",
+      "platform": "YouTube",
+      "initialMetrics": {
+        "views": 2747076,
+        "likes": 13499,
+        "comments": 170,
+        "shares": 0
+      },
+      "updatedMetrics": {
+        "views": 2775390,
+        "likes": 13641,
+        "comments": 172,
+        "shares": 0
+      },
+      "googleSheetId": "s_bblcafqmt",
+      "googleSheetRow": 2,
+      "history": [
+        {
+          "views": 2747076,
+          "likes": 13499,
+          "comments": 170,
+          "shares": 0,
+          "timestamp": "2026-07-08T10:13:28.543Z"
+        },
+        {
+          "views": 2747076,
+          "likes": 13499,
+          "comments": 170,
+          "shares": 0,
+          "timestamp": "2026-07-08T10:13:48.879Z"
+        },
+        {
+          "views": 2747388,
+          "likes": 13499,
+          "comments": 170,
+          "shares": 0,
+          "timestamp": "2026-07-08T10:22:48.311Z"
+        },
+        {
+          "views": 2747534,
+          "likes": 13500,
+          "comments": 170,
+          "shares": 0,
+          "timestamp": "2026-07-08T10:27:27.937Z"
+        },
+        {
+          "views": 2747691,
+          "likes": 13500,
+          "comments": 170,
+          "shares": 0,
+          "timestamp": "2026-07-08T10:29:18.263Z"
+        },
+        {
+          "views": 2747854,
+          "likes": 13500,
+          "comments": 170,
+          "shares": 0,
+          "timestamp": "2026-07-08T10:35:38.986Z"
+        },
+        {
+          "views": 2748068,
+          "likes": 13502,
+          "comments": 170,
+          "shares": 0,
+          "timestamp": "2026-07-08T10:48:00.034Z"
+        },
+        {
+          "views": 2749279,
+          "likes": 13507,
+          "comments": 170,
+          "shares": 0,
+          "timestamp": "2026-07-08T11:39:02.086Z"
+        },
+        {
+          "views": 2758894,
+          "likes": 13577,
+          "comments": 170,
+          "shares": 0,
+          "timestamp": "2026-07-08T16:46:35.964Z"
+        },
+        {
+          "views": 2770806,
+          "likes": 13609,
+          "comments": 172,
+          "shares": 0,
+          "timestamp": "2026-07-09T04:20:34.960Z"
+        },
+        {
+          "views": 2771859,
+          "likes": 13617,
+          "comments": 172,
+          "shares": 0,
+          "timestamp": "2026-07-09T05:31:56.007Z"
+        },
+        {
+          "views": 2775390,
+          "likes": 13641,
+          "comments": 172,
+          "shares": 0,
+          "timestamp": "2026-07-09T07:51:35.070Z"
+        }
+      ],
+      "status": "active",
+      "createdAt": "2026-07-08T10:13:28.662Z",
+      "lastUpdated": "2026-07-09T07:51:35.075Z"
+    },
+    {
+      "_id": "v_k2n6156ks",
+      "user": "u_z253u7axe",
+      "url": "https://youtu.be/3L0tn-bmD0k?si=h-x7hhOvJVzZCMlV",
+      "title": "अंधेरी दुनिया में फंसी एक छोटी गरीब लड़की | Crime Patrol | True Crime 2026 | Savdhaan India Crime",
+      "thumbnailUrl": "https://img.youtube.com/vi/3L0tn-bmD0k/mqdefault.jpg",
+      "platform": "YouTube",
+      "initialMetrics": {
+        "views": 291834,
+        "likes": 1370,
+        "comments": 14,
+        "shares": 0
+      },
+      "updatedMetrics": {
+        "views": 297105,
+        "likes": 1391,
+        "comments": 14,
+        "shares": 0
+      },
+      "googleSheetId": "s_bblcafqmt",
+      "googleSheetRow": 3,
+      "history": [
+        {
+          "views": 291834,
+          "likes": 1370,
+          "comments": 14,
+          "shares": 0,
+          "timestamp": "2026-07-08T10:28:57.896Z"
+        },
+        {
+          "views": 291834,
+          "likes": 1370,
+          "comments": 14,
+          "shares": 0,
+          "timestamp": "2026-07-08T10:29:13.185Z"
+        },
+        {
+          "views": 291897,
+          "likes": 1370,
+          "comments": 14,
+          "shares": 0,
+          "timestamp": "2026-07-08T10:29:30.088Z"
+        },
+        {
+          "views": 291915,
+          "likes": 1370,
+          "comments": 14,
+          "shares": 0,
+          "timestamp": "2026-07-08T10:35:33.745Z"
+        },
+        {
+          "views": 291962,
+          "likes": 1371,
+          "comments": 14,
+          "shares": 0,
+          "timestamp": "2026-07-08T10:47:55.835Z"
+        },
+        {
+          "views": 292260,
+          "likes": 1370,
+          "comments": 14,
+          "shares": 0,
+          "timestamp": "2026-07-08T11:38:56.786Z"
+        },
+        {
+          "views": 294121,
+          "likes": 1377,
+          "comments": 14,
+          "shares": 0,
+          "timestamp": "2026-07-08T16:46:29.905Z"
+        },
+        {
+          "views": 296146,
+          "likes": 1382,
+          "comments": 14,
+          "shares": 0,
+          "timestamp": "2026-07-09T04:20:30.801Z"
+        },
+        {
+          "views": 296332,
+          "likes": 1388,
+          "comments": 14,
+          "shares": 0,
+          "timestamp": "2026-07-09T05:31:51.176Z"
+        },
+        {
+          "views": 297105,
+          "likes": 1391,
+          "comments": 14,
+          "shares": 0,
+          "timestamp": "2026-07-09T07:51:30.652Z"
+        }
+      ],
+      "status": "active",
+      "createdAt": "2026-07-08T10:28:58.324Z",
+      "lastUpdated": "2026-07-09T07:51:30.656Z"
+    },
+    {
+      "_id": "v_xi15yil6w",
+      "user": "u_z253u7axe",
+      "url": "https://www.instagram.com/bhavikasharma53/p/DacQVkrDw71/?hl=en",
+      "title": "Instagram",
+      "thumbnailUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/736263360_18481735924100852_2970796374468669420_n.jpg?stp=c614.0.1843.1843a_dst-jpg_e35_s640x640_tt6&_nc_cat=1&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=ydWy1OJArZsQ7kNvwFJSXzE&_nc_oc=Adq6e0j9dnbvYaFPSa-mmEfloDoO5_oc128KwBLtDk-5-QWvmdxwP3dS8x74jJW9HtEYDtuNk-kft-jCaa-lXxUq&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=I4tCBL5wIMNfzvV7Y4sZ1Q&_nc_ss=7060f&oh=00_AQBNUSsrjRdwgTFGxpuD7DbQo3YxPFlZxO02Ll_aV0npUw&oe=6A540BD8",
+      "platform": "Instagram",
+      "initialMetrics": {
+        "views": 3510000,
+        "likes": 234000,
+        "comments": 2039,
+        "shares": 4078
+      },
+      "updatedMetrics": {
+        "views": 3885000,
+        "likes": 259000,
+        "comments": 2114,
+        "shares": 4228
+      },
+      "googleSheetId": "s_bblcafqmt",
+      "googleSheetRow": 4,
+      "history": [
+        {
+          "views": 3510000,
+          "likes": 234000,
+          "comments": 2039,
+          "shares": 4078,
+          "timestamp": "2026-07-08T10:35:09.565Z"
+        },
+        {
+          "views": 3510000,
+          "likes": 234000,
+          "comments": 2039,
+          "shares": 4078,
+          "timestamp": "2026-07-08T10:35:27.585Z"
+        },
+        {
+          "views": 3525000,
+          "likes": 235000,
+          "comments": 2040,
+          "shares": 4080,
+          "timestamp": "2026-07-08T10:47:51.247Z"
+        },
+        {
+          "views": 3555000,
+          "likes": 237000,
+          "comments": 2044,
+          "shares": 4088,
+          "timestamp": "2026-07-08T11:38:50.830Z"
+        },
+        {
+          "views": 3735000,
+          "likes": 249000,
+          "comments": 2056,
+          "shares": 4112,
+          "timestamp": "2026-07-08T16:46:25.546Z"
+        },
+        {
+          "views": 3825000,
+          "likes": 255000,
+          "comments": 2106,
+          "shares": 4212,
+          "timestamp": "2026-07-09T04:20:24.013Z"
+        },
+        {
+          "views": 3840000,
+          "likes": 256000,
+          "comments": 2107,
+          "shares": 4214,
+          "timestamp": "2026-07-09T05:31:44.019Z"
+        },
+        {
+          "views": 3885000,
+          "likes": 259000,
+          "comments": 2114,
+          "shares": 4228,
+          "timestamp": "2026-07-09T07:51:26.134Z"
+        }
+      ],
+      "status": "active",
+      "createdAt": "2026-07-08T10:35:09.639Z",
+      "lastUpdated": "2026-07-09T07:51:26.138Z"
+    },
+    {
+      "_id": "v_wg9yhanon",
+      "user": "u_z253u7axe",
+      "url": "https://youtu.be/IEa86Bf4VUc?si=gnuhYsLZZVUi_Sk8",
+      "title": "Korean university graduation day 🇰🇷👩‍🎓",
+      "thumbnailUrl": "https://img.youtube.com/vi/IEa86Bf4VUc/mqdefault.jpg",
+      "platform": "YouTube",
+      "initialMetrics": {
+        "views": 975661,
+        "likes": 31390,
+        "comments": 1100,
+        "shares": 0
+      },
+      "updatedMetrics": {
+        "views": 977191,
+        "likes": 31408,
+        "comments": 1100,
+        "shares": 0
+      },
+      "googleSheetId": "s_bblcafqmt",
+      "googleSheetRow": 5,
+      "history": [
+        {
+          "views": 975661,
+          "likes": 31390,
+          "comments": 1100,
+          "shares": 0,
+          "timestamp": "2026-07-08T10:47:34.352Z"
+        },
+        {
+          "views": 975661,
+          "likes": 31390,
+          "comments": 1100,
+          "shares": 0,
+          "timestamp": "2026-07-08T10:47:47.759Z"
+        },
+        {
+          "views": 975746,
+          "likes": 31390,
+          "comments": 1100,
+          "shares": 0,
+          "timestamp": "2026-07-08T11:38:47.063Z"
+        },
+        {
+          "views": 976400,
+          "likes": 31396,
+          "comments": 1100,
+          "shares": 0,
+          "timestamp": "2026-07-08T16:46:22.225Z"
+        },
+        {
+          "views": 976919,
+          "likes": 31402,
+          "comments": 1100,
+          "shares": 0,
+          "timestamp": "2026-07-09T04:20:21.063Z"
+        },
+        {
+          "views": 976991,
+          "likes": 31404,
+          "comments": 1100,
+          "shares": 0,
+          "timestamp": "2026-07-09T05:31:41.362Z"
+        },
+        {
+          "views": 977191,
+          "likes": 31408,
+          "comments": 1100,
+          "shares": 0,
+          "timestamp": "2026-07-09T07:51:23.703Z"
+        }
+      ],
+      "status": "active",
+      "createdAt": "2026-07-08T10:47:34.514Z",
+      "lastUpdated": "2026-07-09T07:51:23.707Z"
+    },
+    {
+      "_id": "v_4su928wpd",
+      "user": "u_z253u7axe",
+      "url": "https://youtu.be/_bPAdQZOUIQ?si=JBo_8M7iEgKfWVNC",
+      "title": "Girl gang ka full dance",
+      "thumbnailUrl": "https://img.youtube.com/vi/_bPAdQZOUIQ/mqdefault.jpg",
+      "platform": "YouTube",
+      "initialMetrics": {
+        "views": 1321078,
+        "likes": 33552,
+        "comments": 432,
+        "shares": 0
+      },
+      "updatedMetrics": {
+        "views": 1461474,
+        "likes": 34389,
+        "comments": 437,
+        "shares": 0
+      },
+      "googleSheetId": "s_bblcafqmt",
+      "googleSheetRow": 6,
+      "history": [
+        {
+          "views": 1321078,
+          "likes": 33552,
+          "comments": 432,
+          "shares": 0,
+          "timestamp": "2026-07-08T11:37:37.158Z"
+        },
+        {
+          "views": 1321078,
+          "likes": 33555,
+          "comments": 432,
+          "shares": 0,
+          "timestamp": "2026-07-08T11:38:41.789Z"
+        },
+        {
+          "views": 1386336,
+          "likes": 34008,
+          "comments": 434,
+          "shares": 0,
+          "timestamp": "2026-07-08T16:46:17.839Z"
+        },
+        {
+          "views": 1449438,
+          "likes": 34193,
+          "comments": 435,
+          "shares": 0,
+          "timestamp": "2026-07-09T04:20:16.766Z"
+        },
+        {
+          "views": 1451393,
+          "likes": 34235,
+          "comments": 437,
+          "shares": 0,
+          "timestamp": "2026-07-09T05:31:37.645Z"
+        },
+        {
+          "views": 1461474,
+          "likes": 34389,
+          "comments": 437,
+          "shares": 0,
+          "timestamp": "2026-07-09T07:51:20.211Z"
+        }
+      ],
+      "status": "active",
+      "createdAt": "2026-07-08T11:37:37.171Z",
+      "lastUpdated": "2026-07-09T07:51:20.214Z"
+    },
+    {
+      "_id": "v_uvpx3zu7z",
+      "user": "u_z253u7axe",
+      "url": "https://youtu.be/V7nOnEMjV9M?si=W79TAfTXglozLdho",
+      "title": "The Affordable Glow Up Checklist To Become Unrecognisable In 30 Days",
+      "thumbnailUrl": "https://img.youtube.com/vi/V7nOnEMjV9M/mqdefault.jpg",
+      "platform": "YouTube",
+      "initialMetrics": {
+        "views": 100575,
+        "likes": 4554,
+        "comments": 213,
+        "shares": 0
+      },
+      "updatedMetrics": {
+        "views": 126140,
+        "likes": 5392,
+        "comments": 229,
+        "shares": 0
+      },
+      "googleSheetId": "s_bblcafqmt",
+      "googleSheetRow": 7,
+      "history": [
+        {
+          "views": 100575,
+          "likes": 4554,
+          "comments": 213,
+          "shares": 0,
+          "timestamp": "2026-07-08T11:37:42.384Z"
+        },
+        {
+          "views": 100575,
+          "likes": 4555,
+          "comments": 213,
+          "shares": 0,
+          "timestamp": "2026-07-08T11:38:36.257Z"
+        },
+        {
+          "views": 110609,
+          "likes": 4961,
+          "comments": 224,
+          "shares": 0,
+          "timestamp": "2026-07-08T16:46:13.416Z"
+        },
+        {
+          "views": 122352,
+          "likes": 5241,
+          "comments": 227,
+          "shares": 0,
+          "timestamp": "2026-07-09T04:20:12.085Z"
+        },
+        {
+          "views": 123354,
+          "likes": 5285,
+          "comments": 228,
+          "shares": 0,
+          "timestamp": "2026-07-09T05:31:34.198Z"
+        },
+        {
+          "views": 126140,
+          "likes": 5392,
+          "comments": 229,
+          "shares": 0,
+          "timestamp": "2026-07-09T07:51:15.789Z"
+        }
+      ],
+      "status": "active",
+      "createdAt": "2026-07-08T11:37:42.400Z",
+      "lastUpdated": "2026-07-09T07:51:15.793Z"
+    },
+    {
+      "_id": "v_9uy16lpo7",
+      "user": "u_z253u7axe",
+      "url": "https://www.instagram.com/bhavikasharma53/p/DZxMx3LiGzp/?hl=en",
+      "title": "Instagram",
+      "thumbnailUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/727057592_18478349212100852_3553935504578358494_n.jpg?stp=c604.0.1815.1814a_dst-jpg_e35_s640x640_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=TfDEIx04e24Q7kNvwG5quJN&_nc_oc=Adqv-bEdOS-2wu1Bzm8paOh1ELDQgXSOFfcAI26F_4215TyPAp4mSiIqMRtVuv9m1IlsttxvzUNEi1DSgKSDA9It&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=G6ulZW62QZe5W9yZ2m_1jA&_nc_ss=7060f&oh=00_AQAx2FhCrFiMLccK15aZkIq_wnYvl6nDBaCp5GJTBXQ6Gw&oe=6A54119B",
+      "platform": "Instagram",
+      "initialMetrics": {
+        "views": 1965000,
+        "likes": 131000,
+        "comments": 1509,
+        "shares": 3018
+      },
+      "updatedMetrics": {
+        "views": 1980000,
+        "likes": 132000,
+        "comments": 1511,
+        "shares": 3022
+      },
+      "googleSheetId": "s_bblcafqmt",
+      "googleSheetRow": 8,
+      "history": [
+        {
+          "views": 1965000,
+          "likes": 131000,
+          "comments": 1509,
+          "shares": 3018,
+          "timestamp": "2026-07-08T11:37:46.529Z"
+        },
+        {
+          "views": 1965000,
+          "likes": 131000,
+          "comments": 1509,
+          "shares": 3018,
+          "timestamp": "2026-07-08T11:38:26.772Z"
+        },
+        {
+          "views": 1965000,
+          "likes": 131000,
+          "comments": 1509,
+          "shares": 3018,
+          "timestamp": "2026-07-08T16:46:08.684Z"
+        },
+        {
+          "views": 1965000,
+          "likes": 131000,
+          "comments": 1511,
+          "shares": 3022,
+          "timestamp": "2026-07-09T04:20:07.869Z"
+        },
+        {
+          "views": 1965000,
+          "likes": 131000,
+          "comments": 1511,
+          "shares": 3022,
+          "timestamp": "2026-07-09T05:31:25.826Z"
+        },
+        {
+          "views": 1980000,
+          "likes": 132000,
+          "comments": 1511,
+          "shares": 3022,
+          "timestamp": "2026-07-09T07:51:10.649Z"
+        }
+      ],
+      "status": "active",
+      "createdAt": "2026-07-08T11:37:46.583Z",
+      "lastUpdated": "2026-07-09T07:51:10.653Z"
+    },
+    {
+      "_id": "v_ol0ui5cws",
+      "user": "u_z253u7axe",
+      "url": "https://www.instagram.com/bhavikasharma53/p/DWeCkNaDxd5/?hl=en",
+      "title": "Instagram",
+      "thumbnailUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/658669208_18463442917100852_1505443608788483592_n.jpg?stp=c288.0.864.864a_dst-jpg_e35_s640x640_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=rwp0XQ9AnKUQ7kNvwHCEIEi&_nc_oc=AdqId7a8bNvb0WiNUS5jrOS__-lfwjazjw0NYdwOwVA2oGrAye8V0OPtpRzvkYaYpbXYV9OTo9ADT5OQNlkvlqh3&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=ZdN0JVNprXSJgf9JljZ1fQ&_nc_ss=7060f&oh=00_AQDW9gFsXDB4W-G2BeRB6ahV7yVwuhxqMaw7z9lDuQDnOQ&oe=6A53F1C1",
+      "platform": "Instagram",
+      "initialMetrics": {
+        "views": 1470000,
+        "likes": 98000,
+        "comments": 1280,
+        "shares": 2560
+      },
+      "updatedMetrics": {
+        "views": 1470000,
+        "likes": 98000,
+        "comments": 1280,
+        "shares": 2560
+      },
+      "googleSheetId": "s_bblcafqmt",
+      "googleSheetRow": 9,
+      "history": [
+        {
+          "views": 1470000,
+          "likes": 98000,
+          "comments": 1280,
+          "shares": 2560,
+          "timestamp": "2026-07-08T11:37:50.116Z"
+        },
+        {
+          "views": 1470000,
+          "likes": 98000,
+          "comments": 1280,
+          "shares": 2560,
+          "timestamp": "2026-07-08T11:38:23.372Z"
+        },
+        {
+          "views": 1470000,
+          "likes": 98000,
+          "comments": 1280,
+          "shares": 2560,
+          "timestamp": "2026-07-08T16:46:05.847Z"
+        },
+        {
+          "views": 1470000,
+          "likes": 98000,
+          "comments": 1280,
+          "shares": 2560,
+          "timestamp": "2026-07-09T04:20:05.242Z"
+        },
+        {
+          "views": 1470000,
+          "likes": 98000,
+          "comments": 1280,
+          "shares": 2560,
+          "timestamp": "2026-07-09T05:31:23.324Z"
+        },
+        {
+          "views": 1470000,
+          "likes": 98000,
+          "comments": 1280,
+          "shares": 2560,
+          "timestamp": "2026-07-09T07:51:07.957Z"
+        }
+      ],
+      "status": "active",
+      "createdAt": "2026-07-08T11:37:50.135Z",
+      "lastUpdated": "2026-07-09T07:51:07.961Z"
+    },
+    {
+      "_id": "v_d9zu5xdqh",
+      "user": "u_z253u7axe",
+      "url": "https://youtu.be/wKXfJ7Dj-KY?si=Yc_UyYVEIclJfeSC",
+      "title": "Daya और Babita ने ली Madhavi के लिए New Dress | Taarak Mehta Ka Ooltah Chashmah | Full Movie",
+      "thumbnailUrl": "https://img.youtube.com/vi/wKXfJ7Dj-KY/mqdefault.jpg",
+      "platform": "YouTube",
+      "initialMetrics": {
+        "views": 1872372,
+        "likes": 9207,
+        "comments": 124,
+        "shares": 0
+      },
+      "updatedMetrics": {
+        "views": 1879582,
+        "likes": 9240,
+        "comments": 124,
+        "shares": 0
+      },
+      "googleSheetId": "s_bblcafqmt",
+      "googleSheetRow": 10,
+      "history": [
+        {
+          "views": 1872372,
+          "likes": 9207,
+          "comments": 124,
+          "shares": 0,
+          "timestamp": "2026-07-08T12:41:28.696Z"
+        },
+        {
+          "views": 1875257,
+          "likes": 9218,
+          "comments": 124,
+          "shares": 0,
+          "timestamp": "2026-07-08T16:46:02.571Z"
+        },
+        {
+          "views": 1878020,
+          "likes": 9219,
+          "comments": 124,
+          "shares": 0,
+          "timestamp": "2026-07-09T04:20:00.983Z"
+        },
+        {
+          "views": 1878314,
+          "likes": 9225,
+          "comments": 124,
+          "shares": 0,
+          "timestamp": "2026-07-09T05:31:20.930Z"
+        },
+        {
+          "views": 1879582,
+          "likes": 9240,
+          "comments": 124,
+          "shares": 0,
+          "timestamp": "2026-07-09T07:51:05.372Z"
+        }
+      ],
+      "status": "active",
+      "createdAt": "2026-07-08T12:41:28.782Z",
+      "lastUpdated": "2026-07-09T07:51:05.376Z"
+    },
+    {
+      "_id": "v_7jur0u9kf",
+      "user": "u_z253u7axe",
+      "url": "https://www.instagram.com/bhavikasharma53/p/DXt4qxej2HN/?hl=en",
+      "title": "Instagram",
+      "thumbnailUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/660285335_18468908146100852_2425169732719941175_n.jpg?stp=c288.0.864.864a_dst-jpg_e35_s640x640_tt6&_nc_cat=108&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=nfWtKxoHn7gQ7kNvwG3FFXy&_nc_oc=AdpYw0CWdFeww7zNp__k0iipwN10-LfhKCfy39Cfafvwae4xtQufjGevio25r4WsZWatUAHKztGV5C-l5PHoz5I3&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=X52P3Bok34VyG3KGpN2oIw&_nc_ss=7060f&oh=00_AQB9xY5aHGpXIvf_EvmATOsvHHadEQuIkVGgm0rIDhoxIQ&oe=6A540AA8",
+      "platform": "Instagram",
+      "initialMetrics": {
+        "views": 2400000,
+        "likes": 160000,
+        "comments": 1424,
+        "shares": 2848
+      },
+      "updatedMetrics": {
+        "views": 2400000,
+        "likes": 160000,
+        "comments": 1422,
+        "shares": 2844
+      },
+      "googleSheetId": "s_bblcafqmt",
+      "googleSheetRow": 11,
+      "history": [
+        {
+          "views": 2400000,
+          "likes": 160000,
+          "comments": 1424,
+          "shares": 2848,
+          "timestamp": "2026-07-08T12:41:33.380Z"
+        },
+        {
+          "views": 2400000,
+          "likes": 160000,
+          "comments": 1424,
+          "shares": 2848,
+          "timestamp": "2026-07-08T16:45:57.820Z"
+        },
+        {
+          "views": 2400000,
+          "likes": 160000,
+          "comments": 1422,
+          "shares": 2844,
+          "timestamp": "2026-07-09T04:19:53.085Z"
+        },
+        {
+          "views": 2400000,
+          "likes": 160000,
+          "comments": 1422,
+          "shares": 2844,
+          "timestamp": "2026-07-09T05:31:16.583Z"
+        },
+        {
+          "views": 2400000,
+          "likes": 160000,
+          "comments": 1422,
+          "shares": 2844,
+          "timestamp": "2026-07-09T07:51:01.052Z"
+        }
+      ],
+      "status": "active",
+      "createdAt": "2026-07-08T12:41:33.511Z",
+      "lastUpdated": "2026-07-09T07:51:01.058Z"
+    },
+    {
+      "_id": "v_d1ynl83gv",
+      "user": "u_z253u7axe",
+      "url": "https://www.instagram.com/tanvi.dogra/p/DZEnRIajECm/?hl=en",
+      "title": "Instagram",
+      "thumbnailUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/711329690_17988889860003491_5508125060304498684_n.jpg?stp=cmp1_dst-jpg_e35_s640x640_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=zq7Q15z_u48Q7kNvwEXC0cs&_nc_oc=AdoeSp5SQB4w4m_laVmXGKzor8Q2l8nQYzZewSWcOj_SY9LJRli8LVKmJE-qabcnTnx1CdyIBLzJK_-qECeVYeKX&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=SqU08KNSWV-JKuhB_wPSxA&_nc_ss=7060f&oh=00_AQC_BwHaQ6lMyqi1TkL5mntami-TO29FxzWmFQJZQ2_nIw&oe=6A545951",
+      "platform": "Instagram",
+      "initialMetrics": {
+        "views": 104745,
+        "likes": 6983,
+        "comments": 254,
+        "shares": 508
+      },
+      "updatedMetrics": {
+        "views": 104910,
+        "likes": 6994,
+        "comments": 254,
+        "shares": 508
+      },
+      "googleSheetId": "s_bblcafqmt",
+      "googleSheetRow": 13,
+      "history": [
+        {
+          "views": 104745,
+          "likes": 6983,
+          "comments": 254,
+          "shares": 508,
+          "timestamp": "2026-07-08T16:45:39.180Z"
+        },
+        {
+          "views": 104745,
+          "likes": 6983,
+          "comments": 254,
+          "shares": 508,
+          "timestamp": "2026-07-08T16:45:54.478Z"
+        },
+        {
+          "views": 104880,
+          "likes": 6992,
+          "comments": 254,
+          "shares": 508,
+          "timestamp": "2026-07-09T04:19:50.401Z"
+        },
+        {
+          "views": 104880,
+          "likes": 6992,
+          "comments": 254,
+          "shares": 508,
+          "timestamp": "2026-07-09T05:31:13.803Z"
+        },
+        {
+          "views": 104910,
+          "likes": 6994,
+          "comments": 254,
+          "shares": 508,
+          "timestamp": "2026-07-09T07:50:58.667Z"
+        }
+      ],
+      "status": "active",
+      "createdAt": "2026-07-08T16:45:39.357Z",
+      "lastUpdated": "2026-07-09T07:50:58.674Z"
+    },
+    {
+      "_id": "v_srxb2frfq",
+      "user": "u_z253u7axe",
+      "url": "https://youtu.be/_fCSv6__p3A?si=lpxqtXhQRgjDK0w3",
+      "title": "#mumbai Crime | Crime Patrol | Real Crime | New Season | Police Series 2026",
+      "thumbnailUrl": "https://img.youtube.com/vi/_fCSv6__p3A/mqdefault.jpg",
+      "platform": "YouTube",
+      "initialMetrics": {
+        "views": 666,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "updatedMetrics": {
+        "views": 671,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "googleSheetId": "s_bblcafqmt",
+      "googleSheetRow": 14,
+      "history": [
+        {
+          "views": 666,
+          "likes": 0,
+          "comments": 0,
+          "shares": 0,
+          "timestamp": "2026-07-09T04:18:52.973Z"
+        },
+        {
+          "views": 666,
+          "likes": 0,
+          "comments": 0,
+          "shares": 0,
+          "timestamp": "2026-07-09T04:19:47.141Z"
+        },
+        {
+          "views": 669,
+          "likes": 0,
+          "comments": 0,
+          "shares": 0,
+          "timestamp": "2026-07-09T05:31:10.732Z"
+        },
+        {
+          "views": 671,
+          "likes": 0,
+          "comments": 0,
+          "shares": 0,
+          "timestamp": "2026-07-09T07:50:55.552Z"
+        }
+      ],
+      "status": "active",
+      "createdAt": "2026-07-09T04:18:53.033Z",
+      "lastUpdated": "2026-07-09T07:50:55.558Z"
+    },
+    {
+      "_id": "v_oh1gsi9aq",
+      "user": "u_z253u7axe",
+      "url": "https://youtu.be/fKoAOWQHP0o?si=gSIgfGopI3-r7vgt",
+      "title": "I Met Ronaldo! #FIFAWorldCup #ad",
+      "thumbnailUrl": "https://img.youtube.com/vi/fKoAOWQHP0o/mqdefault.jpg",
+      "platform": "YouTube",
+      "initialMetrics": {
+        "views": 3410119,
+        "likes": 22407,
+        "comments": 2100,
+        "shares": 0
+      },
+      "updatedMetrics": {
+        "views": 3445471,
+        "likes": 22657,
+        "comments": 2100,
+        "shares": 0
+      },
+      "googleSheetId": "s_bblcafqmt",
+      "googleSheetRow": 15,
+      "history": [
+        {
+          "views": 3410119,
+          "likes": 22407,
+          "comments": 2100,
+          "shares": 0,
+          "timestamp": "2026-07-09T04:18:57.461Z"
+        },
+        {
+          "views": 3410119,
+          "likes": 22409,
+          "comments": 2100,
+          "shares": 0,
+          "timestamp": "2026-07-09T04:19:42.853Z"
+        },
+        {
+          "views": 3419439,
+          "likes": 22478,
+          "comments": 2100,
+          "shares": 0,
+          "timestamp": "2026-07-09T05:31:06.897Z"
+        },
+        {
+          "views": 3445471,
+          "likes": 22657,
+          "comments": 2100,
+          "shares": 0,
+          "timestamp": "2026-07-09T07:50:51.287Z"
+        }
+      ],
+      "status": "active",
+      "createdAt": "2026-07-09T04:18:57.470Z",
+      "lastUpdated": "2026-07-09T07:50:51.293Z"
+    },
+    {
+      "_id": "v_elsmz2xf9",
+      "user": "u_z253u7axe",
+      "url": "https://youtu.be/BC9qCm6qg3Y?si=N7NzMRzewmUPb_bB",
+      "title": "Real Mukbang:) How to make kimchi! 👍 (Cold radish kimchi, cucumber kimchi) ☆ Japchae, Braised eggs",
+      "thumbnailUrl": "https://img.youtube.com/vi/BC9qCm6qg3Y/mqdefault.jpg",
+      "platform": "YouTube",
+      "initialMetrics": {
+        "views": 8598299,
+        "likes": 64183,
+        "comments": 1000,
+        "shares": 0
+      },
+      "updatedMetrics": {
+        "views": 8598666,
+        "likes": 64187,
+        "comments": 1000,
+        "shares": 0
+      },
+      "googleSheetId": "s_bblcafqmt",
+      "googleSheetRow": 16,
+      "history": [
+        {
+          "views": 8598299,
+          "likes": 64183,
+          "comments": 1000,
+          "shares": 0,
+          "timestamp": "2026-07-09T04:19:01.349Z"
+        },
+        {
+          "views": 8598299,
+          "likes": 64183,
+          "comments": 1000,
+          "shares": 0,
+          "timestamp": "2026-07-09T04:19:38.814Z"
+        },
+        {
+          "views": 8598447,
+          "likes": 64184,
+          "comments": 1000,
+          "shares": 0,
+          "timestamp": "2026-07-09T05:31:03.179Z"
+        },
+        {
+          "views": 8598666,
+          "likes": 64187,
+          "comments": 1000,
+          "shares": 0,
+          "timestamp": "2026-07-09T07:50:47.076Z"
+        }
+      ],
+      "status": "active",
+      "createdAt": "2026-07-09T04:19:01.361Z",
+      "lastUpdated": "2026-07-09T07:50:47.082Z"
+    },
+    {
+      "_id": "v_9szrafure",
+      "user": "u_z253u7axe",
+      "url": "https://www.instagram.com/tanvi.dogra/p/DYXA5OrDePT/?hl=en",
+      "title": "Instagram",
+      "thumbnailUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/700642191_18419992822131186_7233503929562716167_n.jpg?stp=cmp1_dst-jpg_e35_s640x640_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=a6zKe52PVkUQ7kNvwEX-bBj&_nc_oc=AdpPc3_2ii5D0ZHyYoeeX_DyU_H8R_T2SBAdICM687g4gA0IuE33tGUm9QyqzHUVAYCp8kTHcnuUgEvd3IamUGr4&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=4dOL7tIAwPjdImO5gqgK9w&_nc_ss=7060f&oh=00_AQB_6-5oRI5ipg8nH8idQFmGszH2QUE6hZSc8d2YZmck7w&oe=6A550525",
+      "platform": "Instagram",
+      "initialMetrics": {
+        "views": 615000,
+        "likes": 41000,
+        "comments": 702,
+        "shares": 1404
+      },
+      "updatedMetrics": {
+        "views": 615000,
+        "likes": 41000,
+        "comments": 702,
+        "shares": 1404
+      },
+      "googleSheetId": "s_bblcafqmt",
+      "googleSheetRow": 17,
+      "history": [
+        {
+          "views": 615000,
+          "likes": 41000,
+          "comments": 702,
+          "shares": 1404,
+          "timestamp": "2026-07-09T04:19:04.331Z"
+        },
+        {
+          "views": 615000,
+          "likes": 41000,
+          "comments": 702,
+          "shares": 1404,
+          "timestamp": "2026-07-09T04:19:34.680Z"
+        },
+        {
+          "views": 615000,
+          "likes": 41000,
+          "comments": 702,
+          "shares": 1404,
+          "timestamp": "2026-07-09T05:30:59.420Z"
+        },
+        {
+          "views": 615000,
+          "likes": 41000,
+          "comments": 702,
+          "shares": 1404,
+          "timestamp": "2026-07-09T07:50:42.320Z"
+        }
+      ],
+      "status": "active",
+      "createdAt": "2026-07-09T04:19:04.348Z",
+      "lastUpdated": "2026-07-09T07:50:42.325Z"
+    },
+    {
+      "_id": "v_azc7yowkv",
+      "user": "u_z253u7axe",
+      "url": "https://media.licdn.com/dms/image/v2/D4D22AQFs9Pk4yN3gWQ/feedshare-shrink_1280/B4DZ9CBPIPJwAQ-/0/1783519048473?e=2147483647&v=beta&t=5DSVg4Th91hk2HC3N_AxYXEVop-veUs7czSNTsrJNI0",
+      "title": "Social Media Video",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1611162618071-b39a2ec055fb?w=300&q=80",
+      "platform": "Other",
+      "initialMetrics": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "updatedMetrics": {
+        "views": 99,
+        "likes": 10,
+        "comments": 0,
+        "shares": 0
+      },
+      "googleSheetId": "s_bblcafqmt",
+      "googleSheetRow": 18,
+      "history": [
+        {
+          "views": 0,
+          "likes": 0,
+          "comments": 0,
+          "shares": 0,
+          "timestamp": "2026-07-09T04:19:07.525Z"
+        },
+        {
+          "views": 26,
+          "likes": 5,
+          "comments": 0,
+          "shares": 0,
+          "timestamp": "2026-07-09T04:19:32.184Z"
+        },
+        {
+          "views": 66,
+          "likes": 7,
+          "comments": 0,
+          "shares": 0,
+          "timestamp": "2026-07-09T05:30:56.965Z"
+        },
+        {
+          "views": 99,
+          "likes": 10,
+          "comments": 0,
+          "shares": 0,
+          "timestamp": "2026-07-09T07:50:39.700Z"
+        }
+      ],
+      "status": "active",
+      "createdAt": "2026-07-09T04:19:07.554Z",
+      "lastUpdated": "2026-07-09T07:50:39.705Z"
+    },
+    {
+      "_id": "v_d5h35pn5d",
+      "user": "u_z253u7axe",
+      "url": "https://www.instagram.com/tanvi.dogra/p/DYfENuBCFJ0/?hl=en",
+      "title": "Instagram",
+      "thumbnailUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/703480600_18420489823131186_7570107840137077489_n.jpg?stp=c604.0.1815.1814a_dst-jpg_e35_s640x640_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=iLyfWXQfLJEQ7kNvwG2RCT5&_nc_oc=AdqzSDhl-H73FEfIhJXTpjUQSoG_VGhWcjiQuqbq7Gk7lBdAQkmVazqbPOQT3R58qMifATiwNx7OgYD8a04Z6uxA&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=teHDZUd3QVt4P-t_CewP_Q&_nc_ss=7060f&oh=00_AQDTyXm_0qF-fhtXUDgTz4Vim9QO8LkSplWUEHwSwUJRiw&oe=6A55060A",
+      "platform": "Instagram",
+      "initialMetrics": {
+        "views": 225000,
+        "likes": 15000,
+        "comments": 405,
+        "shares": 810
+      },
+      "updatedMetrics": {
+        "views": 225000,
+        "likes": 15000,
+        "comments": 405,
+        "shares": 810
+      },
+      "googleSheetId": "s_bblcafqmt",
+      "googleSheetRow": 19,
+      "history": [
+        {
+          "views": 225000,
+          "likes": 15000,
+          "comments": 405,
+          "shares": 810,
+          "timestamp": "2026-07-09T04:19:10.197Z"
+        },
+        {
+          "views": 225000,
+          "likes": 15000,
+          "comments": 405,
+          "shares": 810,
+          "timestamp": "2026-07-09T04:19:30.247Z"
+        },
+        {
+          "views": 225000,
+          "likes": 15000,
+          "comments": 405,
+          "shares": 810,
+          "timestamp": "2026-07-09T05:30:55.262Z"
+        },
+        {
+          "views": 225000,
+          "likes": 15000,
+          "comments": 405,
+          "shares": 810,
+          "timestamp": "2026-07-09T07:50:38.067Z"
+        }
+      ],
+      "status": "active",
+      "createdAt": "2026-07-09T04:19:10.228Z",
+      "lastUpdated": "2026-07-09T07:50:38.074Z"
+    },
+    {
+      "_id": "v_89vzm8499",
+      "user": "u_z253u7axe",
+      "url": "https://youtu.be/BC9qCm6qg3Y?si=N7NzMRzewmUPb_bB",
+      "title": "Real Mukbang:) How to make kimchi! 👍 (Cold radish kimchi, cucumber kimchi) ☆ Japchae, Braised eggs",
+      "thumbnailUrl": "https://img.youtube.com/vi/BC9qCm6qg3Y/mqdefault.jpg",
+      "platform": "YouTube",
+      "initialMetrics": {
+        "views": 8598299,
+        "likes": 64183,
+        "comments": 1000,
+        "shares": 0
+      },
+      "updatedMetrics": {
+        "views": 8598666,
+        "likes": 64187,
+        "comments": 1000,
+        "shares": 0
+      },
+      "googleSheetId": "s_bblcafqmt",
+      "googleSheetRow": 20,
+      "history": [
+        {
+          "views": 8598299,
+          "likes": 64183,
+          "comments": 1000,
+          "shares": 0,
+          "timestamp": "2026-07-09T04:19:15.151Z"
+        },
+        {
+          "views": 8598299,
+          "likes": 64183,
+          "comments": 1000,
+          "shares": 0,
+          "timestamp": "2026-07-09T04:19:27.667Z"
+        },
+        {
+          "views": 8598447,
+          "likes": 64184,
+          "comments": 1000,
+          "shares": 0,
+          "timestamp": "2026-07-09T05:30:52.593Z"
+        },
+        {
+          "views": 8598666,
+          "likes": 64187,
+          "comments": 1000,
+          "shares": 0,
+          "timestamp": "2026-07-09T07:50:35.371Z"
+        }
+      ],
+      "status": "active",
+      "createdAt": "2026-07-09T04:19:15.186Z",
+      "lastUpdated": "2026-07-09T07:50:35.376Z"
+    },
+    {
+      "_id": "v_uu838mlse",
+      "user": "u_2yn3cwqjj",
+      "url": "https://youtu.be/cqORg6Y3Xv8?si=XRtwt28UYtklzaK1",
+      "title": "Daya के लिए Jethalal करेगा उपवास !  | TMKOC Movies | Taarak Mehta Ka Ooltah Chashmah |",
+      "thumbnailUrl": "https://img.youtube.com/vi/cqORg6Y3Xv8/mqdefault.jpg",
+      "platform": "YouTube",
+      "initialMetrics": {
+        "views": 2770806,
+        "likes": 13609,
+        "comments": 172,
+        "shares": 0
+      },
+      "updatedMetrics": {
+        "views": 2775390,
+        "likes": 13641,
+        "comments": 172,
+        "shares": 0
+      },
+      "googleSheetId": "s_38h0sur7u",
+      "googleSheetRow": 2,
+      "history": [
+        {
+          "views": 2770806,
+          "likes": 13609,
+          "comments": 172,
+          "shares": 0,
+          "timestamp": "2026-07-09T04:19:17.272Z"
+        },
+        {
+          "views": 2770806,
+          "likes": 13609,
+          "comments": 172,
+          "shares": 0,
+          "timestamp": "2026-07-09T04:22:55.086Z"
+        },
+        {
+          "views": 2771859,
+          "likes": 13617,
+          "comments": 172,
+          "shares": 0,
+          "timestamp": "2026-07-09T05:31:43.723Z"
+        },
+        {
+          "views": 2772793,
+          "likes": 13621,
+          "comments": 172,
+          "shares": 0,
+          "timestamp": "2026-07-09T06:08:50.343Z"
+        },
+        {
+          "views": 2775390,
+          "likes": 13641,
+          "comments": 172,
+          "shares": 0,
+          "timestamp": "2026-07-09T07:51:32.211Z"
+        }
+      ],
+      "status": "active",
+      "createdAt": "2026-07-09T04:19:17.304Z",
+      "lastUpdated": "2026-07-09T07:51:32.217Z"
+    },
+    {
+      "_id": "v_5f7pwm72z",
+      "user": "u_z253u7axe",
+      "url": "https://youtu.be/OHE3N7po9Dk?si=S6zLZW_PmO_vux_c",
+      "title": "YouTube Video",
+      "thumbnailUrl": "https://img.youtube.com/vi/OHE3N7po9Dk/mqdefault.jpg",
+      "platform": "YouTube",
+      "initialMetrics": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "updatedMetrics": {
+        "views": 96798,
+        "likes": 844,
+        "comments": 33,
+        "shares": 0
+      },
+      "googleSheetId": "s_bblcafqmt",
+      "googleSheetRow": 21,
+      "history": [
+        {
+          "views": 0,
+          "likes": 0,
+          "comments": 0,
+          "shares": 0,
+          "timestamp": "2026-07-09T04:19:18.440Z"
+        },
+        {
+          "views": 96145,
+          "likes": 842,
+          "comments": 31,
+          "shares": 0,
+          "timestamp": "2026-07-09T04:19:22.840Z"
+        },
+        {
+          "views": 96308,
+          "likes": 843,
+          "comments": 31,
+          "shares": 0,
+          "timestamp": "2026-07-09T05:30:48.645Z"
+        },
+        {
+          "views": 96798,
+          "likes": 844,
+          "comments": 33,
+          "shares": 0,
+          "timestamp": "2026-07-09T07:50:29.994Z"
+        }
+      ],
+      "status": "active",
+      "createdAt": "2026-07-09T04:19:18.472Z",
+      "lastUpdated": "2026-07-09T07:50:30.000Z"
+    },
+    {
+      "_id": "v_wcbixsofi",
+      "user": "u_2yn3cwqjj",
+      "url": "https://youtu.be/3L0tn-bmD0k?si=h-x7hhOvJVzZCMlV",
+      "title": "अंधेरी दुनिया में फंसी एक छोटी गरीब लड़की | Crime Patrol | True Crime 2026 | Savdhaan India Crime",
+      "thumbnailUrl": "https://img.youtube.com/vi/3L0tn-bmD0k/mqdefault.jpg",
+      "platform": "YouTube",
+      "initialMetrics": {
+        "views": 296146,
+        "likes": 1382,
+        "comments": 14,
+        "shares": 0
+      },
+      "updatedMetrics": {
+        "views": 297105,
+        "likes": 1391,
+        "comments": 14,
+        "shares": 0
+      },
+      "googleSheetId": "s_38h0sur7u",
+      "googleSheetRow": 3,
+      "history": [
+        {
+          "views": 296146,
+          "likes": 1382,
+          "comments": 14,
+          "shares": 0,
+          "timestamp": "2026-07-09T04:19:21.714Z"
+        },
+        {
+          "views": 296146,
+          "likes": 1382,
+          "comments": 14,
+          "shares": 0,
+          "timestamp": "2026-07-09T04:22:50.637Z"
+        },
+        {
+          "views": 296332,
+          "likes": 1388,
+          "comments": 14,
+          "shares": 0,
+          "timestamp": "2026-07-09T05:31:39.888Z"
+        },
+        {
+          "views": 296462,
+          "likes": 1389,
+          "comments": 14,
+          "shares": 0,
+          "timestamp": "2026-07-09T06:08:45.898Z"
+        },
+        {
+          "views": 297105,
+          "likes": 1391,
+          "comments": 14,
+          "shares": 0,
+          "timestamp": "2026-07-09T07:51:28.052Z"
+        }
+      ],
+      "status": "active",
+      "createdAt": "2026-07-09T04:19:21.740Z",
+      "lastUpdated": "2026-07-09T07:51:28.057Z"
+    },
+    {
+      "_id": "v_agy6i67dq",
+      "user": "u_2yn3cwqjj",
+      "url": "https://www.instagram.com/bhavikasharma53/p/DacQVkrDw71/?hl=en",
+      "title": "Instagram",
+      "thumbnailUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/736263360_18481735924100852_2970796374468669420_n.jpg?stp=c614.0.1843.1843a_dst-jpg_e35_s640x640_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=ydWy1OJArZsQ7kNvwHt-SXt&_nc_oc=AdrWLYCFZmSHa41sDegRoHPgkHamy-0M-bBKpfHGLdPkTpZReLds8wesm7jOdEyIQzYUSg3-SRk6pleP_ut_sXsO&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=sZ3NZy-yCRGv4ViIo5rh4g&_nc_ss=7060f&oh=00_AQBmV3f9SxyiDjndNHfoSGU9DnZSv2-5U8DGVLzLOI5Bww&oe=6A54ECD8",
+      "platform": "Instagram",
+      "initialMetrics": {
+        "views": 3825000,
+        "likes": 255000,
+        "comments": 2106,
+        "shares": 4212
+      },
+      "updatedMetrics": {
+        "views": 3885000,
+        "likes": 259000,
+        "comments": 2114,
+        "shares": 4228
+      },
+      "googleSheetId": "s_38h0sur7u",
+      "googleSheetRow": 4,
+      "history": [
+        {
+          "views": 3825000,
+          "likes": 255000,
+          "comments": 2106,
+          "shares": 4212,
+          "timestamp": "2026-07-09T04:19:24.540Z"
+        },
+        {
+          "views": 3825000,
+          "likes": 255000,
+          "comments": 2106,
+          "shares": 4212,
+          "timestamp": "2026-07-09T04:22:46.503Z"
+        },
+        {
+          "views": 3840000,
+          "likes": 256000,
+          "comments": 2107,
+          "shares": 4214,
+          "timestamp": "2026-07-09T05:31:33.978Z"
+        },
+        {
+          "views": 3855000,
+          "likes": 257000,
+          "comments": 2110,
+          "shares": 4220,
+          "timestamp": "2026-07-09T06:08:39.980Z"
+        },
+        {
+          "views": 3885000,
+          "likes": 259000,
+          "comments": 2114,
+          "shares": 4228,
+          "timestamp": "2026-07-09T07:51:24.484Z"
+        }
+      ],
+      "status": "active",
+      "createdAt": "2026-07-09T04:19:24.570Z",
+      "lastUpdated": "2026-07-09T07:51:24.488Z"
+    },
+    {
+      "_id": "v_8kpck1llp",
+      "user": "u_2yn3cwqjj",
+      "url": "https://youtu.be/IEa86Bf4VUc?si=gnuhYsLZZVUi_Sk8",
+      "title": "Korean university graduation day 🇰🇷👩‍🎓",
+      "thumbnailUrl": "https://img.youtube.com/vi/IEa86Bf4VUc/mqdefault.jpg",
+      "platform": "YouTube",
+      "initialMetrics": {
+        "views": 976919,
+        "likes": 31402,
+        "comments": 1100,
+        "shares": 0
+      },
+      "updatedMetrics": {
+        "views": 977191,
+        "likes": 31408,
+        "comments": 1100,
+        "shares": 0
+      },
+      "googleSheetId": "s_38h0sur7u",
+      "googleSheetRow": 5,
+      "history": [
+        {
+          "views": 976919,
+          "likes": 31402,
+          "comments": 1100,
+          "shares": 0,
+          "timestamp": "2026-07-09T04:19:29.031Z"
+        },
+        {
+          "views": 976919,
+          "likes": 31402,
+          "comments": 1100,
+          "shares": 0,
+          "timestamp": "2026-07-09T04:22:43.655Z"
+        },
+        {
+          "views": 976991,
+          "likes": 31404,
+          "comments": 1100,
+          "shares": 0,
+          "timestamp": "2026-07-09T05:31:30.559Z"
+        },
+        {
+          "views": 977036,
+          "likes": 31406,
+          "comments": 1100,
+          "shares": 0,
+          "timestamp": "2026-07-09T06:08:36.991Z"
+        },
+        {
+          "views": 977191,
+          "likes": 31408,
+          "comments": 1100,
+          "shares": 0,
+          "timestamp": "2026-07-09T07:51:21.256Z"
+        }
+      ],
+      "status": "active",
+      "createdAt": "2026-07-09T04:19:29.062Z",
+      "lastUpdated": "2026-07-09T07:51:21.261Z"
+    },
+    {
+      "_id": "v_w9evw8vuo",
+      "user": "u_2yn3cwqjj",
+      "url": "https://youtu.be/_bPAdQZOUIQ?si=JBo_8M7iEgKfWVNC",
+      "title": "Girl gang ka full dance",
+      "thumbnailUrl": "https://img.youtube.com/vi/_bPAdQZOUIQ/mqdefault.jpg",
+      "platform": "YouTube",
+      "initialMetrics": {
+        "views": 1449438,
+        "likes": 34190,
+        "comments": 435,
+        "shares": 0
+      },
+      "updatedMetrics": {
+        "views": 1461474,
+        "likes": 34389,
+        "comments": 437,
+        "shares": 0
+      },
+      "googleSheetId": "s_38h0sur7u",
+      "googleSheetRow": 6,
+      "history": [
+        {
+          "views": 1449438,
+          "likes": 34190,
+          "comments": 435,
+          "shares": 0,
+          "timestamp": "2026-07-09T04:19:33.166Z"
+        },
+        {
+          "views": 1449438,
+          "likes": 34195,
+          "comments": 435,
+          "shares": 0,
+          "timestamp": "2026-07-09T04:22:39.679Z"
+        },
+        {
+          "views": 1451393,
+          "likes": 34235,
+          "comments": 437,
+          "shares": 0,
+          "timestamp": "2026-07-09T05:31:26.626Z"
+        },
+        {
+          "views": 1453123,
+          "likes": 34276,
+          "comments": 437,
+          "shares": 0,
+          "timestamp": "2026-07-09T06:08:32.755Z"
+        },
+        {
+          "views": 1461474,
+          "likes": 34389,
+          "comments": 437,
+          "shares": 0,
+          "timestamp": "2026-07-09T07:51:17.039Z"
+        }
+      ],
+      "status": "active",
+      "createdAt": "2026-07-09T04:19:33.191Z",
+      "lastUpdated": "2026-07-09T07:51:17.044Z"
+    },
+    {
+      "_id": "v_vm1h0uzs5",
+      "user": "u_2yn3cwqjj",
+      "url": "https://youtu.be/V7nOnEMjV9M?si=W79TAfTXglozLdho",
+      "title": "The Affordable Glow Up Checklist To Become Unrecognisable In 30 Days",
+      "thumbnailUrl": "https://img.youtube.com/vi/V7nOnEMjV9M/mqdefault.jpg",
+      "platform": "YouTube",
+      "initialMetrics": {
+        "views": 122352,
+        "likes": 5240,
+        "comments": 227,
+        "shares": 0
+      },
+      "updatedMetrics": {
+        "views": 126140,
+        "likes": 5392,
+        "comments": 229,
+        "shares": 0
+      },
+      "googleSheetId": "s_38h0sur7u",
+      "googleSheetRow": 7,
+      "history": [
+        {
+          "views": 122352,
+          "likes": 5240,
+          "comments": 227,
+          "shares": 0,
+          "timestamp": "2026-07-09T04:19:37.623Z"
+        },
+        {
+          "views": 122415,
+          "likes": 5244,
+          "comments": 227,
+          "shares": 0,
+          "timestamp": "2026-07-09T04:22:35.703Z"
+        },
+        {
+          "views": 123354,
+          "likes": 5285,
+          "comments": 228,
+          "shares": 0,
+          "timestamp": "2026-07-09T05:31:22.450Z"
+        },
+        {
+          "views": 123934,
+          "likes": 5311,
+          "comments": 228,
+          "shares": 0,
+          "timestamp": "2026-07-09T06:08:28.373Z"
+        },
+        {
+          "views": 126140,
+          "likes": 5392,
+          "comments": 229,
+          "shares": 0,
+          "timestamp": "2026-07-09T07:51:12.673Z"
+        }
+      ],
+      "status": "active",
+      "createdAt": "2026-07-09T04:19:37.662Z",
+      "lastUpdated": "2026-07-09T07:51:12.677Z"
+    },
+    {
+      "_id": "v_s2hg7exi7",
+      "user": "u_2yn3cwqjj",
+      "url": "https://www.instagram.com/bhavikasharma53/p/DZxMx3LiGzp/?hl=en",
+      "title": "Instagram",
+      "thumbnailUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/727057592_18478349212100852_3553935504578358494_n.jpg?stp=c604.0.1815.1814a_dst-jpg_e35_s640x640_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=TfDEIx04e24Q7kNvwHziKH4&_nc_oc=AdqbYKdz9-R7zAvQnL4cWgdPP0JjJid8MqmJWXZhRZKeAytFyi0ByzGzzrk-Z7gnTB7stR5cV13h8GC1oNpFj_c8&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=6VLe_2uHwScC7f5Gy1d-Rw&_nc_ss=7060f&oh=00_AQAEML-l27shJZLmmVBzgBraVYyfZ2nyrr1k6gpgiaEAvA&oe=6A54F29B",
+      "platform": "Instagram",
+      "initialMetrics": {
+        "views": 1965000,
+        "likes": 131000,
+        "comments": 1511,
+        "shares": 3022
+      },
+      "updatedMetrics": {
+        "views": 1980000,
+        "likes": 132000,
+        "comments": 1511,
+        "shares": 3022
+      },
+      "googleSheetId": "s_38h0sur7u",
+      "googleSheetRow": 8,
+      "history": [
+        {
+          "views": 1965000,
+          "likes": 131000,
+          "comments": 1511,
+          "shares": 3022,
+          "timestamp": "2026-07-09T04:19:40.232Z"
+        },
+        {
+          "views": 1965000,
+          "likes": 131000,
+          "comments": 1511,
+          "shares": 3022,
+          "timestamp": "2026-07-09T04:22:31.167Z"
+        },
+        {
+          "views": 1965000,
+          "likes": 131000,
+          "comments": 1511,
+          "shares": 3022,
+          "timestamp": "2026-07-09T05:31:18.423Z"
+        },
+        {
+          "views": 1965000,
+          "likes": 131000,
+          "comments": 1511,
+          "shares": 3022,
+          "timestamp": "2026-07-09T06:08:23.323Z"
+        },
+        {
+          "views": 1980000,
+          "likes": 132000,
+          "comments": 1511,
+          "shares": 3022,
+          "timestamp": "2026-07-09T07:51:08.278Z"
+        }
+      ],
+      "status": "active",
+      "createdAt": "2026-07-09T04:19:40.260Z",
+      "lastUpdated": "2026-07-09T07:51:08.283Z"
+    },
+    {
+      "_id": "v_nyoq4gxec",
+      "user": "u_2yn3cwqjj",
+      "url": "https://www.instagram.com/bhavikasharma53/p/DWeCkNaDxd5/?hl=en",
+      "title": "Instagram",
+      "thumbnailUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/658669208_18463442917100852_1505443608788483592_n.jpg?stp=c288.0.864.864a_dst-jpg_e35_s640x640_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=rwp0XQ9AnKUQ7kNvwFxEiBg&_nc_oc=AdokDRMmW2fipf_8fsdvTyA-Bf3XEuPY9GQz8dMmzSmFK3LAgYGuvIVkixiz5_7wgwSbiMWhn6Y27REP7XAdZc67&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=rpqRJ0F3uhA5RIvE0W9Yhg&_nc_ss=7060f&oh=00_AQC8FGYZMSf7h7uXzjdDsEDJXevUNaH-8Ma-1fl1FnjG0Q&oe=6A550B01",
+      "platform": "Instagram",
+      "initialMetrics": {
+        "views": 1470000,
+        "likes": 98000,
+        "comments": 1280,
+        "shares": 2560
+      },
+      "updatedMetrics": {
+        "views": 1470000,
+        "likes": 98000,
+        "comments": 1280,
+        "shares": 2560
+      },
+      "googleSheetId": "s_38h0sur7u",
+      "googleSheetRow": 12,
+      "history": [
+        {
+          "views": 1470000,
+          "likes": 98000,
+          "comments": 1280,
+          "shares": 2560,
+          "timestamp": "2026-07-09T04:19:43.055Z"
+        },
+        {
+          "views": 1470000,
+          "likes": 98000,
+          "comments": 1280,
+          "shares": 2560,
+          "timestamp": "2026-07-09T04:22:28.615Z"
+        },
+        {
+          "views": 1470000,
+          "likes": 98000,
+          "comments": 1280,
+          "shares": 2560,
+          "timestamp": "2026-07-09T05:31:15.886Z"
+        },
+        {
+          "views": 1470000,
+          "likes": 98000,
+          "comments": 1280,
+          "shares": 2560,
+          "timestamp": "2026-07-09T06:08:20.425Z"
+        },
+        {
+          "views": 1470000,
+          "likes": 98000,
+          "comments": 1280,
+          "shares": 2560,
+          "timestamp": "2026-07-09T07:51:05.505Z"
+        }
+      ],
+      "status": "active",
+      "createdAt": "2026-07-09T04:19:43.096Z",
+      "lastUpdated": "2026-07-09T07:51:05.509Z"
+    },
+    {
+      "_id": "v_w85x5hbwq",
+      "user": "u_2yn3cwqjj",
+      "url": "https://youtu.be/wKXfJ7Dj-KY?si=Yc_UyYVEIclJfeSC",
+      "title": "Daya और Babita ने ली Madhavi के लिए New Dress | Taarak Mehta Ka Ooltah Chashmah | Full Movie",
+      "thumbnailUrl": "https://img.youtube.com/vi/wKXfJ7Dj-KY/mqdefault.jpg",
+      "platform": "YouTube",
+      "initialMetrics": {
+        "views": 1878020,
+        "likes": 9218,
+        "comments": 124,
+        "shares": 0
+      },
+      "updatedMetrics": {
+        "views": 1879582,
+        "likes": 9240,
+        "comments": 124,
+        "shares": 0
+      },
+      "googleSheetId": "s_38h0sur7u",
+      "googleSheetRow": 10,
+      "history": [
+        {
+          "views": 1878020,
+          "likes": 9218,
+          "comments": 124,
+          "shares": 0,
+          "timestamp": "2026-07-09T04:19:47.648Z"
+        },
+        {
+          "views": 1878033,
+          "likes": 9219,
+          "comments": 124,
+          "shares": 0,
+          "timestamp": "2026-07-09T04:22:26.151Z"
+        },
+        {
+          "views": 1878314,
+          "likes": 9225,
+          "comments": 124,
+          "shares": 0,
+          "timestamp": "2026-07-09T05:31:13.287Z"
+        },
+        {
+          "views": 1878514,
+          "likes": 9227,
+          "comments": 124,
+          "shares": 0,
+          "timestamp": "2026-07-09T06:08:16.543Z"
+        },
+        {
+          "views": 1879582,
+          "likes": 9240,
+          "comments": 124,
+          "shares": 0,
+          "timestamp": "2026-07-09T07:51:02.923Z"
+        }
+      ],
+      "status": "active",
+      "createdAt": "2026-07-09T04:19:47.680Z",
+      "lastUpdated": "2026-07-09T07:51:02.930Z"
+    },
+    {
+      "_id": "v_1fozm7q0f",
+      "user": "u_2yn3cwqjj",
+      "url": "https://www.instagram.com/bhavikasharma53/p/DXt4qxej2HN/?hl=en",
+      "title": "Instagram",
+      "thumbnailUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/660285335_18468908146100852_2425169732719941175_n.jpg?stp=c288.0.864.864a_dst-jpg_e35_s640x640_tt6&_nc_cat=108&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=nfWtKxoHn7gQ7kNvwHXNfXX&_nc_oc=AdrNvqqbXMCMkbPfHFdKwpAh-XOF71pM0QdVsaJyIRr8P2GpWOgQpL9LzPEKJck6qKtxcKR8vvF4qbdo1XKWK-Iz&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=XaVQWlukUuOnvh9WVp6qxA&_nc_ss=7060f&oh=00_AQATW8X_eZmKHC4wW4lDDoVzf7ODqijv05sa0hY5EzEmhw&oe=6A54EBA8",
+      "platform": "Instagram",
+      "initialMetrics": {
+        "views": 2400000,
+        "likes": 160000,
+        "comments": 1422,
+        "shares": 2844
+      },
+      "updatedMetrics": {
+        "views": 2400000,
+        "likes": 160000,
+        "comments": 1422,
+        "shares": 2844
+      },
+      "googleSheetId": "s_38h0sur7u",
+      "googleSheetRow": 11,
+      "history": [
+        {
+          "views": 2400000,
+          "likes": 160000,
+          "comments": 1422,
+          "shares": 2844,
+          "timestamp": "2026-07-09T04:19:50.578Z"
+        },
+        {
+          "views": 2400000,
+          "likes": 160000,
+          "comments": 1422,
+          "shares": 2844,
+          "timestamp": "2026-07-09T04:22:17.228Z"
+        },
+        {
+          "views": 2400000,
+          "likes": 160000,
+          "comments": 1422,
+          "shares": 2844,
+          "timestamp": "2026-07-09T05:31:09.505Z"
+        },
+        {
+          "views": 2400000,
+          "likes": 160000,
+          "comments": 1422,
+          "shares": 2844,
+          "timestamp": "2026-07-09T06:08:11.609Z"
+        },
+        {
+          "views": 2400000,
+          "likes": 160000,
+          "comments": 1422,
+          "shares": 2844,
+          "timestamp": "2026-07-09T07:50:58.654Z"
+        }
+      ],
+      "status": "active",
+      "createdAt": "2026-07-09T04:19:50.662Z",
+      "lastUpdated": "2026-07-09T07:50:58.659Z"
+    },
+    {
+      "_id": "v_4zhlx9l93",
+      "user": "u_2yn3cwqjj",
+      "url": "https://www.instagram.com/tanvi.dogra/p/DZEnRIajECm/?hl=en",
+      "title": "Instagram",
+      "thumbnailUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/711329690_17988889860003491_5508125060304498684_n.jpg?stp=cmp1_dst-jpg_e35_s640x640_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=zq7Q15z_u48Q7kNvwEqSpgL&_nc_oc=AdoQ7RBMk52TO79ovBr3FK5o3liSbdxsqDrjxd5zeobNDZ1C5hA1D-0w-Tn_Kio9OaN0rFG9ajHGTOuRbihgc6Zx&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=LD-qxcri4rJPiaVP5ldZ2Q&_nc_ss=7060f&oh=00_AQB5Apht_F6xQYUPifbWA60z3zc3Ij0NXQj0_Tu0fY3PRA&oe=6A550211",
+      "platform": "Instagram",
+      "initialMetrics": {
+        "views": 104880,
+        "likes": 6992,
+        "comments": 254,
+        "shares": 508
+      },
+      "updatedMetrics": {
+        "views": 104910,
+        "likes": 6994,
+        "comments": 254,
+        "shares": 508
+      },
+      "googleSheetId": "s_38h0sur7u",
+      "googleSheetRow": 13,
+      "history": [
+        {
+          "views": 104880,
+          "likes": 6992,
+          "comments": 254,
+          "shares": 508,
+          "timestamp": "2026-07-09T04:19:54.179Z"
+        },
+        {
+          "views": 104880,
+          "likes": 6992,
+          "comments": 254,
+          "shares": 508,
+          "timestamp": "2026-07-09T04:22:14.734Z"
+        },
+        {
+          "views": 104880,
+          "likes": 6992,
+          "comments": 254,
+          "shares": 508,
+          "timestamp": "2026-07-09T05:31:06.744Z"
+        },
+        {
+          "views": 104895,
+          "likes": 6993,
+          "comments": 254,
+          "shares": 508,
+          "timestamp": "2026-07-09T06:08:08.980Z"
+        },
+        {
+          "views": 104910,
+          "likes": 6994,
+          "comments": 254,
+          "shares": 508,
+          "timestamp": "2026-07-09T07:50:55.785Z"
+        }
+      ],
+      "status": "active",
+      "createdAt": "2026-07-09T04:19:54.197Z",
+      "lastUpdated": "2026-07-09T07:50:55.791Z"
+    },
+    {
+      "_id": "v_zjyfik3du",
+      "user": "u_2yn3cwqjj",
+      "url": "https://youtu.be/_fCSv6__p3A?si=lpxqtXhQRgjDK0w3",
+      "title": "#mumbai Crime | Crime Patrol | Real Crime | New Season | Police Series 2026",
+      "thumbnailUrl": "https://img.youtube.com/vi/_fCSv6__p3A/mqdefault.jpg",
+      "platform": "YouTube",
+      "initialMetrics": {
+        "views": 666,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "updatedMetrics": {
+        "views": 678,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "googleSheetId": "s_38h0sur7u",
+      "googleSheetRow": 14,
+      "history": [
+        {
+          "views": 666,
+          "likes": 0,
+          "comments": 0,
+          "shares": 0,
+          "timestamp": "2026-07-09T04:20:03.284Z"
+        },
+        {
+          "views": 666,
+          "likes": 0,
+          "comments": 0,
+          "shares": 0,
+          "timestamp": "2026-07-09T04:22:11.671Z"
+        },
+        {
+          "views": 674,
+          "likes": 1,
+          "comments": 1,
+          "shares": 0,
+          "timestamp": "2026-07-09T05:31:03.477Z"
+        },
+        {
+          "views": 671,
+          "likes": 0,
+          "comments": 0,
+          "shares": 0,
+          "timestamp": "2026-07-09T06:08:05.094Z"
+        },
+        {
+          "views": 678,
+          "likes": 0,
+          "comments": 0,
+          "shares": 0,
+          "timestamp": "2026-07-09T07:50:52.177Z"
+        }
+      ],
+      "status": "active",
+      "createdAt": "2026-07-09T04:20:03.451Z",
+      "lastUpdated": "2026-07-09T07:50:52.181Z"
+    },
+    {
+      "_id": "v_7me29m4ej",
+      "user": "u_2yn3cwqjj",
+      "url": "https://youtu.be/fKoAOWQHP0o?si=gSIgfGopI3-r7vgt",
+      "title": "I Met Ronaldo! #FIFAWorldCup #ad",
+      "thumbnailUrl": "https://img.youtube.com/vi/fKoAOWQHP0o/mqdefault.jpg",
+      "platform": "YouTube",
+      "initialMetrics": {
+        "views": 3410119,
+        "likes": 22409,
+        "comments": 2100,
+        "shares": 0
+      },
+      "updatedMetrics": {
+        "views": 3445471,
+        "likes": 22657,
+        "comments": 2100,
+        "shares": 0
+      },
+      "googleSheetId": "s_38h0sur7u",
+      "googleSheetRow": 15,
+      "history": [
+        {
+          "views": 3410119,
+          "likes": 22409,
+          "comments": 2100,
+          "shares": 0,
+          "timestamp": "2026-07-09T04:20:08.172Z"
+        },
+        {
+          "views": 3410768,
+          "likes": 22412,
+          "comments": 2100,
+          "shares": 0,
+          "timestamp": "2026-07-09T04:22:07.222Z"
+        },
+        {
+          "views": 3419439,
+          "likes": 22478,
+          "comments": 2100,
+          "shares": 0,
+          "timestamp": "2026-07-09T05:31:00.578Z"
+        },
+        {
+          "views": 3425614,
+          "likes": 22535,
+          "comments": 2100,
+          "shares": 0,
+          "timestamp": "2026-07-09T06:08:00.116Z"
+        },
+        {
+          "views": 3445471,
+          "likes": 22657,
+          "comments": 2100,
+          "shares": 0,
+          "timestamp": "2026-07-09T07:50:48.317Z"
+        }
+      ],
+      "status": "active",
+      "createdAt": "2026-07-09T04:20:08.244Z",
+      "lastUpdated": "2026-07-09T07:50:48.322Z"
+    },
+    {
+      "_id": "v_77ahlwwbq",
+      "user": "u_2yn3cwqjj",
+      "url": "https://youtu.be/BC9qCm6qg3Y?si=N7NzMRzewmUPb_bB",
+      "title": "Real Mukbang:) How to make kimchi! 👍 (Cold radish kimchi, cucumber kimchi) ☆ Japchae, Braised eggs",
+      "thumbnailUrl": "https://img.youtube.com/vi/BC9qCm6qg3Y/mqdefault.jpg",
+      "platform": "YouTube",
+      "initialMetrics": {
+        "views": 8598299,
+        "likes": 64183,
+        "comments": 1000,
+        "shares": 0
+      },
+      "updatedMetrics": {
+        "views": 8598666,
+        "likes": 64187,
+        "comments": 1000,
+        "shares": 0
+      },
+      "googleSheetId": "s_38h0sur7u",
+      "googleSheetRow": 20,
+      "history": [
+        {
+          "views": 8598299,
+          "likes": 64183,
+          "comments": 1000,
+          "shares": 0,
+          "timestamp": "2026-07-09T04:20:12.753Z"
+        },
+        {
+          "views": 8598299,
+          "likes": 64183,
+          "comments": 1000,
+          "shares": 0,
+          "timestamp": "2026-07-09T04:22:02.956Z"
+        },
+        {
+          "views": 8598447,
+          "likes": 64184,
+          "comments": 1000,
+          "shares": 0,
+          "timestamp": "2026-07-09T05:30:56.669Z"
+        },
+        {
+          "views": 8598496,
+          "likes": 64184,
+          "comments": 1000,
+          "shares": 0,
+          "timestamp": "2026-07-09T06:07:55.054Z"
+        },
+        {
+          "views": 8598666,
+          "likes": 64187,
+          "comments": 1000,
+          "shares": 0,
+          "timestamp": "2026-07-09T07:50:43.061Z"
+        }
+      ],
+      "status": "active",
+      "createdAt": "2026-07-09T04:20:12.802Z",
+      "lastUpdated": "2026-07-09T07:50:43.066Z"
+    },
+    {
+      "_id": "v_y02i8y6mv",
+      "user": "u_2yn3cwqjj",
+      "url": "https://www.instagram.com/tanvi.dogra/p/DYXA5OrDePT/?hl=en",
+      "title": "Instagram",
+      "thumbnailUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/700642191_18419992822131186_7233503929562716167_n.jpg?stp=cmp1_dst-jpg_e35_s640x640_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=a6zKe52PVkUQ7kNvwEX-bBj&_nc_oc=AdpPc3_2ii5D0ZHyYoeeX_DyU_H8R_T2SBAdICM687g4gA0IuE33tGUm9QyqzHUVAYCp8kTHcnuUgEvd3IamUGr4&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=PvyFxdd-XJVStUT2pLqgeA&_nc_ss=7060f&oh=00_AQB62BzSCl03a7NK1UQ9vMrJutLNqb84dff_B1LOffAI_g&oe=6A550525",
+      "platform": "Instagram",
+      "initialMetrics": {
+        "views": 615000,
+        "likes": 41000,
+        "comments": 702,
+        "shares": 1404
+      },
+      "updatedMetrics": {
+        "views": 615000,
+        "likes": 41000,
+        "comments": 702,
+        "shares": 1404
+      },
+      "googleSheetId": "s_38h0sur7u",
+      "googleSheetRow": 17,
+      "history": [
+        {
+          "views": 615000,
+          "likes": 41000,
+          "comments": 702,
+          "shares": 1404,
+          "timestamp": "2026-07-09T04:20:15.455Z"
+        },
+        {
+          "views": 615000,
+          "likes": 41000,
+          "comments": 702,
+          "shares": 1404,
+          "timestamp": "2026-07-09T04:21:55.280Z"
+        },
+        {
+          "views": 615000,
+          "likes": 41000,
+          "comments": 702,
+          "shares": 1404,
+          "timestamp": "2026-07-09T05:30:52.923Z"
+        },
+        {
+          "views": 615000,
+          "likes": 41000,
+          "comments": 702,
+          "shares": 1404,
+          "timestamp": "2026-07-09T06:07:50.032Z"
+        },
+        {
+          "views": 615000,
+          "likes": 41000,
+          "comments": 702,
+          "shares": 1404,
+          "timestamp": "2026-07-09T07:50:38.718Z"
+        }
+      ],
+      "status": "active",
+      "createdAt": "2026-07-09T04:20:15.616Z",
+      "lastUpdated": "2026-07-09T07:50:38.722Z"
+    },
+    {
+      "_id": "v_p0k4gniwz",
+      "user": "u_2yn3cwqjj",
+      "url": "https://media.licdn.com/dms/image/v2/D4D22AQFs9Pk4yN3gWQ/feedshare-shrink_1280/B4DZ9CBPIPJwAQ-/0/1783519048473?e=2147483647&v=beta&t=5DSVg4Th91hk2HC3N_AxYXEVop-veUs7czSNTsrJNI0",
+      "title": "Social Media Video",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1611162618071-b39a2ec055fb?w=300&q=80",
+      "platform": "Other",
+      "initialMetrics": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "updatedMetrics": {
+        "views": 130,
+        "likes": 8,
+        "comments": 2,
+        "shares": 0
+      },
+      "googleSheetId": "s_38h0sur7u",
+      "googleSheetRow": 18,
+      "history": [
+        {
+          "views": 0,
+          "likes": 0,
+          "comments": 0,
+          "shares": 0,
+          "timestamp": "2026-07-09T04:20:17.553Z"
+        },
+        {
+          "views": 25,
+          "likes": 1,
+          "comments": 1,
+          "shares": 0,
+          "timestamp": "2026-07-09T04:21:51.951Z"
+        },
+        {
+          "views": 59,
+          "likes": 2,
+          "comments": 1,
+          "shares": 0,
+          "timestamp": "2026-07-09T05:30:50.112Z"
+        },
+        {
+          "views": 95,
+          "likes": 7,
+          "comments": 1,
+          "shares": 0,
+          "timestamp": "2026-07-09T06:07:47.354Z"
+        },
+        {
+          "views": 130,
+          "likes": 8,
+          "comments": 2,
+          "shares": 0,
+          "timestamp": "2026-07-09T07:50:35.421Z"
+        }
+      ],
+      "status": "active",
+      "createdAt": "2026-07-09T04:20:17.662Z",
+      "lastUpdated": "2026-07-09T07:50:35.425Z"
+    },
+    {
+      "_id": "v_ar1trtgng",
+      "user": "u_2yn3cwqjj",
+      "url": "https://www.instagram.com/tanvi.dogra/p/DYfENuBCFJ0/?hl=en",
+      "title": "Instagram",
+      "thumbnailUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/703480600_18420489823131186_7570107840137077489_n.jpg?stp=c604.0.1815.1814a_dst-jpg_e35_s640x640_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=iLyfWXQfLJEQ7kNvwG2RCT5&_nc_oc=AdqzSDhl-H73FEfIhJXTpjUQSoG_VGhWcjiQuqbq7Gk7lBdAQkmVazqbPOQT3R58qMifATiwNx7OgYD8a04Z6uxA&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=Nmqkp9IAXFMvIT-vmOqRZg&_nc_ss=7060f&oh=00_AQDlgQgI8HrOSNDpO7EIEkiGCLzkKHZ1hupKQutVx93w8w&oe=6A55060A",
+      "platform": "Instagram",
+      "initialMetrics": {
+        "views": 225000,
+        "likes": 15000,
+        "comments": 405,
+        "shares": 810
+      },
+      "updatedMetrics": {
+        "views": 225000,
+        "likes": 15000,
+        "comments": 405,
+        "shares": 810
+      },
+      "googleSheetId": "s_38h0sur7u",
+      "googleSheetRow": 19,
+      "history": [
+        {
+          "views": 225000,
+          "likes": 15000,
+          "comments": 405,
+          "shares": 810,
+          "timestamp": "2026-07-09T04:20:21.351Z"
+        },
+        {
+          "views": 225000,
+          "likes": 15000,
+          "comments": 405,
+          "shares": 810,
+          "timestamp": "2026-07-09T04:21:50.138Z"
+        },
+        {
+          "views": 225000,
+          "likes": 15000,
+          "comments": 405,
+          "shares": 810,
+          "timestamp": "2026-07-09T05:30:48.235Z"
+        },
+        {
+          "views": 225000,
+          "likes": 15000,
+          "comments": 405,
+          "shares": 810,
+          "timestamp": "2026-07-09T06:07:45.381Z"
+        },
+        {
+          "views": 225000,
+          "likes": 15000,
+          "comments": 405,
+          "shares": 810,
+          "timestamp": "2026-07-09T07:50:33.351Z"
+        }
+      ],
+      "status": "active",
+      "createdAt": "2026-07-09T04:20:21.464Z",
+      "lastUpdated": "2026-07-09T07:50:33.356Z"
+    },
+    {
+      "_id": "v_vknlwkk5i",
+      "user": "u_2yn3cwqjj",
+      "url": "https://youtu.be/OHE3N7po9Dk?si=S6zLZW_PmO_vux_c",
+      "title": "ऐसा Taste पहले कभी नहीं चखा! | Shark Tank India S4 | Female Entrepreneurs",
+      "thumbnailUrl": "https://img.youtube.com/vi/OHE3N7po9Dk/mqdefault.jpg",
+      "platform": "YouTube",
+      "initialMetrics": {
+        "views": 96145,
+        "likes": 842,
+        "comments": 31,
+        "shares": 0
+      },
+      "updatedMetrics": {
+        "views": 96798,
+        "likes": 844,
+        "comments": 33,
+        "shares": 0
+      },
+      "googleSheetId": "s_38h0sur7u",
+      "googleSheetRow": 21,
+      "history": [
+        {
+          "views": 96145,
+          "likes": 842,
+          "comments": 31,
+          "shares": 0,
+          "timestamp": "2026-07-09T04:20:26.427Z"
+        },
+        {
+          "views": 96150,
+          "likes": 842,
+          "comments": 31,
+          "shares": 0,
+          "timestamp": "2026-07-09T04:21:44.288Z"
+        },
+        {
+          "views": 96308,
+          "likes": 843,
+          "comments": 31,
+          "shares": 0,
+          "timestamp": "2026-07-09T05:30:45.061Z"
+        },
+        {
+          "views": 96428,
+          "likes": 844,
+          "comments": 31,
+          "shares": 0,
+          "timestamp": "2026-07-09T06:07:42.273Z"
+        },
+        {
+          "views": 96798,
+          "likes": 844,
+          "comments": 33,
+          "shares": 0,
+          "timestamp": "2026-07-09T07:50:26.423Z"
+        }
+      ],
+      "status": "active",
+      "createdAt": "2026-07-09T04:20:26.736Z",
+      "lastUpdated": "2026-07-09T07:50:26.427Z"
+    },
+    {
+      "_id": "v_8nfspa5i5",
+      "user": "u_2yn3cwqjj",
+      "url": "https://youtu.be/KKSAepwHDuk?si=lHWMFXNY54klTkXq",
+      "title": "Doraemon New Episode 7-07-2026 - Episode 03 - Doraemon Cartoon - Doraemon In Hindi - Doraemon Movie",
+      "thumbnailUrl": "https://img.youtube.com/vi/KKSAepwHDuk/mqdefault.jpg",
+      "platform": "YouTube",
+      "initialMetrics": {
+        "views": 2157,
+        "likes": 14,
+        "comments": 2,
+        "shares": 0
+      },
+      "updatedMetrics": {
+        "views": 2311,
+        "likes": 16,
+        "comments": 2,
+        "shares": 0
+      },
+      "googleSheetId": "s_38h0sur7u",
+      "googleSheetRow": 22,
+      "history": [
+        {
+          "views": 2157,
+          "likes": 14,
+          "comments": 2,
+          "shares": 0,
+          "timestamp": "2026-07-09T04:21:36.453Z"
+        },
+        {
+          "views": 2157,
+          "likes": 14,
+          "comments": 2,
+          "shares": 0,
+          "timestamp": "2026-07-09T04:21:40.018Z"
+        },
+        {
+          "views": 2157,
+          "likes": 14,
+          "comments": 2,
+          "shares": 0,
+          "timestamp": "2026-07-09T05:30:40.905Z"
+        },
+        {
+          "views": 2197,
+          "likes": 15,
+          "comments": 2,
+          "shares": 0,
+          "timestamp": "2026-07-09T06:07:38.292Z"
+        },
+        {
+          "views": 2311,
+          "likes": 16,
+          "comments": 2,
+          "shares": 0,
+          "timestamp": "2026-07-09T07:50:20.492Z"
+        }
+      ],
+      "status": "active",
+      "createdAt": "2026-07-09T04:21:36.486Z",
+      "lastUpdated": "2026-07-09T07:50:20.497Z"
+    },
+    {
+      "_id": "v_id8bci8xc",
+      "user": "u_z253u7axe",
+      "url": "https://youtu.be/KKSAepwHDuk?si=lHWMFXNY54klTkXq",
+      "title": "Doraemon New Episode 7-07-2026 - Episode 03 - Doraemon Cartoon - Doraemon In Hindi - Doraemon Movie",
+      "thumbnailUrl": "https://img.youtube.com/vi/KKSAepwHDuk/mqdefault.jpg",
+      "platform": "YouTube",
+      "initialMetrics": {
+        "views": 2157,
+        "likes": 14,
+        "comments": 2,
+        "shares": 0
+      },
+      "updatedMetrics": {
+        "views": 2311,
+        "likes": 16,
+        "comments": 2,
+        "shares": 0
+      },
+      "googleSheetId": "s_bblcafqmt",
+      "googleSheetRow": 22,
+      "history": [
+        {
+          "views": 2157,
+          "likes": 14,
+          "comments": 2,
+          "shares": 0,
+          "timestamp": "2026-07-09T05:30:40.742Z"
+        },
+        {
+          "views": 2157,
+          "likes": 14,
+          "comments": 2,
+          "shares": 0,
+          "timestamp": "2026-07-09T05:30:44.795Z"
+        },
+        {
+          "views": 2311,
+          "likes": 16,
+          "comments": 2,
+          "shares": 0,
+          "timestamp": "2026-07-09T07:50:23.292Z"
+        }
+      ],
+      "status": "active",
+      "createdAt": "2026-07-09T05:30:40.779Z",
+      "lastUpdated": "2026-07-09T07:50:23.297Z"
+    },
+    {
+      "_id": "v_yvm2vhbbz",
+      "user": "u_2yn3cwqjj",
+      "url": "https://www.instagram.com/reel/DaX9b_mTk9E/?igsh=MThjeWl4MWV0ZjQ4eQ==",
+      "title": "Instagram",
+      "thumbnailUrl": "https://scontent.cdninstagram.com/v/t51.71878-15/729655009_1996193637677159_1492563371176474548_n.jpg?stp=cmp1_dst-jpg_e35_s640x640_tt6&_nc_cat=108&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=lZE9kG9zpwUQ7kNvwGhoh_u&_nc_oc=AdoJz1Y6HYfyQxqXxGg_Un1UdGUGsFIFWApq59l82QMqCybYYiVTnhjL70ABdI26-hJqivUXXhdh1WrSNWMDf8SK&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=8YTf1n1I9R9IgOwFWgMP9Q&_nc_ss=7060f&oh=00_AQAzfVG8DW82PJu3vLbazfut9bwcC_zLrbdapUEdBJg9VQ&oe=6A54FA96",
+      "platform": "Instagram",
+      "initialMetrics": {
+        "views": 147540,
+        "likes": 9836,
+        "comments": 88,
+        "shares": 176
+      },
+      "updatedMetrics": {
+        "views": 147720,
+        "likes": 9848,
+        "comments": 88,
+        "shares": 176
+      },
+      "history": [
+        {
+          "views": 147540,
+          "likes": 9836,
+          "comments": 88,
+          "shares": 176,
+          "timestamp": "2026-07-09T06:06:59.308Z"
+        },
+        {
+          "views": 147555,
+          "likes": 9837,
+          "comments": 88,
+          "shares": 176,
+          "timestamp": "2026-07-09T06:07:33.499Z"
+        },
+        {
+          "views": 147720,
+          "likes": 9848,
+          "comments": 88,
+          "shares": 176,
+          "timestamp": "2026-07-09T07:50:14.899Z"
+        }
+      ],
+      "status": "active",
+      "lastUpdated": "2026-07-09T07:50:14.905Z",
+      "createdAt": "2026-07-09T06:06:59.326Z",
+      "googleSheetId": "s_38h0sur7u",
+      "googleSheetRow": 24
+    },
+    {
+      "_id": "v_0vwqc2x59",
+      "user": "u_2yn3cwqjj",
+      "url": "https://youtu.be/YsIU7bBthKs?si=9j7bVrOjlnr-InUU",
+      "title": "Shinchan Ne Banayi GRAND Gujarati Thali MOM &amp; DAD ke sath 😍 Dhokla, Thepla &amp; Sev Tameta!",
+      "thumbnailUrl": "https://img.youtube.com/vi/YsIU7bBthKs/mqdefault.jpg",
+      "platform": "YouTube",
+      "initialMetrics": {
+        "views": 155156,
+        "likes": 1487,
+        "comments": 30,
+        "shares": 0
+      },
+      "updatedMetrics": {
+        "views": 160979,
+        "likes": 1557,
+        "comments": 30,
+        "shares": 0
+      },
+      "googleSheetId": "s_38h0sur7u",
+      "googleSheetRow": 23,
+      "history": [
+        {
+          "views": 155156,
+          "likes": 1487,
+          "comments": 30,
+          "shares": 0,
+          "timestamp": "2026-07-09T06:07:25.997Z"
+        },
+        {
+          "views": 155156,
+          "likes": 1487,
+          "comments": 30,
+          "shares": 0,
+          "timestamp": "2026-07-09T06:07:30.139Z"
+        },
+        {
+          "views": 160979,
+          "likes": 1557,
+          "comments": 30,
+          "shares": 0,
+          "timestamp": "2026-07-09T07:50:10.020Z"
+        }
+      ],
+      "status": "active",
+      "createdAt": "2026-07-09T06:07:26.052Z",
+      "lastUpdated": "2026-07-09T07:50:10.026Z"
+    },
+    {
+      "_id": "v_8dd3jvslb",
+      "user": "u_z253u7axe",
+      "url": "https://youtu.be/YsIU7bBthKs?si=9j7bVrOjlnr-InUU",
+      "title": "Shinchan Ne Banayi GRAND Gujarati Thali MOM &amp; DAD ke sath 😍 Dhokla, Thepla &amp; Sev Tameta!",
+      "thumbnailUrl": "https://img.youtube.com/vi/YsIU7bBthKs/mqdefault.jpg",
+      "platform": "YouTube",
+      "initialMetrics": {
+        "views": 160979,
+        "likes": 1557,
+        "comments": 30,
+        "shares": 0
+      },
+      "updatedMetrics": {
+        "views": 160979,
+        "likes": 1557,
+        "comments": 30,
+        "shares": 0
+      },
+      "googleSheetId": "s_bblcafqmt",
+      "googleSheetRow": 23,
+      "history": [
+        {
+          "views": 160979,
+          "likes": 1557,
+          "comments": 30,
+          "shares": 0,
+          "timestamp": "2026-07-09T07:50:11.064Z"
+        },
+        {
+          "views": 160979,
+          "likes": 1557,
+          "comments": 30,
+          "shares": 0,
+          "timestamp": "2026-07-09T07:50:16.650Z"
+        }
+      ],
+      "status": "active",
+      "createdAt": "2026-07-09T07:50:11.068Z",
+      "lastUpdated": "2026-07-09T07:50:16.655Z"
+    }
+  ],
+  "sheets": [
+    {
+      "_id": "s_bblcafqmt",
+      "user": "u_z253u7axe",
+      "spreadsheetId": "11JCnYmCaqW_szz4ox0UpDSDy3epfJv3v5L98RkWxEWA",
+      "spreadsheetUrl": "https://docs.google.com/spreadsheets/d/11JCnYmCaqW_szz4ox0UpDSDy3epfJv3v5L98RkWxEWA/edit?usp=sharing",
+      "sheetName": "Sheet1",
+      "serviceAccountJson": "{\n  \"type\": \"service_account\",\n  \"project_id\": \"coherent-bay-501809-g8\",\n  \"private_key_id\": \"a46b0ef0f4a5181e5d2035831ef38af38a2e930b\",\n  \"private_key\": \"-----BEGIN PRIVATE KEY-----\\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDUYX41fAJmiJQM\\nVvGX25lMBfFhcGidASCtiIUbC+nTJM1Wl2C+AdNFFA8TkjdKXvuUHwpYBhQlazhA\\nCfu9JdmYGc+DEzb+KacBjD4NfiQLBd+OyWJ78ZNYhorxGghWzr2DrEtHpqELjI/p\\ngB9ISHbbtGLngJPjHEBYrFJBpg9vy7MhKjartfFjGMawPEHWdCfrz6SmG06FDkEZ\\nn1HlnocJj0q2xSiArNZorEEduH+jg9phou2LtaWOff4nyERA03x1Dnw5ezahaS/d\\nqP2bEPh3qzl6CFRj9QFDdjNB/5rTLrqU/iTXgH2dRHEczTW8PL/8/nswXk6fzJJG\\nk/s5OB3pAgMBAAECggEANH+E+yOUVFQehI5ZWfhmhGxTpopq0aSdt0ev32eqfQ7z\\n0xvIRi+dUc4LjALwt+mStqKVo/ycrkM6vFm7aJ4ak4aNzRDK3zjcl31bOWqc7jyd\\nbmZJeenVSmS3o7GTriGcpxfH5AZEeN5eFJIfKXcAKn8Ek8UsyU8KeODf1GqAFloI\\nRa2TpQSPKrQSSe4UNfNVDkkBlvgmaMX7XVZZPVm/p2tgUaaYWiRsBh+6R9onGK4e\\n4nVEKe8GvcYLaO7RR5OyQFpY8X5HI0gCUP5hAMwwJDOFxKz8bibBs8YsVIxqthqn\\nQInBXGto3IwD9OHzmBipuw0OHevvywGLPfDmoAkroQKBgQD/Qeg7UlpelEGp4b68\\npkbhSjqlKiB3e4pry+OYOp2MHlz+/PBadUXqwvm2a53YsriWboukloMCzshvwNgN\\nHFHEtRebcRSvO+RJnoiGaUyn8R2megOHt/D4kIt8vYGFWwNfjGSS9i8PvL3hD3Un\\nJpbTYA7ItQGDwz7k2oE6HJCIRwKBgQDU/6e6lMWS0dK8QOT2BHFeX15i+h6IIvt8\\nweLPu6TeE5pX6MAKVcmu7PBayg3GHxuMgV++yy0QBq51Qr9BiM4sPrDSLxDOa3lu\\n4/eZuFJlQJXCqD1rBrwae+0dAD7ivDmOb522MQN4n5hhQztaJrXzYYnIz6bpF7Jd\\n6YroSYlwTwKBgD2s1Ar5VAKEOfVtKSP13Sx0PgVIT33vKLvxELXoe8auU3P886o3\\nqcQWhjWQfRwt2rHmVfFXuKIGCqIN62YHkK5Bv0l8oi3Q/9DV8FDhwnbVqH9f/dhe\\nFmhIrJtgQppRKlh82JQ1zZs01IA7tufVyB2cmRXfvlTy6RBsx0qeOkHjAoGAKX5Q\\nT4Gx54MmmXPO5rpA15Cek4uELSMbeNdQdwVn/bc15xA5cQn7Sy9vN1CLVGA0/q8p\\nVsK/2ZJjpAZHud2LxITF73wpuvym4FpansCQlJb7Vbtuk43xUPt5Wp/0oDjowX2u\\n7JIpyfLVPYVaZ5qI8Yu7yrnhGyF5pt/bJptEwfMCgYAxbHVOJi7rETEcyEhcLkQY\\n6Uut1KVD5h25i+QUf2U5pSBlk3fjbR3oIgbLK3g9yc12scNWBvsnbQ4p6cyJD3EF\\nTaTSFqslyd+hEdlNB+qQvVfvSV4kACKXmbMn3BXfcINYzJGZ0/GHjAcseWhlQhQU\\nNh1sjd6koAlsWrDr85I/Qw==\\n-----END PRIVATE KEY-----\\n\",\n  \"client_email\": \"socialmedia@coherent-bay-501809-g8.iam.gserviceaccount.com\",\n  \"client_id\": \"101312475949751677822\",\n  \"auth_uri\": \"https://accounts.google.com/o/oauth2/auth\",\n  \"token_uri\": \"https://oauth2.googleapis.com/token\",\n  \"auth_provider_x509_cert_url\": \"https://www.googleapis.com/oauth2/v1/certs\",\n  \"client_x509_cert_url\": \"https://www.googleapis.com/robot/v1/metadata/x509/socialmedia%40coherent-bay-501809-g8.iam.gserviceaccount.com\",\n  \"universe_domain\": \"googleapis.com\"\n}",
+      "lastSynced": "2026-07-09T07:51:39.804Z",
+      "status": "connected",
+      "createdAt": "2026-07-08T12:41:20.407Z",
+      "lastError": ""
+    },
+    {
+      "_id": "s_38h0sur7u",
+      "syncFrequency": "1h",
+      "user": "u_2yn3cwqjj",
+      "spreadsheetId": "11JCnYmCaqW_szz4ox0UpDSDy3epfJv3v5L98RkWxEWA",
+      "spreadsheetUrl": "https://docs.google.com/spreadsheets/d/11JCnYmCaqW_szz4ox0UpDSDy3epfJv3v5L98RkWxEWA/edit?usp=sharing",
+      "sheetName": "Sheet1",
+      "serviceAccountJson": "{\n  \"type\": \"service_account\",\n  \"project_id\": \"coherent-bay-501809-g8\",\n  \"private_key_id\": \"a46b0ef0f4a5181e5d2035831ef38af38a2e930b\",\n  \"private_key\": \"-----BEGIN PRIVATE KEY-----\\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDUYX41fAJmiJQM\\nVvGX25lMBfFhcGidASCtiIUbC+nTJM1Wl2C+AdNFFA8TkjdKXvuUHwpYBhQlazhA\\nCfu9JdmYGc+DEzb+KacBjD4NfiQLBd+OyWJ78ZNYhorxGghWzr2DrEtHpqELjI/p\\ngB9ISHbbtGLngJPjHEBYrFJBpg9vy7MhKjartfFjGMawPEHWdCfrz6SmG06FDkEZ\\nn1HlnocJj0q2xSiArNZorEEduH+jg9phou2LtaWOff4nyERA03x1Dnw5ezahaS/d\\nqP2bEPh3qzl6CFRj9QFDdjNB/5rTLrqU/iTXgH2dRHEczTW8PL/8/nswXk6fzJJG\\nk/s5OB3pAgMBAAECggEANH+E+yOUVFQehI5ZWfhmhGxTpopq0aSdt0ev32eqfQ7z\\n0xvIRi+dUc4LjALwt+mStqKVo/ycrkM6vFm7aJ4ak4aNzRDK3zjcl31bOWqc7jyd\\nbmZJeenVSmS3o7GTriGcpxfH5AZEeN5eFJIfKXcAKn8Ek8UsyU8KeODf1GqAFloI\\nRa2TpQSPKrQSSe4UNfNVDkkBlvgmaMX7XVZZPVm/p2tgUaaYWiRsBh+6R9onGK4e\\n4nVEKe8GvcYLaO7RR5OyQFpY8X5HI0gCUP5hAMwwJDOFxKz8bibBs8YsVIxqthqn\\nQInBXGto3IwD9OHzmBipuw0OHevvywGLPfDmoAkroQKBgQD/Qeg7UlpelEGp4b68\\npkbhSjqlKiB3e4pry+OYOp2MHlz+/PBadUXqwvm2a53YsriWboukloMCzshvwNgN\\nHFHEtRebcRSvO+RJnoiGaUyn8R2megOHt/D4kIt8vYGFWwNfjGSS9i8PvL3hD3Un\\nJpbTYA7ItQGDwz7k2oE6HJCIRwKBgQDU/6e6lMWS0dK8QOT2BHFeX15i+h6IIvt8\\nweLPu6TeE5pX6MAKVcmu7PBayg3GHxuMgV++yy0QBq51Qr9BiM4sPrDSLxDOa3lu\\n4/eZuFJlQJXCqD1rBrwae+0dAD7ivDmOb522MQN4n5hhQztaJrXzYYnIz6bpF7Jd\\n6YroSYlwTwKBgD2s1Ar5VAKEOfVtKSP13Sx0PgVIT33vKLvxELXoe8auU3P886o3\\nqcQWhjWQfRwt2rHmVfFXuKIGCqIN62YHkK5Bv0l8oi3Q/9DV8FDhwnbVqH9f/dhe\\nFmhIrJtgQppRKlh82JQ1zZs01IA7tufVyB2cmRXfvlTy6RBsx0qeOkHjAoGAKX5Q\\nT4Gx54MmmXPO5rpA15Cek4uELSMbeNdQdwVn/bc15xA5cQn7Sy9vN1CLVGA0/q8p\\nVsK/2ZJjpAZHud2LxITF73wpuvym4FpansCQlJb7Vbtuk43xUPt5Wp/0oDjowX2u\\n7JIpyfLVPYVaZ5qI8Yu7yrnhGyF5pt/bJptEwfMCgYAxbHVOJi7rETEcyEhcLkQY\\n6Uut1KVD5h25i+QUf2U5pSBlk3fjbR3oIgbLK3g9yc12scNWBvsnbQ4p6cyJD3EF\\nTaTSFqslyd+hEdlNB+qQvVfvSV4kACKXmbMn3BXfcINYzJGZ0/GHjAcseWhlQhQU\\nNh1sjd6koAlsWrDr85I/Qw==\\n-----END PRIVATE KEY-----\\n\",\n  \"client_email\": \"socialmedia@coherent-bay-501809-g8.iam.gserviceaccount.com\",\n  \"client_id\": \"101312475949751677822\",\n  \"auth_uri\": \"https://accounts.google.com/o/oauth2/auth\",\n  \"token_uri\": \"https://oauth2.googleapis.com/token\",\n  \"auth_provider_x509_cert_url\": \"https://www.googleapis.com/oauth2/v1/certs\",\n  \"client_x509_cert_url\": \"https://www.googleapis.com/robot/v1/metadata/x509/socialmedia%40coherent-bay-501809-g8.iam.gserviceaccount.com\",\n  \"universe_domain\": \"googleapis.com\"\n}",
+      "lastSynced": "2026-07-09T07:51:34.077Z",
+      "status": "connected",
+      "createdAt": "2026-07-09T04:19:12.905Z",
+      "lastError": ""
     }
   ]
 }

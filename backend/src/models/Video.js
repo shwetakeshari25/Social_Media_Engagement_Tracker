@@ -45,6 +45,14 @@ const VideoSchema = new mongoose.Schema({
     comments: { type: Number, default: 0 },
     shares: { type: Number, default: 0 }
   },
+  googleSheetId: {
+    type: String,
+    default: ''
+  },
+  googleSheetRow: {
+    type: Number,
+    default: 0
+  },
   history: [VideoHistorySchema],
   status: {
     type: String,

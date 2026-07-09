@@ -1,0 +1,5 @@
+pymongo==4.10.1
+google-auth==2.35.0
+google-api-python-client==2.150.0
+requests==2.34.2
+python-dotenv==1.2.2

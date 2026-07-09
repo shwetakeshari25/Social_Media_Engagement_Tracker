@@ -4,7 +4,9 @@ const cors = require('cors');
 const { connectDb } = require('./db');
 const { router: authRouter } = require('./routes/auth');
 const trackerRouter = require('./routes/tracker');
+const sheetsRouter = require('./routes/sheets');
 const { startSimulation } = require('./services/tracker');
+const { startSheetsScheduler } = require('./services/sheets_scheduler');
 
 const app = express();
 const PORT = process.env.PORT || 5000;
@@ -21,6 +23,7 @@ app.use(express.json());
 // Routes Setup
 app.use('/api/auth', authRouter);
 app.use('/api/tracker', trackerRouter);
+app.use('/api/sheets', sheetsRouter);
 
 // Health check endpoint
 app.get('/health', (req, res) => {
@@ -39,6 +42,9 @@ async function startServer() {
   // Start background monitoring/simulation engine
   const simInterval = parseInt(process.env.SIMULATION_INTERVAL_SEC || 30, 10);
   startSimulation(simInterval);
+
+  // Start background Google Sheets sync scheduler (checks every 1 minute)
+  startSheetsScheduler(1);
 
   // Bind server port
   app.listen(PORT, () => {
